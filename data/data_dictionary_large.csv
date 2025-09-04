@@ -1,0 +1,37 @@
+Table,Field,Description
+lots,lot_id,Unique lot identifier
+lots,product,Product (octanate/octanate_LV/fibryga)
+lots,line,Production line (Line_A/B/C)
+lots,lot_start_date,Lot start date
+lots,planned_release_date,Planned release date
+lots,disposition_date,Actual disposition date
+lots,status,Status (Released/In_Process/Rejected)
+lots,batch_size_L,Batch size in liters
+lots,campaign_id,Monthly campaign identifier
+qc_results,test_id,Unique test identifier
+qc_results,lot_id,Associated lot ID
+qc_results,product,Product name
+qc_results,line,Production line
+qc_results,test_name,QC parameter name
+qc_results,sample_date,Sample collection timestamp
+qc_results,result_date,Test result timestamp
+qc_results,review_date,QC review timestamp
+qc_results,result_value,Numerical test result
+qc_results,unit,Unit of measurement
+qc_results,lsl,Lower specification limit
+qc_results,usl,Upper specification limit
+qc_results,oos_flag,Out of spec flag (1=OOS)
+qc_results,reviewer,QC reviewer name
+qc_results,status,Test status
+qc_results,method_id,Test method identifier
+qc_results,instrument_id,Instrument used
+deviations,deviation_id,Unique deviation identifier
+deviations,lot_id,Associated lot ID
+deviations,category,Deviation category
+deviations,severity,Severity (Minor/Major/Critical)
+deviations,description,Deviation description
+deviations,opened_at,Timestamp opened
+deviations,closed_at,Timestamp closed (null if open)
+deviations,capa_flag,CAPA required flag
+deviations,assignee,Assigned investigator
+deviations,root_cause,Root cause (if determined)

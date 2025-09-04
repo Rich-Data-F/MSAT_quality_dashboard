@@ -1,0 +1,151 @@
+Set dataManagerTables = '','data_dictionary_large','deviations_large','lots_large','qc_results_large';
+//This block renames script tables from non generated section which conflict with the names of managed tables
+
+For each name in $(dataManagerTables) 
+    Let index = 0;
+    Let currentName = name; 
+    Let tableNumber = TableNumber(name); 
+    Let matches = 0; 
+    Do while not IsNull(tableNumber) or (index > 0 and matches > 0)
+        index = index + 1; 
+        currentName = name & '-' & index; 
+        tableNumber = TableNumber(currentName) 
+        matches = Match('$(currentName)', $(dataManagerTables));
+    Loop 
+    If index > 0 then 
+            Rename Table '$(name)' to '$(currentName)'; 
+    EndIf; 
+Next; 
+Set dataManagerTables = ;
+
+
+Unqualify *;
+
+[data_dictionary_large]:
+LOAD
+	[Table],
+	[Field],
+	[Description]
+ FROM [lib://DataFiles/data_dictionary_large.csv]
+(txt, codepage is 28591, embedded labels, delimiter is ',', msq);
+
+[deviations_large]:
+LOAD
+	[deviation_id],
+	[lot_id],
+	[category],
+	[severity],
+	[description],
+	Timestamp([opened_at]) as [opened_at],
+	If(Not IsNull([closed_at]) and Len(Trim([closed_at]))>0 and [closed_at] <> 'NaT' and [closed_at] <> '-', Timestamp([closed_at]), Null()) as closed_at,
+	[capa_flag],
+	[assignee],
+	[root_cause],
+    // Derived fields:
+    If(IsNull(closed_at), 'Open', 'Closed') as deviation_status,
+    // Age in days: if open, age until Today(); if closed, age until closed_at
+    If(IsNull(closed_at),
+       Floor(Today() - opened_at),
+       Floor(closed_at - opened_at)
+    ) as aging_days
+ FROM [lib://DataFiles/deviations_large.csv]
+(txt, codepage is 28591, embedded labels, delimiter is ',', msq);
+
+[lots_large]:
+LOAD
+	[lot_id],
+	[product],
+	[line],
+	[lot_start_date],
+	[planned_release_date],
+	[disposition_date],
+    disposition_date - lot_start_date as cycle_time_days,
+    If(disposition_date <= planned_release_date, 1, 0) as on_time_flag,
+	[status],
+	[batch_size_L],
+	[campaign_id]
+ FROM [lib://DataFiles/lots_large.csv]
+(txt, codepage is 28592, embedded labels, delimiter is ',', msq);
+
+[qc_results_large]:
+LOAD 
+    test_id,
+    lot_id,           // Key field for association
+    product as qc_product,
+    line as qc_line,
+    test_name,
+    Timestamp(sample_date, 'YYYY-MM-DD hh:mm:ss') as sample_date,
+    Timestamp(result_date, 'YYYY-MM-DD hh:mm:ss') as result_date,
+    Timestamp(review_date, 'YYYY-MM-DD hh:mm:ss') as review_date,
+    result_value,
+    unit,
+    lsl,
+    usl,
+    oos_flag,
+    reviewer,
+    status as qc_status,
+    method_id,
+    instrument_id
+FROM [lib://DataFiles/qc_results_large.csv] 
+(txt, codepage is 28591, embedded labels, delimiter is ',');
+/* ==== CONTROL LIMITS AND OOT FLAG (XmR approximation) ==== */
+
+/* 1) Baseline stats per parameter/product/line */
+XMR_STATS:
+LOAD
+    qc_product,
+    qc_line,
+    test_name,
+    Avg(result_value)                                 as x_bar_baseline,
+    // Approximation for demo; see note
+    0.8 * Stdev(result_value)                         as mr_bar_estimate
+RESIDENT [qc_results_large]
+GROUP BY qc_product, qc_line, test_name;
+
+/* 2) Join control limits onto QC table (Individuals chart) */
+LEFT JOIN ([qc_results_large])
+LOAD
+    qc_product,
+    qc_line,
+    test_name,
+    x_bar_baseline,
+    (x_bar_baseline + 2.66 * mr_bar_estimate)         as ucl_x,
+    (x_bar_baseline - 2.66 * mr_bar_estimate)         as lcl_x,
+    (3.267 * mr_bar_estimate)                         as ucl_mr
+RESIDENT XMR_STATS;
+
+DROP TABLE XMR_STATS;
+
+/* 3) Derive OOT flag via Western Electric Rule 1 (beyond control limits) */
+LEFT JOIN ([qc_results_large])
+LOAD
+    test_id,
+    If(result_value > ucl_x or result_value < lcl_x, 1, 0) as rule1_violation
+RESIDENT [qc_results_large];
+
+[autoCalendar]: 
+  DECLARE FIELD DEFINITION Tagged ('$date')
+FIELDS
+  Dual(Year($1), YearStart($1)) AS [Year] Tagged ('$axis', '$year'),
+  Dual('Q'&Num(Ceil(Num(Month($1))/3)),Num(Ceil(NUM(Month($1))/3),00)) AS [Quarter] Tagged ('$quarter', '$cyclic'),
+  Dual(Year($1)&'-Q'&Num(Ceil(Num(Month($1))/3)),QuarterStart($1)) AS [YearQuarter] Tagged ('$yearquarter', '$qualified'),
+  Dual('Q'&Num(Ceil(Num(Month($1))/3)),QuarterStart($1)) AS [_YearQuarter] Tagged ('$yearquarter', '$hidden', '$simplified'),
+  Month($1) AS [Month] Tagged ('$month', '$cyclic'),
+  Dual(Year($1)&'-'&Month($1), monthstart($1)) AS [YearMonth] Tagged ('$axis', '$yearmonth', '$qualified'),
+  Dual(Month($1), monthstart($1)) AS [_YearMonth] Tagged ('$axis', '$yearmonth', '$simplified', '$hidden'),
+  Dual('W'&Num(Week($1),00), Num(Week($1),00)) AS [Week] Tagged ('$weeknumber', '$cyclic'),
+  Date(Floor($1)) AS [Date] Tagged ('$axis', '$date', '$qualified'),
+  Date(Floor($1), 'D') AS [_Date] Tagged ('$axis', '$date', '$hidden', '$simplified'),
+  If (DayNumberOfYear($1) <= DayNumberOfYear(Today()), 1, 0) AS [InYTD] ,
+  Year(Today())-Year($1) AS [YearsAgo] ,
+  If (DayNumberOfQuarter($1) <= DayNumberOfQuarter(Today()),1,0) AS [InQTD] ,
+  4*Year(Today())+Ceil(Month(Today())/3)-4*Year($1)-Ceil(Month($1)/3) AS [QuartersAgo] ,
+  Ceil(Month(Today())/3)-Ceil(Month($1)/3) AS [QuarterRelNo] ,
+  If(Day($1)<=Day(Today()),1,0) AS [InMTD] ,
+  12*Year(Today())+Month(Today())-12*Year($1)-Month($1) AS [MonthsAgo] ,
+  Month(Today())-Month($1) AS [MonthRelNo] ,
+  If(WeekDay($1)<=WeekDay(Today()),1,0) AS [InWTD] ,
+  (WeekStart(Today())-WeekStart($1))/7 AS [WeeksAgo] ,
+  Week(Today())-Week($1) AS [WeekRelNo] ;
+
+DERIVE FIELDS FROM FIELDS [opened_at], [closed_at], [lot_start_date], [planned_release_date], [disposition_date], [sample_date], [result_date], [review_date] USING [autoCalendar] ;

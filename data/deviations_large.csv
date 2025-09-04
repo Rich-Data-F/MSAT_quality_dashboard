@@ -1,0 +1,1019 @@
+deviation_id,lot_id,category,severity,description,opened_at,closed_at,capa_flag,assignee,root_cause
+DEV00001,OCT1001,OOS_Result,Minor,"OOS result: protein_mg_ml = 6.9694 mg/ml (LSL:7.0, USL:10.0)",2023-01-04 08:00:00,2023-01-30 08:00:00,1,QA_Invest_2,Method
+DEV00001,OCT1002,OOS_Result,Minor,"OOS result: assay_percent = 82.5915 % (LSL:95.0, USL:110.0)",2023-01-03 13:00:00,2023-01-30 13:00:00,1,QA_Invest_2,Material
+DEV00001,FIB1003,OOS_Result,Major,"OOS result: fill_volume_ml = 8.8236 ml (LSL:9.5, USL:10.5)",2023-01-02 05:00:00,2023-03-13 05:00:00,1,MSAT_Lead,Material
+DEV00001,OCT1005,OOS_Result,Minor,"OOS result: pH = 6.607 pH (LSL:6.9, USL:7.4)",2023-01-03 19:00:00,2023-02-25 19:00:00,1,MSAT_Lead,Equipment
+DEV00001,OCT1005,OOS_Result,Minor,"OOS result: osmolality_mOsm_kg = 267.1538 mOsm/kg (LSL:270.0, USL:320.0)",2023-01-04 08:00:00,2023-02-03 08:00:00,0,QA_Invest_2,Under_Investigation
+DEV00001,OCT1006,OOS_Result,Minor,"OOS result: assay_percent = 88.0385 % (LSL:95.0, USL:110.0)",2023-01-03 15:00:00,2023-03-03 15:00:00,0,MSAT_Lead,Material
+DEV00001,OCT1010,OOS_Result,Minor,"OOS result: fill_volume_ml = 11.2883 ml (LSL:9.5, USL:10.5)",2023-01-04 23:00:00,2023-03-14 23:00:00,0,MSAT_Lead,Method
+DEV00001,OCT1011,OOS_Result,Major,"OOS result: osmolality_mOsm_kg = 266.819 mOsm/kg (LSL:270.0, USL:320.0)",2023-01-07 01:00:00,2023-02-07 01:00:00,1,QA_Invest_3,Environment
+DEV00001,OCT1012,OOS_Result,Minor,"OOS result: assay_percent = 111.8843 % (LSL:95.0, USL:110.0)",2023-01-05 17:00:00,2023-03-08 17:00:00,1,QA_Invest_3,Material
+DEV00001,OCT1017,OOS_Result,Minor,"OOS result: protein_mg_ml = 10.2524 mg/ml (LSL:7.0, USL:10.0)",2023-01-08 22:00:00,2023-02-02 22:00:00,0,QA_Manager,Method
+DEV00001,OCT1023,OOS_Result,Minor,"OOS result: protein_mg_ml = 10.0174 mg/ml (LSL:7.0, USL:10.0)",2023-01-11 15:00:00,2023-03-04 15:00:00,0,QA_Manager,Equipment
+DEV00001,OCT1025,OOS_Result,Minor,"OOS result: assay_percent = 91.8066 % (LSL:95.0, USL:110.0)",2023-01-09 14:00:00,2023-01-24 14:00:00,1,QA_Invest_2,Method
+DEV00001,FIB1028,OOS_Result,Major,"OOS result: assay_percent = 83.5744 % (LSL:95.0, USL:110.0)",2023-01-10 13:00:00,2023-04-05 13:00:00,1,QA_Manager,Equipment
+DEV00001,FIB1029,OOS_Result,Minor,"OOS result: protein_mg_ml = 11.5822 mg/ml (LSL:7.0, USL:10.0)",2023-01-10 16:00:00,2023-01-31 16:00:00,0,QA_Manager,Personnel
+DEV00001,FIB1061,OOS_Result,Critical,"OOS result: osmolality_mOsm_kg = 269.565 mOsm/kg (LSL:270.0, USL:320.0)",2023-01-20 18:00:00,2023-02-25 18:00:00,1,QA_Invest_3,Method
+DEV00001,OCT1064,OOS_Result,Minor,"OOS result: protein_mg_ml = 4.3377 mg/ml (LSL:7.0, USL:10.0)",2023-01-20 05:00:00,2023-02-03 05:00:00,0,QA_Manager,Method
+DEV00001,OCT1066,OOS_Result,Major,"OOS result: protein_mg_ml = 13.5926 mg/ml (LSL:7.0, USL:10.0)",2023-01-20 14:00:00,2023-02-10 14:00:00,1,QA_Invest_3,Under_Investigation
+DEV00001,OCT1067,OOS_Result,Major,"OOS result: osmolality_mOsm_kg = 263.0468 mOsm/kg (LSL:270.0, USL:320.0)",2023-01-21 14:00:00,2023-02-26 14:00:00,1,QA_Invest_1,Method
+DEV00001,OCT1068,OOS_Result,Major,"OOS result: osmolality_mOsm_kg = 327.6164 mOsm/kg (LSL:270.0, USL:320.0)",2023-01-21 04:00:00,2023-03-16 04:00:00,1,QA_Invest_1,Environment
+DEV00001,FIB1074,OOS_Result,Minor,"OOS result: fill_volume_ml = 10.8091 ml (LSL:9.5, USL:10.5)",2023-01-24 15:00:00,2023-02-19 15:00:00,1,QA_Invest_2,Method
+DEV00001,OCT1080,OOS_Result,Minor,"OOS result: protein_mg_ml = 6.8695 mg/ml (LSL:7.0, USL:10.0)",2023-01-27 08:00:00,2023-04-03 08:00:00,1,QA_Invest_3,Method
+DEV00001,OCT1088,OOS_Result,Critical,"OOS result: protein_mg_ml = 10.0056 mg/ml (LSL:7.0, USL:10.0)",2023-01-27 23:00:00,2023-03-17 23:00:00,1,MSAT_Lead,Equipment
+DEV00001,OCT1092,OOS_Result,Major,"OOS result: osmolality_mOsm_kg = 258.3072 mOsm/kg (LSL:270.0, USL:320.0)",2023-01-30 19:00:00,2023-04-09 19:00:00,1,QA_Manager,Under_Investigation
+DEV00001,OCT1095,OOS_Result,Critical,"OOS result: protein_mg_ml = 6.8413 mg/ml (LSL:7.0, USL:10.0)",2023-02-01 02:00:00,2023-04-13 02:00:00,1,QA_Invest_1,Personnel
+DEV00001,OCT1100,OOS_Result,Major,"OOS result: fill_volume_ml = 8.7804 ml (LSL:9.5, USL:10.5)",2023-01-29 19:00:00,2023-03-26 19:00:00,1,QA_Invest_3,Environment
+DEV00001,OCT1100,OOS_Result,Major,"OOS result: endotoxin_eu_ml = 0.5701 EU/ml (LSL:0.0, USL:0.5)",2023-02-01 05:00:00,2023-04-13 05:00:00,1,QA_Invest_3,Equipment
+DEV00001,OCT1103,OOS_Result,Major,"OOS result: pH = 6.6437 pH (LSL:6.9, USL:7.4)",2023-01-30 10:00:00,2023-03-21 10:00:00,1,QA_Manager,Environment
+DEV00001,OCT1107,OOS_Result,Minor,"OOS result: protein_mg_ml = 10.6059 mg/ml (LSL:7.0, USL:10.0)",2023-02-01 19:00:00,2023-03-31 19:00:00,0,QA_Manager,Method
+DEV00001,OCT1108,OOS_Result,Critical,"OOS result: protein_mg_ml = 10.5481 mg/ml (LSL:7.0, USL:10.0)",2023-02-03 00:00:00,2023-03-16 00:00:00,1,QA_Invest_3,Personnel
+DEV00001,OCT1129,OOS_Result,Minor,"OOS result: protein_mg_ml = 10.2306 mg/ml (LSL:7.0, USL:10.0)",2023-02-08 06:00:00,2023-04-03 06:00:00,1,QA_Manager,Personnel
+DEV00001,OCT1133,OOS_Result,Minor,"OOS result: osmolality_mOsm_kg = 266.1143 mOsm/kg (LSL:270.0, USL:320.0)",2023-02-11 06:00:00,2023-03-12 06:00:00,1,QA_Invest_3,Material
+DEV00001,OCT1135,OOS_Result,Major,"OOS result: particulates_per_ml = 64.069 count/ml (LSL:0.0, USL:50.0)",2023-02-13 05:00:00,2023-03-23 05:00:00,1,QA_Invest_3,Method
+DEV00001,FIB1139,OOS_Result,Critical,"OOS result: osmolality_mOsm_kg = 269.8255 mOsm/kg (LSL:270.0, USL:320.0)",2025-07-21 17:55:35,,1,QA_Invest_3,Under_Investigation
+DEV00001,OCT1140,OOS_Result,Minor,"OOS result: osmolality_mOsm_kg = 187.9299 mOsm/kg (LSL:270.0, USL:320.0)",2023-02-13 13:00:00,2023-04-05 13:00:00,1,QA_Manager,Environment
+DEV00001,OCT1144,OOS_Result,Minor,"OOS result: pH = 6.7092 pH (LSL:6.9, USL:7.4)",2023-02-13 14:00:00,2023-03-25 14:00:00,0,QA_Manager,Material
+DEV00001,OCT1147,OOS_Result,Minor,"OOS result: protein_mg_ml = 3.4968 mg/ml (LSL:7.0, USL:10.0)",2023-02-16 01:00:00,2023-04-14 01:00:00,1,QA_Manager,Method
+DEV00001,OCT1149,OOS_Result,Major,"OOS result: particulates_per_ml = 70.5686 count/ml (LSL:0.0, USL:50.0)",2023-02-16 11:00:00,2023-05-07 11:00:00,1,QA_Invest_3,Personnel
+DEV00001,FIB1152,OOS_Result,Minor,"OOS result: osmolality_mOsm_kg = 372.4065 mOsm/kg (LSL:270.0, USL:320.0)",2023-02-16 02:00:00,2023-04-28 02:00:00,1,QA_Invest_1,Personnel
+DEV00001,OCT1156,OOS_Result,Major,"OOS result: fill_volume_ml = 9.1868 ml (LSL:9.5, USL:10.5)",2023-02-16 14:00:00,2023-03-23 14:00:00,1,MSAT_Lead,Personnel
+DEV00001,OCT1157,OOS_Result,Minor,"OOS result: osmolality_mOsm_kg = 257.7449 mOsm/kg (LSL:270.0, USL:320.0)",2023-02-18 08:00:00,2023-04-17 08:00:00,1,QA_Invest_3,Under_Investigation
+DEV00001,FIB1161,OOS_Result,Major,"OOS result: particulates_per_ml = 76.8373 count/ml (LSL:0.0, USL:50.0)",2023-02-17 08:00:00,2023-05-07 08:00:00,1,MSAT_Lead,Material
+DEV00001,OCT1165,OOS_Result,Minor,"OOS result: protein_mg_ml = 10.3328 mg/ml (LSL:7.0, USL:10.0)",2023-02-20 18:00:00,2023-04-26 18:00:00,1,QA_Manager,Equipment
+DEV00001,FIB1170,OOS_Result,Minor,"OOS result: osmolality_mOsm_kg = 228.5477 mOsm/kg (LSL:270.0, USL:320.0)",2023-02-21 05:00:00,2023-05-21 05:00:00,0,QA_Invest_1,Environment
+DEV00001,OCT1173,OOS_Result,Minor,"OOS result: assay_percent = 88.0498 % (LSL:95.0, USL:110.0)",2023-02-20 12:00:00,2023-04-02 12:00:00,1,QA_Invest_1,Method
+DEV00001,FIB1178,OOS_Result,Critical,"OOS result: protein_mg_ml = 6.905 mg/ml (LSL:7.0, USL:10.0)",2023-02-24 21:00:00,2023-04-22 21:00:00,1,QA_Invest_3,Method
+DEV00001,FIB1182,OOS_Result,Major,"OOS result: osmolality_mOsm_kg = 320.332 mOsm/kg (LSL:270.0, USL:320.0)",2023-02-23 17:00:00,2023-05-24 17:00:00,1,QA_Invest_3,Material
+DEV00001,FIB1182,OOS_Result,Minor,"OOS result: fill_volume_ml = 9.035 ml (LSL:9.5, USL:10.5)",2023-02-23 06:00:00,2023-05-18 06:00:00,0,QA_Invest_3,Method
+DEV00001,OCT1189,OOS_Result,Minor,"OOS result: osmolality_mOsm_kg = 268.7944 mOsm/kg (LSL:270.0, USL:320.0)",2023-02-28 15:00:00,2023-05-09 15:00:00,1,QA_Invest_2,Under_Investigation
+DEV00001,FIB1192,OOS_Result,Major,"OOS result: osmolality_mOsm_kg = 261.8529 mOsm/kg (LSL:270.0, USL:320.0)",2023-02-26 18:00:00,2023-04-04 18:00:00,1,QA_Invest_3,Personnel
+DEV00001,OCT1196,OOS_Result,Minor,"OOS result: osmolality_mOsm_kg = 235.9508 mOsm/kg (LSL:270.0, USL:320.0)",2023-03-01 11:00:00,2023-03-29 11:00:00,0,QA_Manager,Personnel
+DEV00001,OCT1198,OOS_Result,Major,"OOS result: protein_mg_ml = 10.1107 mg/ml (LSL:7.0, USL:10.0)",2023-02-28 18:00:00,2023-05-04 18:00:00,1,QA_Invest_1,Material
+DEV00001,OCT1201,OOS_Result,Major,"OOS result: protein_mg_ml = 10.232 mg/ml (LSL:7.0, USL:10.0)",2023-03-02 04:00:00,2023-03-18 04:00:00,1,QA_Manager,Material
+DEV00001,FIB1219,OOS_Result,Critical,"OOS result: protein_mg_ml = 6.2022 mg/ml (LSL:7.0, USL:10.0)",2023-03-09 14:00:00,2023-05-11 14:00:00,1,QA_Invest_3,Environment
+DEV00001,OCT1225,OOS_Result,Minor,"OOS result: particulates_per_ml = 53.3338 count/ml (LSL:0.0, USL:50.0)",2023-03-11 11:00:00,2023-04-15 11:00:00,1,QA_Invest_3,Method
+DEV00001,FIB1227,OOS_Result,Minor,"OOS result: osmolality_mOsm_kg = 259.9438 mOsm/kg (LSL:270.0, USL:320.0)",2023-03-10 18:00:00,2023-04-28 18:00:00,0,QA_Invest_2,Method
+DEV00001,OCT1231,OOS_Result,Major,"OOS result: assay_percent = 121.0841 % (LSL:95.0, USL:110.0)",2023-03-10 00:00:00,2023-03-30 00:00:00,1,QA_Invest_1,Equipment
+DEV00001,OCT1231,OOS_Result,Minor,"OOS result: osmolality_mOsm_kg = 380.0124 mOsm/kg (LSL:270.0, USL:320.0)",2023-03-11 08:00:00,2023-04-13 08:00:00,0,QA_Invest_1,Personnel
+DEV00001,FIB1234,OOS_Result,Major,"OOS result: pH = 7.6469 pH (LSL:6.9, USL:7.4)",2023-03-10 16:00:00,2023-05-01 16:00:00,1,MSAT_Lead,Environment
+DEV00001,OCT1235,OOS_Result,Minor,"OOS result: protein_mg_ml = 13.6822 mg/ml (LSL:7.0, USL:10.0)",2023-03-13 09:00:00,2023-06-11 09:00:00,0,QA_Invest_1,Under_Investigation
+DEV00001,FIB1243,OOS_Result,Major,"OOS result: protein_mg_ml = 10.0199 mg/ml (LSL:7.0, USL:10.0)",2023-03-15 10:00:00,2023-05-11 10:00:00,1,QA_Manager,Environment
+DEV00001,FIB1250,OOS_Result,Major,"OOS result: assay_percent = 94.9309 % (LSL:95.0, USL:110.0)",2023-03-14 22:00:00,2023-05-08 22:00:00,1,QA_Manager,Personnel
+DEV00001,OCT1252,OOS_Result,Critical,"OOS result: pH = 7.4064 pH (LSL:6.9, USL:7.4)",2025-08-01 17:55:35,,1,MSAT_Lead,Under_Investigation
+DEV00001,OCT1252,OOS_Result,Minor,"OOS result: osmolality_mOsm_kg = 321.0513 mOsm/kg (LSL:270.0, USL:320.0)",2023-03-18 20:00:00,2023-06-12 20:00:00,0,MSAT_Lead,Method
+DEV00001,OCT1264,OOS_Result,Minor,"OOS result: osmolality_mOsm_kg = 211.9911 mOsm/kg (LSL:270.0, USL:320.0)",2023-03-20 02:00:00,2023-05-19 02:00:00,0,QA_Invest_2,Material
+DEV00001,OCT1265,OOS_Result,Major,"OOS result: assay_percent = 88.7638 % (LSL:95.0, USL:110.0)",2023-03-20 21:00:00,2023-04-17 21:00:00,1,QA_Invest_2,Under_Investigation
+DEV00001,OCT1268,OOS_Result,Minor,"OOS result: endotoxin_eu_ml = 0.5413 EU/ml (LSL:0.0, USL:0.5)",2023-03-21 03:00:00,2023-04-07 03:00:00,0,QA_Invest_3,Personnel
+DEV00001,OCT1274,OOS_Result,Minor,"OOS result: protein_mg_ml = 10.1593 mg/ml (LSL:7.0, USL:10.0)",2023-03-23 15:00:00,2023-06-10 15:00:00,1,QA_Invest_2,Equipment
+DEV00001,OCT1276,OOS_Result,Minor,"OOS result: osmolality_mOsm_kg = 326.7321 mOsm/kg (LSL:270.0, USL:320.0)",2023-03-22 22:00:00,2023-04-13 22:00:00,1,QA_Manager,Material
+DEV00001,OCT1279,OOS_Result,Minor,"OOS result: particulates_per_ml = 50.102 count/ml (LSL:0.0, USL:50.0)",2023-03-25 19:00:00,2023-05-12 19:00:00,0,QA_Invest_1,Environment
+DEV00001,OCT1302,OOS_Result,Major,"OOS result: protein_mg_ml = 10.4301 mg/ml (LSL:7.0, USL:10.0)",2023-03-31 03:00:00,2023-05-11 03:00:00,1,QA_Invest_1,Method
+DEV00001,OCT1313,OOS_Result,Minor,"OOS result: osmolality_mOsm_kg = 202.0922 mOsm/kg (LSL:270.0, USL:320.0)",2023-04-05 05:00:00,2023-06-26 05:00:00,1,QA_Invest_2,Equipment
+DEV00001,OCT1313,OOS_Result,Major,"OOS result: fill_volume_ml = 9.0941 ml (LSL:9.5, USL:10.5)",2023-04-03 04:00:00,2023-05-31 04:00:00,1,QA_Invest_2,Environment
+DEV00001,OCT1316,OOS_Result,Major,"OOS result: protein_mg_ml = 10.1798 mg/ml (LSL:7.0, USL:10.0)",2023-04-06 08:00:00,2023-05-28 08:00:00,1,QA_Invest_2,Method
+DEV00001,OCT1318,OOS_Result,Minor,"OOS result: protein_mg_ml = 6.9239 mg/ml (LSL:7.0, USL:10.0)",2023-04-04 14:00:00,2023-06-27 14:00:00,1,QA_Manager,Material
+DEV00001,OCT1320,OOS_Result,Major,"OOS result: osmolality_mOsm_kg = 321.2173 mOsm/kg (LSL:270.0, USL:320.0)",2023-04-07 16:00:00,2023-06-12 16:00:00,1,QA_Manager,Environment
+DEV00001,OCT1321,OOS_Result,Major,"OOS result: osmolality_mOsm_kg = 399.3057 mOsm/kg (LSL:270.0, USL:320.0)",2023-04-08 01:00:00,2023-06-20 01:00:00,1,QA_Invest_2,Material
+DEV00001,FIB1323,OOS_Result,Minor,"OOS result: osmolality_mOsm_kg = 363.1591 mOsm/kg (LSL:270.0, USL:320.0)",2023-04-07 11:00:00,2023-05-13 11:00:00,1,MSAT_Lead,Under_Investigation
+DEV00001,OCT1327,OOS_Result,Major,"OOS result: osmolality_mOsm_kg = 366.8659 mOsm/kg (LSL:270.0, USL:320.0)",2023-04-08 14:00:00,2023-04-28 14:00:00,1,QA_Invest_1,Material
+DEV00001,FIB1329,OOS_Result,Minor,"OOS result: osmolality_mOsm_kg = 334.819 mOsm/kg (LSL:270.0, USL:320.0)",2023-04-06 23:00:00,2023-05-10 23:00:00,1,QA_Manager,Personnel
+DEV00001,OCT1330,OOS_Result,Minor,"OOS result: pH = 7.8729 pH (LSL:6.9, USL:7.4)",2023-04-06 11:00:00,2023-06-27 11:00:00,0,MSAT_Lead,Material
+DEV00001,FIB1334,OOS_Result,Major,"OOS result: osmolality_mOsm_kg = 243.7687 mOsm/kg (LSL:270.0, USL:320.0)",2025-07-18 17:55:35,,1,QA_Manager,Under_Investigation
+DEV00001,FIB1334,OOS_Result,Major,"OOS result: protein_mg_ml = 6.7773 mg/ml (LSL:7.0, USL:10.0)",2023-04-09 04:00:00,2023-06-15 04:00:00,1,QA_Invest_3,Material
+DEV00001,OCT1336,OOS_Result,Minor,"OOS result: protein_mg_ml = 2.6538 mg/ml (LSL:7.0, USL:10.0)",2023-04-10 08:00:00,2023-05-21 08:00:00,1,QA_Invest_2,Equipment
+DEV00001,OCT1341,OOS_Result,Major,"OOS result: pH = 6.7979 pH (LSL:6.9, USL:7.4)",2023-04-10 11:00:00,2023-05-06 11:00:00,1,QA_Invest_3,Under_Investigation
+DEV00001,OCT1349,OOS_Result,Major,"OOS result: assay_percent = 82.3718 % (LSL:95.0, USL:110.0)",2023-04-11 01:00:00,2023-07-01 01:00:00,1,QA_Invest_2,Environment
+DEV00001,OCT1349,OOS_Result,Minor,"OOS result: protein_mg_ml = 2.6613 mg/ml (LSL:7.0, USL:10.0)",2023-04-13 00:00:00,2023-05-31 00:00:00,1,QA_Invest_2,Under_Investigation
+DEV00001,OCT1358,OOS_Result,Major,"OOS result: assay_percent = 110.7575 % (LSL:95.0, USL:110.0)",2023-04-13 02:00:00,2023-07-05 02:00:00,1,QA_Manager,Method
+DEV00001,OCT1379,OOS_Result,Minor,"OOS result: pH = 7.4514 pH (LSL:6.9, USL:7.4)",2023-04-18 06:00:00,2023-05-15 06:00:00,0,QA_Invest_2,Equipment
+DEV00001,OCT1386,OOS_Result,Minor,"OOS result: osmolality_mOsm_kg = 393.9916 mOsm/kg (LSL:270.0, USL:320.0)",2023-04-22 12:00:00,2023-06-09 12:00:00,1,QA_Manager,Personnel
+DEV00001,OCT1387,OOS_Result,Major,"OOS result: protein_mg_ml = 6.82 mg/ml (LSL:7.0, USL:10.0)",2023-04-21 03:00:00,2023-06-16 03:00:00,1,QA_Invest_3,Method
+DEV00001,OCT1388,OOS_Result,Minor,"OOS result: assay_percent = 84.2363 % (LSL:95.0, USL:110.0)",2023-04-21 10:00:00,2023-06-08 10:00:00,1,QA_Invest_3,Material
+DEV00001,OCT1398,OOS_Result,Major,"OOS result: assay_percent = 84.8947 % (LSL:95.0, USL:110.0)",2023-04-23 04:00:00,2023-06-25 04:00:00,1,QA_Invest_1,Environment
+DEV00001,OCT1408,OOS_Result,Critical,"OOS result: fill_volume_ml = 11.1283 ml (LSL:9.5, USL:10.5)",2025-07-18 17:55:35,,1,QA_Invest_2,Under_Investigation
+DEV00001,OCT1412,OOS_Result,Major,"OOS result: assay_percent = 94.807 % (LSL:95.0, USL:110.0)",2023-04-28 16:00:00,2023-05-27 16:00:00,1,QA_Manager,Equipment
+DEV00001,OCT1412,OOS_Result,Minor,"OOS result: pH = 7.678 pH (LSL:6.9, USL:7.4)",2023-04-30 17:00:00,2023-06-30 17:00:00,0,QA_Manager,Under_Investigation
+DEV00001,FIB1413,OOS_Result,Minor,"OOS result: particulates_per_ml = 56.4099 count/ml (LSL:0.0, USL:50.0)",2023-05-02 23:00:00,2023-05-18 23:00:00,0,QA_Manager,Environment
+DEV00001,OCT1421,OOS_Result,Minor,"OOS result: assay_percent = 94.1248 % (LSL:95.0, USL:110.0)",2023-05-03 00:00:00,2023-06-29 00:00:00,0,QA_Invest_2,Under_Investigation
+DEV00001,OCT1426,OOS_Result,Major,"OOS result: fill_volume_ml = 10.5613 ml (LSL:9.5, USL:10.5)",2023-05-04 00:00:00,2023-06-24 00:00:00,1,QA_Invest_2,Environment
+DEV00001,OCT1427,OOS_Result,Minor,"OOS result: osmolality_mOsm_kg = 238.4837 mOsm/kg (LSL:270.0, USL:320.0)",2023-05-04 03:00:00,2023-05-23 03:00:00,0,MSAT_Lead,Under_Investigation
+DEV00001,OCT1431,OOS_Result,Minor,"OOS result: assay_percent = 94.57 % (LSL:95.0, USL:110.0)",2023-05-04 14:00:00,2023-06-07 14:00:00,1,QA_Manager,Environment
+DEV00001,OCT1432,OOS_Result,Minor,"OOS result: protein_mg_ml = 6.5093 mg/ml (LSL:7.0, USL:10.0)",2023-05-05 19:00:00,2023-08-03 19:00:00,1,QA_Manager,Environment
+DEV00001,FIB1436,OOS_Result,Minor,"OOS result: osmolality_mOsm_kg = 320.1494 mOsm/kg (LSL:270.0, USL:320.0)",2023-05-06 15:00:00,2023-06-20 15:00:00,0,MSAT_Lead,Method
+DEV00001,OCT1439,OOS_Result,Major,"OOS result: osmolality_mOsm_kg = 321.1469 mOsm/kg (LSL:270.0, USL:320.0)",2023-05-07 05:00:00,2023-07-10 05:00:00,1,QA_Invest_2,Environment
+DEV00001,OCT1440,OOS_Result,Critical,"OOS result: pH = 6.5536 pH (LSL:6.9, USL:7.4)",2023-05-07 06:00:00,2023-06-22 06:00:00,1,QA_Invest_1,Under_Investigation
+DEV00001,OCT1444,OOS_Result,Minor,"OOS result: particulates_per_ml = 68.2421 count/ml (LSL:0.0, USL:50.0)",2023-05-07 16:00:00,2023-06-25 16:00:00,1,QA_Invest_1,Equipment
+DEV00001,OCT1445,OOS_Result,Critical,"OOS result: osmolality_mOsm_kg = 233.9345 mOsm/kg (LSL:270.0, USL:320.0)",2023-05-11 00:00:00,2023-07-31 00:00:00,1,QA_Invest_1,Under_Investigation
+DEV00001,OCT1450,OOS_Result,Major,"OOS result: osmolality_mOsm_kg = 264.4463 mOsm/kg (LSL:270.0, USL:320.0)",2023-05-10 12:00:00,2023-06-13 12:00:00,1,QA_Manager,Method
+DEV00001,OCT1459,OOS_Result,Minor,"OOS result: osmolality_mOsm_kg = 320.7117 mOsm/kg (LSL:270.0, USL:320.0)",2023-05-14 07:00:00,2023-07-05 07:00:00,0,QA_Invest_1,Under_Investigation
+DEV00001,OCT1461,OOS_Result,Critical,"OOS result: protein_mg_ml = 10.0291 mg/ml (LSL:7.0, USL:10.0)",2023-05-14 08:00:00,2023-07-22 08:00:00,1,QA_Invest_3,Material
+DEV00001,OCT1462,OOS_Result,Minor,"OOS result: fill_volume_ml = 8.9925 ml (LSL:9.5, USL:10.5)",2023-05-12 11:00:00,2023-07-08 11:00:00,0,MSAT_Lead,Under_Investigation
+DEV00001,OCT1463,OOS_Result,Critical,"OOS result: assay_percent = 110.5315 % (LSL:95.0, USL:110.0)",2023-05-14 11:00:00,2023-07-23 11:00:00,1,MSAT_Lead,Environment
+DEV00001,FIB1468,OOS_Result,Minor,"OOS result: protein_mg_ml = 6.7781 mg/ml (LSL:7.0, USL:10.0)",2023-05-15 21:00:00,2023-07-02 21:00:00,1,MSAT_Lead,Personnel
+DEV00001,OCT1469,OOS_Result,Minor,"OOS result: pH = 7.616 pH (LSL:6.9, USL:7.4)",2023-05-13 17:00:00,2023-06-01 17:00:00,1,QA_Invest_3,Under_Investigation
+DEV00001,OCT1469,OOS_Result,Major,"OOS result: osmolality_mOsm_kg = 406.3602 mOsm/kg (LSL:270.0, USL:320.0)",2023-05-15 20:00:00,2023-07-08 20:00:00,1,QA_Manager,Environment
+DEV00001,OCT1471,OOS_Result,Minor,"OOS result: fill_volume_ml = 9.0589 ml (LSL:9.5, USL:10.5)",2023-05-14 05:00:00,2023-08-01 05:00:00,1,QA_Invest_2,Material
+DEV00001,OCT1475,OOS_Result,Critical,"OOS result: fill_volume_ml = 10.7231 ml (LSL:9.5, USL:10.5)",2023-05-15 00:00:00,2023-07-31 00:00:00,1,QA_Invest_2,Environment
+DEV00001,OCT1482,OOS_Result,Major,"OOS result: osmolality_mOsm_kg = 388.504 mOsm/kg (LSL:270.0, USL:320.0)",2023-05-18 16:00:00,2023-08-11 16:00:00,1,QA_Manager,Under_Investigation
+DEV00001,OCT1482,OOS_Result,Major,"OOS result: protein_mg_ml = 10.232 mg/ml (LSL:7.0, USL:10.0)",2023-05-17 23:00:00,2023-07-16 23:00:00,1,QA_Invest_3,Under_Investigation
+DEV00001,OCT1483,OOS_Result,Critical,"OOS result: assay_percent = 85.9132 % (LSL:95.0, USL:110.0)",2023-05-18 00:00:00,2023-07-17 00:00:00,1,QA_Manager,Environment
+DEV00001,FIB1484,OOS_Result,Minor,"OOS result: protein_mg_ml = 10.078 mg/ml (LSL:7.0, USL:10.0)",2023-05-19 09:00:00,2023-08-06 09:00:00,0,QA_Invest_1,Environment
+DEV00001,OCT1485,OOS_Result,Major,"OOS result: osmolality_mOsm_kg = 266.5209 mOsm/kg (LSL:270.0, USL:320.0)",2023-05-20 17:00:00,2023-06-23 17:00:00,1,QA_Manager,Method
+DEV00001,OCT1487,OOS_Result,Minor,"OOS result: pH = 7.6659 pH (LSL:6.9, USL:7.4)",2023-05-19 11:00:00,2023-08-16 11:00:00,0,QA_Manager,Under_Investigation
+DEV00001,OCT1494,OOS_Result,Major,"OOS result: fill_volume_ml = 11.182 ml (LSL:9.5, USL:10.5)",2023-05-20 20:00:00,2023-07-09 20:00:00,1,QA_Manager,Personnel
+DEV00001,FIB1497,OOS_Result,Major,"OOS result: osmolality_mOsm_kg = 268.0925 mOsm/kg (LSL:270.0, USL:320.0)",2023-05-22 02:00:00,2023-07-10 02:00:00,1,QA_Manager,Material
+DEV00001,OCT1499,OOS_Result,Major,"OOS result: osmolality_mOsm_kg = 322.552 mOsm/kg (LSL:270.0, USL:320.0)",2023-05-23 00:00:00,2023-07-08 00:00:00,1,QA_Invest_1,Personnel
+DEV00001,FIB1502,OOS_Result,Major,"OOS result: fill_volume_ml = 11.2882 ml (LSL:9.5, USL:10.5)",2023-05-22 09:00:00,2023-08-04 09:00:00,1,QA_Invest_3,Environment
+DEV00001,OCT1503,OOS_Result,Critical,"OOS result: protein_mg_ml = 10.1543 mg/ml (LSL:7.0, USL:10.0)",2023-05-23 11:00:00,2023-06-07 11:00:00,1,MSAT_Lead,Material
+DEV00001,OCT1504,OOS_Result,Major,"OOS result: fill_volume_ml = 9.1702 ml (LSL:9.5, USL:10.5)",2023-05-23 04:00:00,2023-07-09 04:00:00,1,QA_Manager,Material
+DEV00001,OCT1504,OOS_Result,Minor,"OOS result: protein_mg_ml = 10.1767 mg/ml (LSL:7.0, USL:10.0)",2023-05-24 16:00:00,2023-08-02 16:00:00,0,QA_Manager,Personnel
+DEV00001,FIB1506,OOS_Result,Minor,"OOS result: protein_mg_ml = 2.7191 mg/ml (LSL:7.0, USL:10.0)",2023-05-25 06:00:00,2023-08-21 06:00:00,1,MSAT_Lead,Method
+DEV00001,OCT1507,OOS_Result,Minor,"OOS result: pH = 6.5809 pH (LSL:6.9, USL:7.4)",2023-05-22 19:00:00,2023-06-30 19:00:00,0,QA_Invest_3,Material
+DEV00001,OCT1508,OOS_Result,Major,"OOS result: protein_mg_ml = 6.7481 mg/ml (LSL:7.0, USL:10.0)",2023-05-25 06:00:00,2023-08-02 06:00:00,1,QA_Invest_3,Environment
+DEV00001,FIB1516,OOS_Result,Major,"OOS result: osmolality_mOsm_kg = 253.514 mOsm/kg (LSL:270.0, USL:320.0)",2023-05-28 00:00:00,2023-07-21 00:00:00,1,QA_Invest_3,Personnel
+DEV00001,FIB1530,OOS_Result,Minor,"OOS result: protein_mg_ml = 11.0945 mg/ml (LSL:7.0, USL:10.0)",2023-06-01 00:00:00,2023-07-14 00:00:00,0,QA_Invest_1,Environment
+DEV00001,OCT1542,OOS_Result,Minor,"OOS result: protein_mg_ml = 12.4735 mg/ml (LSL:7.0, USL:10.0)",2023-06-03 18:00:00,2023-08-17 18:00:00,1,QA_Invest_1,Environment
+DEV00001,FIB1543,OOS_Result,Major,"OOS result: protein_mg_ml = 6.9252 mg/ml (LSL:7.0, USL:10.0)",2023-06-04 11:00:00,2023-07-09 11:00:00,1,QA_Invest_2,Material
+DEV00001,OCT1554,OOS_Result,Major,"OOS result: assay_percent = 85.1091 % (LSL:95.0, USL:110.0)",2023-06-05 23:00:00,2023-08-09 23:00:00,1,MSAT_Lead,Equipment
+DEV00001,OCT1554,OOS_Result,Major,"OOS result: fill_volume_ml = 11.0274 ml (LSL:9.5, USL:10.5)",2023-06-05 15:00:00,2023-09-02 15:00:00,1,MSAT_Lead,Environment
+DEV00001,OCT1557,OOS_Result,Minor,"OOS result: osmolality_mOsm_kg = 353.9662 mOsm/kg (LSL:270.0, USL:320.0)",2023-06-08 17:00:00,2023-08-17 17:00:00,0,QA_Manager,Method
+DEV00001,OCT1565,OOS_Result,Major,"OOS result: protein_mg_ml = 10.0124 mg/ml (LSL:7.0, USL:10.0)",2023-06-12 00:00:00,2023-08-27 00:00:00,1,QA_Manager,Material
+DEV00001,OCT1566,OOS_Result,Major,"OOS result: protein_mg_ml = 10.1122 mg/ml (LSL:7.0, USL:10.0)",2023-06-12 19:00:00,2023-08-08 19:00:00,1,MSAT_Lead,Equipment
+DEV00001,FIB1568,OOS_Result,Major,"OOS result: protein_mg_ml = 11.0216 mg/ml (LSL:7.0, USL:10.0)",2023-06-12 03:00:00,2023-08-02 03:00:00,1,QA_Invest_2,Personnel
+DEV00001,OCT1570,OOS_Result,Minor,"OOS result: protein_mg_ml = 6.8378 mg/ml (LSL:7.0, USL:10.0)",2023-06-13 20:00:00,2023-09-07 20:00:00,0,QA_Invest_2,Personnel
+DEV00001,OCT1572,OOS_Result,Minor,"OOS result: osmolality_mOsm_kg = 267.5473 mOsm/kg (LSL:270.0, USL:320.0)",2023-06-15 21:00:00,2023-08-13 21:00:00,0,QA_Invest_3,Environment
+DEV00001,OCT1574,OOS_Result,Major,"OOS result: osmolality_mOsm_kg = 326.0392 mOsm/kg (LSL:270.0, USL:320.0)",2023-06-15 11:00:00,2023-09-02 11:00:00,1,MSAT_Lead,Environment
+DEV00001,OCT1574,OOS_Result,Minor,"OOS result: protein_mg_ml = 12.3921 mg/ml (LSL:7.0, USL:10.0)",2023-06-15 08:00:00,2023-07-12 08:00:00,1,QA_Manager,Personnel
+DEV00001,FIB1587,OOS_Result,Minor,"OOS result: endotoxin_eu_ml = 0.5065 EU/ml (LSL:0.0, USL:0.5)",2023-06-20 04:00:00,2023-08-06 04:00:00,0,MSAT_Lead,Equipment
+DEV00001,FIB1587,OOS_Result,Minor,"OOS result: protein_mg_ml = 2.9766 mg/ml (LSL:7.0, USL:10.0)",2023-06-20 22:00:00,2023-07-07 22:00:00,1,QA_Manager,Under_Investigation
+DEV00001,FIB1599,OOS_Result,Minor,"OOS result: pH = 7.4939 pH (LSL:6.9, USL:7.4)",2023-06-22 04:00:00,2023-07-07 04:00:00,0,QA_Invest_3,Material
+DEV00001,OCT1601,OOS_Result,Critical,"OOS result: assay_percent = 94.507 % (LSL:95.0, USL:110.0)",2023-06-23 09:00:00,2023-07-13 09:00:00,1,QA_Invest_2,Under_Investigation
+DEV00001,OCT1602,OOS_Result,Minor,"OOS result: osmolality_mOsm_kg = 322.2798 mOsm/kg (LSL:270.0, USL:320.0)",2023-06-25 10:00:00,2023-08-07 10:00:00,0,QA_Invest_3,Environment
+DEV00001,OCT1602,OOS_Result,Critical,"OOS result: protein_mg_ml = 6.5864 mg/ml (LSL:7.0, USL:10.0)",2023-06-25 03:00:00,2023-09-04 03:00:00,1,QA_Manager,Environment
+DEV00001,OCT1618,OOS_Result,Major,"OOS result: osmolality_mOsm_kg = 320.3932 mOsm/kg (LSL:270.0, USL:320.0)",2023-06-30 11:00:00,2023-07-26 11:00:00,1,QA_Manager,Environment
+DEV00001,FIB1620,OOS_Result,Major,"OOS result: osmolality_mOsm_kg = 323.3801 mOsm/kg (LSL:270.0, USL:320.0)",2023-06-30 06:00:00,2023-09-19 06:00:00,1,MSAT_Lead,Personnel
+DEV00001,FIB1621,OOS_Result,Minor,"OOS result: protein_mg_ml = 2.0592 mg/ml (LSL:7.0, USL:10.0)",2023-06-29 01:00:00,2023-07-13 01:00:00,1,QA_Invest_2,Method
+DEV00001,FIB1625,OOS_Result,Minor,"OOS result: osmolality_mOsm_kg = 324.5048 mOsm/kg (LSL:270.0, USL:320.0)",2023-07-01 17:00:00,2023-07-27 17:00:00,1,QA_Manager,Under_Investigation
+DEV00001,OCT1626,OOS_Result,Critical,"OOS result: osmolality_mOsm_kg = 242.482 mOsm/kg (LSL:270.0, USL:320.0)",2023-07-02 09:00:00,2023-09-07 09:00:00,1,QA_Invest_2,Under_Investigation
+DEV00001,OCT1632,OOS_Result,Minor,"OOS result: fill_volume_ml = 10.9805 ml (LSL:9.5, USL:10.5)",2023-07-01 08:00:00,2023-09-12 08:00:00,0,QA_Manager,Material
+DEV00001,OCT1632,OOS_Result,Major,"OOS result: protein_mg_ml = 11.5208 mg/ml (LSL:7.0, USL:10.0)",2023-07-02 06:00:00,2023-09-02 06:00:00,1,QA_Invest_1,Personnel
+DEV00001,OCT1634,OOS_Result,Major,"OOS result: protein_mg_ml = 2.3643 mg/ml (LSL:7.0, USL:10.0)",2023-07-04 00:00:00,2023-09-17 00:00:00,1,QA_Invest_3,Personnel
+DEV00001,OCT1635,OOS_Result,Minor,"OOS result: pH = 6.6318 pH (LSL:6.9, USL:7.4)",2023-07-02 16:00:00,2023-08-18 16:00:00,1,QA_Invest_2,Equipment
+DEV00001,FIB1637,OOS_Result,Minor,"OOS result: osmolality_mOsm_kg = 321.5225 mOsm/kg (LSL:270.0, USL:320.0)",2023-07-03 06:00:00,2023-09-16 06:00:00,0,QA_Invest_1,Environment
+DEV00001,FIB1647,OOS_Result,Minor,"OOS result: pH = 6.5581 pH (LSL:6.9, USL:7.4)",2023-07-06 07:00:00,2023-08-17 07:00:00,1,QA_Invest_3,Environment
+DEV00001,OCT1649,OOS_Result,Minor,"OOS result: osmolality_mOsm_kg = 365.8984 mOsm/kg (LSL:270.0, USL:320.0)",2023-07-07 00:00:00,2023-08-16 00:00:00,1,QA_Invest_2,Personnel
+DEV00001,FIB1651,OOS_Result,Major,"OOS result: protein_mg_ml = 2.8084 mg/ml (LSL:7.0, USL:10.0)",2023-07-08 16:00:00,2023-08-30 16:00:00,1,QA_Invest_2,Under_Investigation
+DEV00001,OCT1672,OOS_Result,Minor,"OOS result: fill_volume_ml = 10.7767 ml (LSL:9.5, USL:10.5)",2023-07-12 05:00:00,2023-08-04 05:00:00,1,MSAT_Lead,Method
+DEV00001,OCT1675,OOS_Result,Minor,"OOS result: assay_percent = 93.6228 % (LSL:95.0, USL:110.0)",2023-07-13 14:00:00,2023-09-24 14:00:00,1,QA_Manager,Equipment
+DEV00001,OCT1685,OOS_Result,Minor,"OOS result: protein_mg_ml = 2.8076 mg/ml (LSL:7.0, USL:10.0)",2023-07-18 12:00:00,2023-09-30 12:00:00,1,QA_Invest_1,Material
+DEV00001,FIB1686,OOS_Result,Critical,"OOS result: assay_percent = 82.8023 % (LSL:95.0, USL:110.0)",2023-07-16 18:00:00,2023-08-09 18:00:00,1,QA_Invest_1,Personnel
+DEV00001,OCT1687,OOS_Result,Minor,"OOS result: endotoxin_eu_ml = 0.5263 EU/ml (LSL:0.0, USL:0.5)",2023-07-21 23:00:00,2023-09-01 23:00:00,0,QA_Invest_3,Under_Investigation
+DEV00001,FIB1692,OOS_Result,Major,"OOS result: assay_percent = 122.0413 % (LSL:95.0, USL:110.0)",2023-07-17 22:00:00,2023-08-10 22:00:00,1,QA_Manager,Method
+DEV00001,FIB1692,OOS_Result,Minor,"OOS result: protein_mg_ml = 6.4001 mg/ml (LSL:7.0, USL:10.0)",2023-07-20 14:00:00,2023-10-05 14:00:00,0,QA_Invest_3,Method
+DEV00001,OCT1706,OOS_Result,Major,"OOS result: osmolality_mOsm_kg = 320.3078 mOsm/kg (LSL:270.0, USL:320.0)",2023-07-24 10:00:00,2023-09-14 10:00:00,1,QA_Invest_1,Under_Investigation
+DEV00001,OCT1707,OOS_Result,Minor,"OOS result: fill_volume_ml = 10.8892 ml (LSL:9.5, USL:10.5)",2023-07-25 10:00:00,2023-08-29 10:00:00,0,QA_Invest_2,Under_Investigation
+DEV00001,OCT1712,OOS_Result,Major,"OOS result: protein_mg_ml = 6.8205 mg/ml (LSL:7.0, USL:10.0)",2023-07-26 10:00:00,2023-10-12 10:00:00,1,QA_Manager,Method
+DEV00001,OCT1713,OOS_Result,Critical,"OOS result: protein_mg_ml = 10.9903 mg/ml (LSL:7.0, USL:10.0)",2025-07-15 17:55:35,,1,QA_Invest_3,Under_Investigation
+DEV00001,FIB1719,OOS_Result,Major,"OOS result: osmolality_mOsm_kg = 328.0625 mOsm/kg (LSL:270.0, USL:320.0)",2023-07-29 23:00:00,2023-10-20 23:00:00,1,QA_Invest_2,Material
+DEV00001,OCT1720,OOS_Result,Minor,"OOS result: protein_mg_ml = 6.8404 mg/ml (LSL:7.0, USL:10.0)",2023-07-29 06:00:00,2023-10-17 06:00:00,1,QA_Invest_2,Personnel
+DEV00001,FIB1725,OOS_Result,Minor,"OOS result: protein_mg_ml = 2.7071 mg/ml (LSL:7.0, USL:10.0)",2023-07-29 06:00:00,2023-08-23 06:00:00,0,QA_Invest_3,Environment
+DEV00001,OCT1728,OOS_Result,Major,"OOS result: fill_volume_ml = 9.3755 ml (LSL:9.5, USL:10.5)",2023-07-30 03:00:00,2023-08-25 03:00:00,1,QA_Invest_1,Material
+DEV00001,OCT1729,OOS_Result,Critical,"OOS result: assay_percent = 91.0979 % (LSL:95.0, USL:110.0)",2023-07-30 04:00:00,2023-10-24 04:00:00,1,QA_Invest_3,Equipment
+DEV00001,OCT1729,OOS_Result,Major,"OOS result: protein_mg_ml = 14.8478 mg/ml (LSL:7.0, USL:10.0)",2023-07-31 04:00:00,2023-09-04 04:00:00,1,QA_Manager,Material
+DEV00001,FIB1734,OOS_Result,Minor,"OOS result: fill_volume_ml = 9.293 ml (LSL:9.5, USL:10.5)",2023-08-01 07:00:00,2023-09-30 07:00:00,1,QA_Manager,Personnel
+DEV00001,FIB1735,OOS_Result,Major,"OOS result: fill_volume_ml = 10.9214 ml (LSL:9.5, USL:10.5)",2023-08-01 05:00:00,2023-08-19 05:00:00,1,MSAT_Lead,Material
+DEV00001,OCT1736,OOS_Result,Major,"OOS result: protein_mg_ml = 14.5311 mg/ml (LSL:7.0, USL:10.0)",2023-08-01 23:00:00,2023-10-24 23:00:00,1,QA_Invest_1,Equipment
+DEV00001,FIB1739,OOS_Result,Minor,"OOS result: osmolality_mOsm_kg = 320.9473 mOsm/kg (LSL:270.0, USL:320.0)",2023-08-03 20:00:00,2023-10-31 20:00:00,1,QA_Manager,Material
+DEV00001,FIB1746,OOS_Result,Major,"OOS result: osmolality_mOsm_kg = 332.7279 mOsm/kg (LSL:270.0, USL:320.0)",2023-08-04 08:00:00,2023-09-15 08:00:00,1,QA_Manager,Under_Investigation
+DEV00001,OCT1747,OOS_Result,Minor,"OOS result: protein_mg_ml = 10.1546 mg/ml (LSL:7.0, USL:10.0)",2023-08-05 09:00:00,2023-08-31 09:00:00,0,QA_Invest_3,Method
+DEV00001,FIB1751,OOS_Result,Major,"OOS result: osmolality_mOsm_kg = 266.1722 mOsm/kg (LSL:270.0, USL:320.0)",2023-08-07 17:00:00,2023-09-10 17:00:00,1,QA_Invest_1,Material
+DEV00001,OCT1757,OOS_Result,Major,"OOS result: pH = 6.5504 pH (LSL:6.9, USL:7.4)",2023-08-07 17:00:00,2023-09-15 17:00:00,1,QA_Invest_1,Under_Investigation
+DEV00001,FIB1760,OOS_Result,Major,"OOS result: assay_percent = 118.1817 % (LSL:95.0, USL:110.0)",2023-08-06 15:00:00,2023-09-04 15:00:00,1,QA_Invest_3,Under_Investigation
+DEV00001,OCT1763,OOS_Result,Minor,"OOS result: protein_mg_ml = 6.739 mg/ml (LSL:7.0, USL:10.0)",2023-08-10 12:00:00,2023-09-10 12:00:00,0,QA_Invest_1,Material
+DEV00001,OCT1769,OOS_Result,Major,"OOS result: protein_mg_ml = 6.7576 mg/ml (LSL:7.0, USL:10.0)",2025-08-16 17:55:35,,1,QA_Invest_3,Under_Investigation
+DEV00001,OCT1773,OOS_Result,Critical,"OOS result: assay_percent = 89.4921 % (LSL:95.0, USL:110.0)",2023-08-11 08:00:00,2023-09-24 08:00:00,1,QA_Invest_3,Personnel
+DEV00001,OCT1773,OOS_Result,Critical,"OOS result: protein_mg_ml = 6.9192 mg/ml (LSL:7.0, USL:10.0)",2023-08-11 11:00:00,2023-09-16 11:00:00,1,QA_Manager,Method
+DEV00001,OCT1779,OOS_Result,Minor,"OOS result: pH = 7.5808 pH (LSL:6.9, USL:7.4)",2023-08-10 22:00:00,2023-10-02 22:00:00,1,QA_Invest_1,Method
+DEV00001,OCT1782,OOS_Result,Major,"OOS result: protein_mg_ml = 10.0679 mg/ml (LSL:7.0, USL:10.0)",2023-08-14 12:00:00,2023-10-09 12:00:00,1,QA_Invest_3,Personnel
+DEV00001,OCT1788,OOS_Result,Minor,"OOS result: pH = 6.7866 pH (LSL:6.9, USL:7.4)",2023-08-13 23:00:00,2023-11-03 23:00:00,0,QA_Invest_1,Environment
+DEV00001,OCT1792,OOS_Result,Minor,"OOS result: osmolality_mOsm_kg = 321.9305 mOsm/kg (LSL:270.0, USL:320.0)",2023-08-17 13:00:00,2023-09-18 13:00:00,0,QA_Invest_2,Under_Investigation
+DEV00001,FIB1793,OOS_Result,Minor,"OOS result: pH = 6.5784 pH (LSL:6.9, USL:7.4)",2023-08-15 11:00:00,2023-10-16 11:00:00,0,QA_Manager,Method
+DEV00001,FIB1797,OOS_Result,Minor,"OOS result: fill_volume_ml = 11.0536 ml (LSL:9.5, USL:10.5)",2023-08-17 10:00:00,2023-09-26 10:00:00,1,QA_Invest_2,Material
+DEV00001,FIB1798,OOS_Result,Minor,"OOS result: pH = 6.3597 pH (LSL:6.9, USL:7.4)",2023-08-15 15:00:00,2023-09-28 15:00:00,0,QA_Invest_2,Method
+DEV00001,OCT1802,OOS_Result,Major,"OOS result: assay_percent = 118.1946 % (LSL:95.0, USL:110.0)",2023-08-19 16:00:00,2023-11-07 16:00:00,1,MSAT_Lead,Under_Investigation
+DEV00001,FIB1803,OOS_Result,Minor,"OOS result: pH = 7.4598 pH (LSL:6.9, USL:7.4)",2023-08-18 04:00:00,2023-09-14 04:00:00,1,QA_Invest_1,Under_Investigation
+DEV00001,FIB1806,OOS_Result,Major,"OOS result: assay_percent = 94.5675 % (LSL:95.0, USL:110.0)",2023-08-20 16:00:00,2023-11-03 16:00:00,1,QA_Manager,Material
+DEV00001,FIB1806,OOS_Result,Critical,"OOS result: pH = 6.8675 pH (LSL:6.9, USL:7.4)",2025-08-18 17:55:35,,1,MSAT_Lead,Under_Investigation
+DEV00001,FIB1807,OOS_Result,Minor,"OOS result: protein_mg_ml = 11.8554 mg/ml (LSL:7.0, USL:10.0)",2023-08-23 01:00:00,2023-11-18 01:00:00,0,QA_Invest_1,Environment
+DEV00001,OCT1813,OOS_Result,Major,"OOS result: particulates_per_ml = 67.4238 count/ml (LSL:0.0, USL:50.0)",2023-08-23 00:00:00,2023-10-29 00:00:00,1,MSAT_Lead,Under_Investigation
+DEV00001,OCT1819,OOS_Result,Minor,"OOS result: assay_percent = 117.7193 % (LSL:95.0, USL:110.0)",2023-08-24 02:00:00,2023-11-09 02:00:00,1,QA_Manager,Personnel
+DEV00001,OCT1824,OOS_Result,Major,"OOS result: osmolality_mOsm_kg = 320.1612 mOsm/kg (LSL:270.0, USL:320.0)",2023-08-26 13:00:00,2023-09-20 13:00:00,1,QA_Invest_1,Personnel
+DEV00001,OCT1825,OOS_Result,Minor,"OOS result: assay_percent = 112.4578 % (LSL:95.0, USL:110.0)",2023-08-25 11:00:00,2023-09-28 11:00:00,0,QA_Invest_3,Under_Investigation
+DEV00001,FIB1827,OOS_Result,Minor,"OOS result: osmolality_mOsm_kg = 267.4211 mOsm/kg (LSL:270.0, USL:320.0)",2023-08-27 02:00:00,2023-11-02 02:00:00,1,MSAT_Lead,Environment
+DEV00001,OCT1828,OOS_Result,Critical,"OOS result: assay_percent = 111.1752 % (LSL:95.0, USL:110.0)",2023-08-26 09:00:00,2023-11-23 09:00:00,1,QA_Manager,Personnel
+DEV00001,OCT1833,OOS_Result,Major,"OOS result: protein_mg_ml = 15.5422 mg/ml (LSL:7.0, USL:10.0)",2023-08-28 16:00:00,2023-10-23 16:00:00,1,QA_Invest_3,Method
+DEV00001,FIB1834,OOS_Result,Minor,"OOS result: protein_mg_ml = 13.3586 mg/ml (LSL:7.0, USL:10.0)",2023-08-29 02:00:00,2023-10-14 02:00:00,1,MSAT_Lead,Material
+DEV00001,OCT1843,OOS_Result,Minor,"OOS result: protein_mg_ml = 6.1804 mg/ml (LSL:7.0, USL:10.0)",2023-08-31 00:00:00,2023-10-17 00:00:00,0,QA_Manager,Environment
+DEV00001,FIB1851,OOS_Result,Major,"OOS result: osmolality_mOsm_kg = 322.1458 mOsm/kg (LSL:270.0, USL:320.0)",2023-09-02 19:00:00,2023-10-27 19:00:00,1,QA_Manager,Equipment
+DEV00001,OCT1860,OOS_Result,Minor,"OOS result: osmolality_mOsm_kg = 324.9062 mOsm/kg (LSL:270.0, USL:320.0)",2023-09-05 12:00:00,2023-09-25 12:00:00,0,QA_Invest_3,Personnel
+DEV00001,OCT1864,OOS_Result,Minor,"OOS result: protein_mg_ml = 5.0931 mg/ml (LSL:7.0, USL:10.0)",2023-09-08 13:00:00,2023-10-01 13:00:00,1,QA_Invest_1,Method
+DEV00001,OCT1870,OOS_Result,Minor,"OOS result: osmolality_mOsm_kg = 239.9545 mOsm/kg (LSL:270.0, USL:320.0)",2023-09-10 03:00:00,2023-10-23 03:00:00,0,MSAT_Lead,Equipment
+DEV00001,OCT1872,OOS_Result,Major,"OOS result: osmolality_mOsm_kg = 323.0539 mOsm/kg (LSL:270.0, USL:320.0)",2023-09-12 04:00:00,2023-10-31 04:00:00,1,QA_Invest_1,Personnel
+DEV00001,OCT1874,OOS_Result,Major,"OOS result: pH = 7.5615 pH (LSL:6.9, USL:7.4)",2023-09-10 10:00:00,2023-09-30 10:00:00,1,QA_Invest_1,Under_Investigation
+DEV00001,OCT1875,OOS_Result,Minor,"OOS result: protein_mg_ml = 13.3942 mg/ml (LSL:7.0, USL:10.0)",2023-09-11 12:00:00,2023-10-28 12:00:00,0,QA_Invest_3,Under_Investigation
+DEV00001,FIB1881,OOS_Result,Major,"OOS result: pH = 7.7275 pH (LSL:6.9, USL:7.4)",2023-09-12 15:00:00,2023-11-06 15:00:00,1,QA_Invest_2,Environment
+DEV00001,FIB1884,OOS_Result,Major,"OOS result: fill_volume_ml = 8.8707 ml (LSL:9.5, USL:10.5)",2023-09-12 04:00:00,2023-10-15 04:00:00,1,MSAT_Lead,Under_Investigation
+DEV00001,FIB1884,OOS_Result,Minor,"OOS result: protein_mg_ml = 6.3299 mg/ml (LSL:7.0, USL:10.0)",2023-09-14 07:00:00,2023-10-17 07:00:00,0,MSAT_Lead,Personnel
+DEV00001,OCT1899,OOS_Result,Minor,"OOS result: protein_mg_ml = 2.395 mg/ml (LSL:7.0, USL:10.0)",2023-09-19 00:00:00,2023-11-12 00:00:00,1,MSAT_Lead,Equipment
+DEV00001,FIB1902,OOS_Result,Minor,"OOS result: osmolality_mOsm_kg = 322.8964 mOsm/kg (LSL:270.0, USL:320.0)",2023-09-19 02:00:00,2023-11-01 02:00:00,1,QA_Invest_3,Environment
+DEV00001,OCT1908,OOS_Result,Major,"OOS result: fill_volume_ml = 8.6949 ml (LSL:9.5, USL:10.5)",2023-09-20 07:00:00,2023-10-27 07:00:00,1,QA_Invest_2,Environment
+DEV00001,OCT1909,OOS_Result,Minor,"OOS result: pH = 6.653 pH (LSL:6.9, USL:7.4)",2023-09-20 14:00:00,2023-10-26 14:00:00,1,QA_Invest_1,Environment
+DEV00001,FIB1912,OOS_Result,Minor,"OOS result: osmolality_mOsm_kg = 237.3629 mOsm/kg (LSL:270.0, USL:320.0)",2023-09-21 02:00:00,2023-10-17 02:00:00,1,MSAT_Lead,Method
+DEV00001,FIB1912,OOS_Result,Minor,"OOS result: protein_mg_ml = 6.9465 mg/ml (LSL:7.0, USL:10.0)",2023-09-21 20:00:00,2023-11-18 20:00:00,0,MSAT_Lead,Equipment
+DEV00001,FIB1922,OOS_Result,Minor,"OOS result: fill_volume_ml = 11.1729 ml (LSL:9.5, USL:10.5)",2023-09-23 11:00:00,2023-10-12 11:00:00,1,QA_Invest_3,Method
+DEV00001,OCT1925,OOS_Result,Minor,"OOS result: protein_mg_ml = 6.8779 mg/ml (LSL:7.0, USL:10.0)",2023-09-27 06:00:00,2023-11-07 06:00:00,1,MSAT_Lead,Equipment
+DEV00001,OCT1935,OOS_Result,Minor,"OOS result: assay_percent = 122.0958 % (LSL:95.0, USL:110.0)",2023-09-27 02:00:00,2023-10-17 02:00:00,0,QA_Invest_3,Equipment
+DEV00001,OCT1938,OOS_Result,Minor,"OOS result: protein_mg_ml = 10.2144 mg/ml (LSL:7.0, USL:10.0)",2023-09-28 21:00:00,2023-12-18 21:00:00,1,QA_Invest_1,Environment
+DEV00001,FIB1945,OOS_Result,Major,"OOS result: osmolality_mOsm_kg = 323.3849 mOsm/kg (LSL:270.0, USL:320.0)",2023-10-01 08:00:00,2023-11-16 08:00:00,1,QA_Manager,Equipment
+DEV00001,FIB1950,OOS_Result,Major,"OOS result: pH = 6.5682 pH (LSL:6.9, USL:7.4)",2023-10-02 10:00:00,2023-11-04 10:00:00,1,QA_Invest_3,Personnel
+DEV00001,OCT1951,OOS_Result,Major,"OOS result: protein_mg_ml = 6.334 mg/ml (LSL:7.0, USL:10.0)",2023-10-04 07:00:00,2023-10-25 07:00:00,1,QA_Invest_3,Personnel
+DEV00001,OCT1952,OOS_Result,Minor,"OOS result: pH = 7.4467 pH (LSL:6.9, USL:7.4)",2023-10-02 23:00:00,2023-12-21 23:00:00,1,QA_Invest_1,Equipment
+DEV00001,OCT1964,OOS_Result,Major,"OOS result: protein_mg_ml = 6.9467 mg/ml (LSL:7.0, USL:10.0)",2023-10-07 06:00:00,2023-11-17 06:00:00,1,QA_Invest_2,Method
+DEV00001,FIB1966,OOS_Result,Minor,"OOS result: osmolality_mOsm_kg = 267.0121 mOsm/kg (LSL:270.0, USL:320.0)",2023-10-07 12:00:00,2023-12-11 12:00:00,1,QA_Manager,Environment
+DEV00001,OCT1973,OOS_Result,Major,"OOS result: osmolality_mOsm_kg = 267.2173 mOsm/kg (LSL:270.0, USL:320.0)",2023-10-09 17:00:00,2023-10-28 17:00:00,1,MSAT_Lead,Environment
+DEV00001,FIB1978,OOS_Result,Minor,"OOS result: osmolality_mOsm_kg = 322.8591 mOsm/kg (LSL:270.0, USL:320.0)",2023-10-10 01:00:00,2023-12-30 01:00:00,1,QA_Invest_3,Method
+DEV00001,OCT1979,OOS_Result,Major,"OOS result: assay_percent = 79.5626 % (LSL:95.0, USL:110.0)",2023-10-10 14:00:00,2023-10-29 14:00:00,1,QA_Invest_3,Material
+DEV00001,OCT1979,OOS_Result,Critical,"OOS result: pH = 6.7413 pH (LSL:6.9, USL:7.4)",2023-10-09 04:00:00,2023-12-19 04:00:00,1,QA_Invest_2,Personnel
+DEV00001,FIB1981,OOS_Result,Minor,"OOS result: protein_mg_ml = 4.7285 mg/ml (LSL:7.0, USL:10.0)",2023-10-11 05:00:00,2023-12-16 05:00:00,1,QA_Invest_2,Equipment
+DEV00001,OCT1984,OOS_Result,Minor,"OOS result: fill_volume_ml = 10.5794 ml (LSL:9.5, USL:10.5)",2023-10-10 13:00:00,2023-10-30 13:00:00,0,QA_Invest_1,Equipment
+DEV00001,OCT1998,OOS_Result,Critical,"OOS result: particulates_per_ml = 58.2811 count/ml (LSL:0.0, USL:50.0)",2023-10-14 22:00:00,2023-11-10 22:00:00,1,MSAT_Lead,Under_Investigation
+DEV00001,FIB2002,OOS_Result,Major,"OOS result: protein_mg_ml = 10.139 mg/ml (LSL:7.0, USL:10.0)",2023-10-14 12:00:00,2023-12-01 12:00:00,1,QA_Manager,Personnel
+DEV00001,OCT2009,OOS_Result,Minor,"OOS result: assay_percent = 89.6743 % (LSL:95.0, USL:110.0)",2023-10-15 00:00:00,2023-12-18 00:00:00,0,QA_Invest_2,Personnel
+DEV00001,OCT2009,OOS_Result,Minor,"OOS result: protein_mg_ml = 6.8354 mg/ml (LSL:7.0, USL:10.0)",2023-10-15 22:00:00,2023-12-30 22:00:00,0,MSAT_Lead,Equipment
+DEV00001,OCT2013,OOS_Result,Minor,"OOS result: pH = 6.6726 pH (LSL:6.9, USL:7.4)",2023-10-17 19:00:00,2023-11-18 19:00:00,0,MSAT_Lead,Method
+DEV00001,OCT2015,OOS_Result,Minor,"OOS result: assay_percent = 113.2682 % (LSL:95.0, USL:110.0)",2023-10-17 20:00:00,2024-01-03 20:00:00,1,QA_Invest_3,Personnel
+DEV00001,FIB2017,OOS_Result,Major,"OOS result: protein_mg_ml = 6.9527 mg/ml (LSL:7.0, USL:10.0)",2023-10-19 15:00:00,2023-12-11 15:00:00,1,MSAT_Lead,Material
+DEV00001,OCT2018,OOS_Result,Minor,"OOS result: protein_mg_ml = 13.1789 mg/ml (LSL:7.0, USL:10.0)",2023-10-21 17:00:00,2023-11-23 17:00:00,1,QA_Manager,Equipment
+DEV00001,OCT2020,OOS_Result,Minor,"OOS result: assay_percent = 93.4812 % (LSL:95.0, USL:110.0)",2023-10-18 00:00:00,2024-01-09 00:00:00,1,QA_Manager,Material
+DEV00001,FIB2025,OOS_Result,Minor,"OOS result: particulates_per_ml = 54.713 count/ml (LSL:0.0, USL:50.0)",2023-10-22 08:00:00,2023-11-09 08:00:00,1,QA_Invest_2,Equipment
+DEV00001,OCT2027,OOS_Result,Critical,"OOS result: assay_percent = 115.0448 % (LSL:95.0, USL:110.0)",2023-10-21 13:00:00,2023-12-25 13:00:00,1,QA_Invest_2,Under_Investigation
+DEV00001,FIB2029,OOS_Result,Minor,"OOS result: pH = 6.4058 pH (LSL:6.9, USL:7.4)",2023-10-20 01:00:00,2023-11-20 01:00:00,0,QA_Invest_2,Material
+DEV00001,OCT2031,OOS_Result,Minor,"OOS result: protein_mg_ml = 10.9941 mg/ml (LSL:7.0, USL:10.0)",2023-10-22 11:00:00,2023-12-14 11:00:00,1,QA_Invest_2,Environment
+DEV00001,OCT2037,OOS_Result,Major,"OOS result: particulates_per_ml = 60.4559 count/ml (LSL:0.0, USL:50.0)",2023-10-24 00:00:00,2024-01-09 00:00:00,1,QA_Invest_1,Material
+DEV00001,FIB2046,OOS_Result,Minor,"OOS result: pH = 6.7073 pH (LSL:6.9, USL:7.4)",2023-10-26 22:00:00,2023-11-25 22:00:00,0,QA_Invest_2,Under_Investigation
+DEV00001,FIB2048,OOS_Result,Major,"OOS result: fill_volume_ml = 9.4251 ml (LSL:9.5, USL:10.5)",2023-10-26 00:00:00,2023-11-16 00:00:00,1,QA_Invest_2,Under_Investigation
+DEV00001,OCT2053,OOS_Result,Minor,"OOS result: pH = 6.6019 pH (LSL:6.9, USL:7.4)",2023-10-28 10:00:00,2024-01-15 10:00:00,0,QA_Invest_2,Material
+DEV00001,OCT2053,OOS_Result,Major,"OOS result: osmolality_mOsm_kg = 269.5896 mOsm/kg (LSL:270.0, USL:320.0)",2023-10-30 21:00:00,2023-12-28 21:00:00,1,QA_Invest_2,Method
+DEV00001,FIB2054,OOS_Result,Minor,"OOS result: fill_volume_ml = 11.2376 ml (LSL:9.5, USL:10.5)",2023-10-29 01:00:00,2023-12-21 01:00:00,0,QA_Manager,Material
+DEV00001,OCT2055,OOS_Result,Minor,"OOS result: protein_mg_ml = 2.6421 mg/ml (LSL:7.0, USL:10.0)",2023-10-31 09:00:00,2024-01-25 09:00:00,1,QA_Invest_1,Material
+DEV00001,FIB2057,OOS_Result,Major,"OOS result: pH = 6.523 pH (LSL:6.9, USL:7.4)",2023-10-30 02:00:00,2023-12-02 02:00:00,1,QA_Invest_2,Personnel
+DEV00001,OCT2058,OOS_Result,Major,"OOS result: osmolality_mOsm_kg = 269.9999 mOsm/kg (LSL:270.0, USL:320.0)",2023-10-31 12:00:00,2024-01-25 12:00:00,1,QA_Manager,Personnel
+DEV00001,OCT2061,OOS_Result,Minor,"OOS result: osmolality_mOsm_kg = 210.3245 mOsm/kg (LSL:270.0, USL:320.0)",2023-11-01 15:00:00,2023-11-19 15:00:00,1,QA_Invest_3,Equipment
+DEV00001,FIB2063,OOS_Result,Critical,"OOS result: assay_percent = 110.3182 % (LSL:95.0, USL:110.0)",2025-08-05 17:55:35,,1,QA_Invest_1,Under_Investigation
+DEV00001,FIB2063,OOS_Result,Minor,"OOS result: osmolality_mOsm_kg = 373.1642 mOsm/kg (LSL:270.0, USL:320.0)",2023-11-01 15:00:00,2024-01-27 15:00:00,0,QA_Invest_3,Personnel
+DEV00001,OCT2073,OOS_Result,Minor,"OOS result: fill_volume_ml = 10.9146 ml (LSL:9.5, USL:10.5)",2023-11-03 00:00:00,2023-11-26 00:00:00,0,MSAT_Lead,Under_Investigation
+DEV00001,OCT2073,OOS_Result,Minor,"OOS result: particulates_per_ml = 68.4281 count/ml (LSL:0.0, USL:50.0)",2023-11-04 23:00:00,2023-12-20 23:00:00,1,QA_Invest_1,Equipment
+DEV00001,OCT2082,OOS_Result,Minor,"OOS result: osmolality_mOsm_kg = 264.8349 mOsm/kg (LSL:270.0, USL:320.0)",2023-11-06 07:00:00,2024-01-12 07:00:00,1,QA_Invest_2,Method
+DEV00001,OCT2083,OOS_Result,Major,"OOS result: pH = 7.6816 pH (LSL:6.9, USL:7.4)",2023-11-04 05:00:00,2024-01-07 05:00:00,1,QA_Invest_1,Personnel
+DEV00001,OCT2087,OOS_Result,Major,"OOS result: osmolality_mOsm_kg = 246.4095 mOsm/kg (LSL:270.0, USL:320.0)",2023-11-07 04:00:00,2023-12-28 04:00:00,1,QA_Invest_3,Material
+DEV00001,FIB2091,OOS_Result,Critical,"OOS result: osmolality_mOsm_kg = 268.729 mOsm/kg (LSL:270.0, USL:320.0)",2023-11-08 09:00:00,2023-12-11 09:00:00,1,QA_Invest_2,Personnel
+DEV00001,FIB2092,OOS_Result,Major,"OOS result: osmolality_mOsm_kg = 268.1938 mOsm/kg (LSL:270.0, USL:320.0)",2023-11-07 18:00:00,2024-01-24 18:00:00,1,MSAT_Lead,Equipment
+DEV00001,OCT2093,OOS_Result,Major,"OOS result: protein_mg_ml = 6.7914 mg/ml (LSL:7.0, USL:10.0)",2023-11-08 10:00:00,2023-11-23 10:00:00,1,MSAT_Lead,Environment
+DEV00001,OCT2094,OOS_Result,Minor,"OOS result: fill_volume_ml = 9.2349 ml (LSL:9.5, USL:10.5)",2023-11-09 07:00:00,2024-01-05 07:00:00,1,QA_Invest_2,Environment
+DEV00001,FIB2095,OOS_Result,Major,"OOS result: protein_mg_ml = 6.8881 mg/ml (LSL:7.0, USL:10.0)",2023-11-09 18:00:00,2023-12-05 18:00:00,1,QA_Manager,Personnel
+DEV00001,OCT2107,OOS_Result,Minor,"OOS result: fill_volume_ml = 9.1776 ml (LSL:9.5, USL:10.5)",2023-11-14 15:00:00,2024-01-21 15:00:00,1,MSAT_Lead,Method
+DEV00001,OCT2111,OOS_Result,Minor,"OOS result: protein_mg_ml = 10.5855 mg/ml (LSL:7.0, USL:10.0)",2023-11-16 09:00:00,2023-12-25 09:00:00,0,MSAT_Lead,Equipment
+DEV00001,OCT2119,OOS_Result,Minor,"OOS result: fill_volume_ml = 11.0121 ml (LSL:9.5, USL:10.5)",2023-11-17 06:00:00,2024-01-20 06:00:00,1,QA_Invest_1,Personnel
+DEV00001,OCT2122,OOS_Result,Minor,"OOS result: protein_mg_ml = 10.1434 mg/ml (LSL:7.0, USL:10.0)",2023-11-22 01:00:00,2024-01-03 01:00:00,1,MSAT_Lead,Personnel
+DEV00001,FIB2124,OOS_Result,Minor,"OOS result: protein_mg_ml = 10.7594 mg/ml (LSL:7.0, USL:10.0)",2023-11-19 15:00:00,2024-02-05 15:00:00,1,MSAT_Lead,Under_Investigation
+DEV00001,FIB2133,OOS_Result,Major,"OOS result: protein_mg_ml = 10.435 mg/ml (LSL:7.0, USL:10.0)",2023-11-23 14:00:00,2024-01-03 14:00:00,1,MSAT_Lead,Equipment
+DEV00001,OCT2134,OOS_Result,Minor,"OOS result: osmolality_mOsm_kg = 267.0048 mOsm/kg (LSL:270.0, USL:320.0)",2023-11-23 15:00:00,2024-01-15 15:00:00,0,QA_Manager,Equipment
+DEV00001,OCT2144,OOS_Result,Minor,"OOS result: osmolality_mOsm_kg = 381.0647 mOsm/kg (LSL:270.0, USL:320.0)",2023-11-28 15:00:00,2024-01-13 15:00:00,1,QA_Invest_1,Personnel
+DEV00001,OCT2146,OOS_Result,Minor,"OOS result: osmolality_mOsm_kg = 253.0077 mOsm/kg (LSL:270.0, USL:320.0)",2023-11-27 11:00:00,2024-01-11 11:00:00,1,MSAT_Lead,Environment
+DEV00001,OCT2147,OOS_Result,Major,"OOS result: protein_mg_ml = 5.6631 mg/ml (LSL:7.0, USL:10.0)",2023-11-26 04:00:00,2024-01-15 04:00:00,1,QA_Invest_1,Personnel
+DEV00001,FIB2153,OOS_Result,Minor,"OOS result: osmolality_mOsm_kg = 216.0608 mOsm/kg (LSL:270.0, USL:320.0)",2023-11-29 21:00:00,2024-02-24 21:00:00,0,QA_Manager,Under_Investigation
+DEV00001,FIB2157,OOS_Result,Minor,"OOS result: protein_mg_ml = 6.9153 mg/ml (LSL:7.0, USL:10.0)",2023-12-02 15:00:00,2023-12-31 15:00:00,1,MSAT_Lead,Personnel
+DEV00001,FIB2164,OOS_Result,Minor,"OOS result: fill_volume_ml = 9.2177 ml (LSL:9.5, USL:10.5)",2023-12-01 20:00:00,2023-12-27 20:00:00,1,QA_Invest_1,Personnel
+DEV00001,OCT2166,OOS_Result,Minor,"OOS result: osmolality_mOsm_kg = 268.7824 mOsm/kg (LSL:270.0, USL:320.0)",2023-12-03 19:00:00,2024-01-02 19:00:00,1,QA_Invest_1,Method
+DEV00001,FIB2169,OOS_Result,Major,"OOS result: pH = 7.6782 pH (LSL:6.9, USL:7.4)",2023-12-03 08:00:00,2024-01-27 08:00:00,1,QA_Manager,Personnel
+DEV00001,OCT2171,OOS_Result,Major,"OOS result: fill_volume_ml = 9.4745 ml (LSL:9.5, USL:10.5)",2023-12-04 23:00:00,2024-02-28 23:00:00,1,QA_Invest_2,Under_Investigation
+DEV00001,FIB2173,OOS_Result,Major,"OOS result: protein_mg_ml = 6.8621 mg/ml (LSL:7.0, USL:10.0)",2023-12-04 13:00:00,2024-01-18 13:00:00,1,QA_Invest_3,Material
+DEV00001,OCT2174,OOS_Result,Critical,"OOS result: osmolality_mOsm_kg = 345.1935 mOsm/kg (LSL:270.0, USL:320.0)",2023-12-07 03:00:00,2024-03-01 03:00:00,1,QA_Invest_3,Method
+DEV00001,OCT2178,OOS_Result,Minor,"OOS result: osmolality_mOsm_kg = 245.4865 mOsm/kg (LSL:270.0, USL:320.0)",2023-12-06 14:00:00,2023-12-30 14:00:00,0,QA_Invest_2,Environment
+DEV00001,OCT2178,OOS_Result,Major,"OOS result: protein_mg_ml = 6.9958 mg/ml (LSL:7.0, USL:10.0)",2023-12-07 18:00:00,2024-01-26 18:00:00,1,QA_Invest_3,Material
+DEV00001,FIB2182,OOS_Result,Minor,"OOS result: pH = 6.7045 pH (LSL:6.9, USL:7.4)",2023-12-07 03:00:00,2024-01-17 03:00:00,0,QA_Invest_1,Equipment
+DEV00001,FIB2183,OOS_Result,Major,"OOS result: osmolality_mOsm_kg = 254.6823 mOsm/kg (LSL:270.0, USL:320.0)",2023-12-09 11:00:00,2024-01-22 11:00:00,1,QA_Invest_3,Environment
+DEV00001,FIB2187,OOS_Result,Major,"OOS result: osmolality_mOsm_kg = 322.3799 mOsm/kg (LSL:270.0, USL:320.0)",2023-12-10 15:00:00,2024-01-15 15:00:00,1,MSAT_Lead,Environment
+DEV00001,OCT2199,OOS_Result,Minor,"OOS result: assay_percent = 87.2694 % (LSL:95.0, USL:110.0)",2023-12-11 17:00:00,2023-12-29 17:00:00,0,QA_Invest_2,Material
+DEV00001,OCT2200,OOS_Result,Major,"OOS result: particulates_per_ml = 68.7602 count/ml (LSL:0.0, USL:50.0)",2023-12-16 07:00:00,2024-03-10 07:00:00,1,QA_Invest_3,Material
+DEV00001,OCT2200,OOS_Result,Minor,"OOS result: protein_mg_ml = 10.1417 mg/ml (LSL:7.0, USL:10.0)",2023-12-15 11:00:00,2024-03-05 11:00:00,1,MSAT_Lead,Method
+DEV00001,FIB2205,OOS_Result,Major,"OOS result: osmolality_mOsm_kg = 213.1509 mOsm/kg (LSL:270.0, USL:320.0)",2023-12-15 09:00:00,2024-02-29 09:00:00,1,QA_Invest_3,Material
+DEV00001,FIB2209,OOS_Result,Major,"OOS result: assay_percent = 80.4063 % (LSL:95.0, USL:110.0)",2023-12-15 02:00:00,2024-02-12 02:00:00,1,QA_Invest_1,Method
+DEV00001,FIB2214,OOS_Result,Minor,"OOS result: osmolality_mOsm_kg = 320.0654 mOsm/kg (LSL:270.0, USL:320.0)",2023-12-18 09:00:00,2024-01-25 09:00:00,1,MSAT_Lead,Environment
+DEV00001,FIB2214,OOS_Result,Major,"OOS result: fill_volume_ml = 9.0859 ml (LSL:9.5, USL:10.5)",2023-12-16 01:00:00,2024-02-07 01:00:00,1,QA_Invest_2,Material
+DEV00001,OCT2217,OOS_Result,Critical,"OOS result: assay_percent = 83.6539 % (LSL:95.0, USL:110.0)",2023-12-18 03:00:00,2024-03-02 03:00:00,1,QA_Manager,Under_Investigation
+DEV00001,FIB2221,OOS_Result,Minor,"OOS result: pH = 7.5959 pH (LSL:6.9, USL:7.4)",2023-12-18 01:00:00,2024-02-05 01:00:00,1,QA_Invest_3,Method
+DEV00001,OCT2228,OOS_Result,Minor,"OOS result: protein_mg_ml = 10.5688 mg/ml (LSL:7.0, USL:10.0)",2023-12-23 15:00:00,2024-03-11 15:00:00,1,QA_Invest_2,Method
+DEV00001,FIB2231,OOS_Result,Minor,"OOS result: protein_mg_ml = 4.4554 mg/ml (LSL:7.0, USL:10.0)",2023-12-22 06:00:00,2024-01-26 06:00:00,1,QA_Invest_2,Personnel
+DEV00001,OCT2240,OOS_Result,Minor,"OOS result: osmolality_mOsm_kg = 269.7527 mOsm/kg (LSL:270.0, USL:320.0)",2023-12-25 11:00:00,2024-02-13 11:00:00,1,QA_Invest_1,Under_Investigation
+DEV00001,FIB2254,OOS_Result,Major,"OOS result: pH = 7.7449 pH (LSL:6.9, USL:7.4)",2023-12-26 18:00:00,2024-03-07 18:00:00,1,QA_Invest_2,Environment
+DEV00001,OCT2257,OOS_Result,Minor,"OOS result: protein_mg_ml = 6.8887 mg/ml (LSL:7.0, USL:10.0)",2023-12-30 08:00:00,2024-03-26 08:00:00,1,QA_Invest_2,Material
+DEV00001,OCT2265,OOS_Result,Minor,"OOS result: assay_percent = 119.4513 % (LSL:95.0, USL:110.0)",2023-12-30 06:00:00,2024-01-28 06:00:00,0,QA_Invest_1,Method
+DEV00001,OCT2267,OOS_Result,Minor,"OOS result: pH = 7.8529 pH (LSL:6.9, USL:7.4)",2023-12-31 02:00:00,2024-01-27 02:00:00,1,QA_Invest_1,Equipment
+DEV00001,OCT2267,OOS_Result,Minor,"OOS result: protein_mg_ml = 12.0522 mg/ml (LSL:7.0, USL:10.0)",2024-01-01 17:00:00,2024-03-17 17:00:00,0,QA_Invest_3,Under_Investigation
+DEV00001,FIB2269,OOS_Result,Major,"OOS result: assay_percent = 115.2616 % (LSL:95.0, USL:110.0)",2023-12-31 01:00:00,2024-03-12 01:00:00,1,QA_Invest_1,Method
+DEV00001,OCT2272,OOS_Result,Minor,"OOS result: osmolality_mOsm_kg = 223.8044 mOsm/kg (LSL:270.0, USL:320.0)",2024-01-02 16:00:00,2024-02-09 16:00:00,0,QA_Invest_3,Environment
+DEV00001,FIB2284,OOS_Result,Minor,"OOS result: assay_percent = 110.0492 % (LSL:95.0, USL:110.0)",2024-01-03 07:00:00,2024-03-05 07:00:00,0,QA_Manager,Under_Investigation
+DEV00001,OCT2285,OOS_Result,Major,"OOS result: assay_percent = 128.6671 % (LSL:95.0, USL:110.0)",2024-01-05 03:00:00,2024-03-03 03:00:00,1,QA_Invest_2,Equipment
+DEV00001,OCT2298,OOS_Result,Major,"OOS result: assay_percent = 111.9093 % (LSL:95.0, USL:110.0)",2024-01-08 06:00:00,2024-02-06 06:00:00,1,QA_Invest_3,Personnel
+DEV00001,FIB2302,OOS_Result,Major,"OOS result: protein_mg_ml = 6.7464 mg/ml (LSL:7.0, USL:10.0)",2024-01-10 00:00:00,2024-03-06 00:00:00,1,QA_Invest_3,Under_Investigation
+DEV00001,OCT2303,OOS_Result,Minor,"OOS result: pH = 7.7751 pH (LSL:6.9, USL:7.4)",2024-01-09 09:00:00,2024-02-23 09:00:00,1,QA_Invest_2,Personnel
+DEV00001,FIB2315,OOS_Result,Minor,"OOS result: assay_percent = 123.2449 % (LSL:95.0, USL:110.0)",2024-01-10 21:00:00,2024-02-29 21:00:00,1,QA_Manager,Material
+DEV00001,FIB2315,OOS_Result,Critical,"OOS result: osmolality_mOsm_kg = 268.5546 mOsm/kg (LSL:270.0, USL:320.0)",2024-01-12 23:00:00,2024-03-03 23:00:00,1,QA_Invest_1,Equipment
+DEV00001,OCT2318,OOS_Result,Major,"OOS result: osmolality_mOsm_kg = 269.4532 mOsm/kg (LSL:270.0, USL:320.0)",2024-01-14 08:00:00,2024-04-02 08:00:00,1,MSAT_Lead,Method
+DEV00001,FIB2319,OOS_Result,Minor,"OOS result: osmolality_mOsm_kg = 214.3194 mOsm/kg (LSL:270.0, USL:320.0)",2024-01-14 09:00:00,2024-03-20 09:00:00,1,QA_Manager,Environment
+DEV00001,OCT2321,OOS_Result,Minor,"OOS result: protein_mg_ml = 11.2679 mg/ml (LSL:7.0, USL:10.0)",2024-01-15 15:00:00,2024-03-21 15:00:00,0,QA_Invest_2,Personnel
+DEV00001,OCT2322,OOS_Result,Major,"OOS result: protein_mg_ml = 6.9595 mg/ml (LSL:7.0, USL:10.0)",2024-01-14 16:00:00,2024-02-04 16:00:00,1,QA_Invest_3,Material
+DEV00001,FIB2323,OOS_Result,Minor,"OOS result: protein_mg_ml = 6.9592 mg/ml (LSL:7.0, USL:10.0)",2024-01-13 17:00:00,2024-04-03 17:00:00,0,QA_Invest_1,Material
+DEV00001,FIB2324,OOS_Result,Major,"OOS result: assay_percent = 111.0056 % (LSL:95.0, USL:110.0)",2024-01-13 13:00:00,2024-02-18 13:00:00,1,QA_Invest_2,Equipment
+DEV00001,OCT2330,OOS_Result,Major,"OOS result: assay_percent = 111.5016 % (LSL:95.0, USL:110.0)",2024-01-17 09:00:00,2024-03-09 09:00:00,1,QA_Invest_1,Equipment
+DEV00001,OCT2330,OOS_Result,Major,"OOS result: pH = 7.511 pH (LSL:6.9, USL:7.4)",2024-01-18 10:00:00,2024-02-13 10:00:00,1,QA_Invest_2,Personnel
+DEV00001,OCT2331,OOS_Result,Minor,"OOS result: fill_volume_ml = 10.8724 ml (LSL:9.5, USL:10.5)",2024-01-17 21:00:00,2024-03-11 21:00:00,0,QA_Manager,Equipment
+DEV00001,OCT2336,OOS_Result,Major,"OOS result: osmolality_mOsm_kg = 264.7342 mOsm/kg (LSL:270.0, USL:320.0)",2024-01-21 10:00:00,2024-04-08 10:00:00,1,MSAT_Lead,Method
+DEV00001,OCT2340,OOS_Result,Minor,"OOS result: osmolality_mOsm_kg = 352.477 mOsm/kg (LSL:270.0, USL:320.0)",2024-01-22 05:00:00,2024-02-10 05:00:00,0,QA_Manager,Personnel
+DEV00001,OCT2341,OOS_Result,Major,"OOS result: assay_percent = 110.8572 % (LSL:95.0, USL:110.0)",2025-07-10 17:55:35,,1,QA_Invest_1,Under_Investigation
+DEV00001,OCT2346,OOS_Result,Major,"OOS result: protein_mg_ml = 6.9168 mg/ml (LSL:7.0, USL:10.0)",2024-01-24 22:00:00,2024-03-10 22:00:00,1,QA_Invest_1,Method
+DEV00001,OCT2347,OOS_Result,Minor,"OOS result: assay_percent = 111.8776 % (LSL:95.0, USL:110.0)",2024-01-22 11:00:00,2024-03-10 11:00:00,1,QA_Invest_1,Environment
+DEV00001,OCT2349,OOS_Result,Major,"OOS result: osmolality_mOsm_kg = 269.7968 mOsm/kg (LSL:270.0, USL:320.0)",2024-01-25 02:00:00,2024-03-26 02:00:00,1,QA_Manager,Personnel
+DEV00001,OCT2353,OOS_Result,Minor,"OOS result: assay_percent = 110.2373 % (LSL:95.0, USL:110.0)",2024-01-23 08:00:00,2024-03-25 08:00:00,0,QA_Invest_3,Personnel
+DEV00001,OCT2357,OOS_Result,Minor,"OOS result: assay_percent = 110.5611 % (LSL:95.0, USL:110.0)",2024-01-25 11:00:00,2024-03-19 11:00:00,1,QA_Invest_2,Equipment
+DEV00001,OCT2365,OOS_Result,Major,"OOS result: assay_percent = 111.8108 % (LSL:95.0, USL:110.0)",2024-01-26 01:00:00,2024-03-17 01:00:00,1,QA_Invest_2,Personnel
+DEV00001,FIB2366,OOS_Result,Major,"OOS result: protein_mg_ml = 10.2251 mg/ml (LSL:7.0, USL:10.0)",2025-08-26 17:55:35,,1,QA_Manager,Under_Investigation
+DEV00001,FIB2372,OOS_Result,Minor,"OOS result: osmolality_mOsm_kg = 257.0469 mOsm/kg (LSL:270.0, USL:320.0)",2024-01-29 17:00:00,2024-03-07 17:00:00,0,QA_Invest_1,Equipment
+DEV00001,OCT2373,OOS_Result,Major,"OOS result: osmolality_mOsm_kg = 268.191 mOsm/kg (LSL:270.0, USL:320.0)",2024-01-30 16:00:00,2024-04-13 16:00:00,1,QA_Invest_3,Under_Investigation
+DEV00001,OCT2374,OOS_Result,Critical,"OOS result: protein_mg_ml = 2.704 mg/ml (LSL:7.0, USL:10.0)",2024-01-29 14:00:00,2024-04-14 14:00:00,1,QA_Manager,Method
+DEV00001,FIB2376,OOS_Result,Minor,"OOS result: protein_mg_ml = 11.776 mg/ml (LSL:7.0, USL:10.0)",2024-01-30 02:00:00,2024-02-17 02:00:00,0,QA_Invest_3,Material
+DEV00001,OCT2379,OOS_Result,Minor,"OOS result: assay_percent = 110.0271 % (LSL:95.0, USL:110.0)",2024-01-29 13:00:00,2024-03-22 13:00:00,0,QA_Invest_1,Material
+DEV00001,FIB2392,OOS_Result,Minor,"OOS result: osmolality_mOsm_kg = 345.6478 mOsm/kg (LSL:270.0, USL:320.0)",2024-02-06 13:00:00,2024-02-29 13:00:00,1,MSAT_Lead,Method
+DEV00001,OCT2397,OOS_Result,Major,"OOS result: protein_mg_ml = 13.1219 mg/ml (LSL:7.0, USL:10.0)",2024-02-06 09:00:00,2024-03-02 09:00:00,1,QA_Invest_3,Under_Investigation
+DEV00001,FIB2400,OOS_Result,Minor,"OOS result: osmolality_mOsm_kg = 320.1676 mOsm/kg (LSL:270.0, USL:320.0)",2024-02-06 18:00:00,2024-04-04 18:00:00,0,QA_Invest_2,Equipment
+DEV00001,FIB2404,OOS_Result,Major,"OOS result: protein_mg_ml = 10.2324 mg/ml (LSL:7.0, USL:10.0)",2024-02-07 10:00:00,2024-03-06 10:00:00,1,MSAT_Lead,Environment
+DEV00001,FIB2408,OOS_Result,Minor,"OOS result: osmolality_mOsm_kg = 354.5234 mOsm/kg (LSL:270.0, USL:320.0)",2024-02-09 01:00:00,2024-04-01 01:00:00,1,QA_Invest_2,Under_Investigation
+DEV00001,FIB2408,OOS_Result,Minor,"OOS result: protein_mg_ml = 14.0813 mg/ml (LSL:7.0, USL:10.0)",2024-02-09 04:00:00,2024-03-31 04:00:00,1,QA_Invest_1,Under_Investigation
+DEV00001,OCT2410,OOS_Result,Major,"OOS result: protein_mg_ml = 10.0169 mg/ml (LSL:7.0, USL:10.0)",2024-02-10 15:00:00,2024-05-09 15:00:00,1,QA_Invest_2,Environment
+DEV00001,OCT2412,OOS_Result,Critical,"OOS result: protein_mg_ml = 3.463 mg/ml (LSL:7.0, USL:10.0)",2024-02-09 16:00:00,2024-03-29 16:00:00,1,QA_Invest_3,Material
+DEV00001,FIB2414,OOS_Result,Minor,"OOS result: assay_percent = 110.3708 % (LSL:95.0, USL:110.0)",2024-02-07 23:00:00,2024-04-14 23:00:00,0,QA_Invest_3,Personnel
+DEV00001,FIB2415,OOS_Result,Minor,"OOS result: osmolality_mOsm_kg = 320.3713 mOsm/kg (LSL:270.0, USL:320.0)",2024-02-09 04:00:00,2024-04-05 04:00:00,0,QA_Invest_3,Material
+DEV00001,OCT2419,OOS_Result,Major,"OOS result: protein_mg_ml = 6.9711 mg/ml (LSL:7.0, USL:10.0)",2024-02-13 22:00:00,2024-04-20 22:00:00,1,QA_Invest_1,Equipment
+DEV00001,FIB2420,OOS_Result,Major,"OOS result: protein_mg_ml = 6.6256 mg/ml (LSL:7.0, USL:10.0)",2024-02-11 10:00:00,2024-03-06 10:00:00,1,QA_Invest_3,Equipment
+DEV00001,OCT2429,OOS_Result,Critical,"OOS result: assay_percent = 82.1792 % (LSL:95.0, USL:110.0)",2024-02-12 22:00:00,2024-04-21 22:00:00,1,MSAT_Lead,Method
+DEV00001,FIB2433,OOS_Result,Minor,"OOS result: assay_percent = 92.7617 % (LSL:95.0, USL:110.0)",2024-02-14 18:00:00,2024-03-25 18:00:00,0,QA_Invest_1,Personnel
+DEV00001,OCT2440,OOS_Result,Minor,"OOS result: assay_percent = 111.2291 % (LSL:95.0, USL:110.0)",2024-02-15 11:00:00,2024-03-06 11:00:00,0,QA_Invest_2,Material
+DEV00001,OCT2450,OOS_Result,Minor,"OOS result: fill_volume_ml = 8.9468 ml (LSL:9.5, USL:10.5)",2024-02-17 18:00:00,2024-03-04 18:00:00,0,QA_Invest_1,Environment
+DEV00001,OCT2454,OOS_Result,Minor,"OOS result: osmolality_mOsm_kg = 221.9807 mOsm/kg (LSL:270.0, USL:320.0)",2024-02-20 09:00:00,2024-03-15 09:00:00,1,QA_Invest_1,Under_Investigation
+DEV00001,OCT2455,OOS_Result,Critical,"OOS result: assay_percent = 115.1074 % (LSL:95.0, USL:110.0)",2025-08-11 17:55:35,,1,QA_Invest_3,Under_Investigation
+DEV00001,OCT2458,OOS_Result,Minor,"OOS result: assay_percent = 110.0187 % (LSL:95.0, USL:110.0)",2024-02-21 05:00:00,2024-03-26 05:00:00,1,QA_Invest_3,Method
+DEV00001,OCT2460,OOS_Result,Minor,"OOS result: osmolality_mOsm_kg = 267.7631 mOsm/kg (LSL:270.0, USL:320.0)",2024-02-23 03:00:00,2024-03-29 03:00:00,0,MSAT_Lead,Equipment
+DEV00001,OCT2468,OOS_Result,Minor,"OOS result: protein_mg_ml = 13.5539 mg/ml (LSL:7.0, USL:10.0)",2024-02-24 11:00:00,2024-03-10 11:00:00,1,QA_Invest_1,Method
+DEV00001,FIB2470,OOS_Result,Minor,"OOS result: particulates_per_ml = 65.6244 count/ml (LSL:0.0, USL:50.0)",2024-02-24 15:00:00,2024-04-10 15:00:00,1,QA_Invest_2,Environment
+DEV00001,FIB2470,OOS_Result,Major,"OOS result: protein_mg_ml = 6.6154 mg/ml (LSL:7.0, USL:10.0)",2024-02-25 04:00:00,2024-03-31 04:00:00,1,QA_Manager,Material
+DEV00001,FIB2471,OOS_Result,Minor,"OOS result: assay_percent = 110.2315 % (LSL:95.0, USL:110.0)",2024-02-23 18:00:00,2024-04-14 18:00:00,0,MSAT_Lead,Equipment
+DEV00001,FIB2475,OOS_Result,Minor,"OOS result: osmolality_mOsm_kg = 226.6125 mOsm/kg (LSL:270.0, USL:320.0)",2024-02-26 21:00:00,2024-04-29 21:00:00,1,MSAT_Lead,Equipment
+DEV00001,OCT2476,OOS_Result,Major,"OOS result: assay_percent = 111.3996 % (LSL:95.0, USL:110.0)",2024-02-25 02:00:00,2024-05-12 02:00:00,1,QA_Invest_3,Material
+DEV00001,FIB2477,OOS_Result,Minor,"OOS result: osmolality_mOsm_kg = 268.4795 mOsm/kg (LSL:270.0, USL:320.0)",2024-02-26 00:00:00,2024-05-13 00:00:00,1,MSAT_Lead,Material
+DEV00001,OCT2479,OOS_Result,Minor,"OOS result: osmolality_mOsm_kg = 323.373 mOsm/kg (LSL:270.0, USL:320.0)",2024-02-27 16:00:00,2024-03-16 16:00:00,0,QA_Manager,Environment
+DEV00001,OCT2482,OOS_Result,Major,"OOS result: osmolality_mOsm_kg = 355.4977 mOsm/kg (LSL:270.0, USL:320.0)",2024-02-29 03:00:00,2024-05-11 03:00:00,1,QA_Invest_2,Environment
+DEV00001,OCT2482,OOS_Result,Critical,"OOS result: protein_mg_ml = 10.3793 mg/ml (LSL:7.0, USL:10.0)",2025-08-18 17:55:35,,1,QA_Invest_1,Under_Investigation
+DEV00001,OCT2484,OOS_Result,Critical,"OOS result: assay_percent = 111.0941 % (LSL:95.0, USL:110.0)",2024-02-27 06:00:00,2024-04-06 06:00:00,1,QA_Invest_2,Equipment
+DEV00001,OCT2484,OOS_Result,Minor,"OOS result: osmolality_mOsm_kg = 262.6061 mOsm/kg (LSL:270.0, USL:320.0)",2024-02-29 18:00:00,2024-04-29 18:00:00,1,QA_Invest_3,Equipment
+DEV00001,OCT2486,OOS_Result,Minor,"OOS result: protein_mg_ml = 3.0869 mg/ml (LSL:7.0, USL:10.0)",2024-03-01 11:00:00,2024-04-01 11:00:00,1,MSAT_Lead,Under_Investigation
+DEV00001,OCT2493,OOS_Result,Major,"OOS result: protein_mg_ml = 10.6059 mg/ml (LSL:7.0, USL:10.0)",2024-03-03 19:00:00,2024-05-17 19:00:00,1,QA_Invest_3,Method
+DEV00001,OCT2494,OOS_Result,Major,"OOS result: protein_mg_ml = 3.2292 mg/ml (LSL:7.0, USL:10.0)",2024-03-03 02:00:00,2024-05-30 02:00:00,1,QA_Invest_1,Method
+DEV00001,FIB2496,OOS_Result,Major,"OOS result: protein_mg_ml = 10.0205 mg/ml (LSL:7.0, USL:10.0)",2024-03-02 23:00:00,2024-05-14 23:00:00,1,QA_Invest_3,Method
+DEV00001,FIB2501,OOS_Result,Major,"OOS result: assay_percent = 117.2413 % (LSL:95.0, USL:110.0)",2024-03-02 04:00:00,2024-05-20 04:00:00,1,QA_Invest_3,Equipment
+DEV00001,OCT2504,OOS_Result,Minor,"OOS result: osmolality_mOsm_kg = 388.9274 mOsm/kg (LSL:270.0, USL:320.0)",2024-03-06 13:00:00,2024-04-11 13:00:00,1,QA_Invest_2,Method
+DEV00001,OCT2504,OOS_Result,Minor,"OOS result: protein_mg_ml = 11.5141 mg/ml (LSL:7.0, USL:10.0)",2024-03-04 09:00:00,2024-04-25 09:00:00,0,QA_Invest_1,Environment
+DEV00001,OCT2506,OOS_Result,Major,"OOS result: osmolality_mOsm_kg = 216.7512 mOsm/kg (LSL:270.0, USL:320.0)",2024-03-06 17:00:00,2024-04-08 17:00:00,1,QA_Manager,Personnel
+DEV00001,FIB2511,OOS_Result,Minor,"OOS result: osmolality_mOsm_kg = 377.9802 mOsm/kg (LSL:270.0, USL:320.0)",2024-03-07 08:00:00,2024-05-27 08:00:00,0,QA_Invest_3,Material
+DEV00001,FIB2511,OOS_Result,Minor,"OOS result: protein_mg_ml = 6.7259 mg/ml (LSL:7.0, USL:10.0)",2024-03-06 09:00:00,2024-05-13 09:00:00,1,MSAT_Lead,Personnel
+DEV00001,OCT2520,OOS_Result,Minor,"OOS result: protein_mg_ml = 10.0708 mg/ml (LSL:7.0, USL:10.0)",2024-03-11 13:00:00,2024-04-21 13:00:00,0,QA_Invest_3,Equipment
+DEV00001,OCT2524,OOS_Result,Minor,"OOS result: assay_percent = 84.4273 % (LSL:95.0, USL:110.0)",2024-03-09 11:00:00,2024-04-05 11:00:00,1,QA_Invest_3,Personnel
+DEV00001,OCT2532,OOS_Result,Minor,"OOS result: pH = 7.4494 pH (LSL:6.9, USL:7.4)",2024-03-12 08:00:00,2024-04-05 08:00:00,1,QA_Manager,Under_Investigation
+DEV00001,OCT2538,OOS_Result,Minor,"OOS result: assay_percent = 94.048 % (LSL:95.0, USL:110.0)",2024-03-12 10:00:00,2024-04-13 10:00:00,1,MSAT_Lead,Method
+DEV00001,FIB2545,OOS_Result,Minor,"OOS result: osmolality_mOsm_kg = 374.4786 mOsm/kg (LSL:270.0, USL:320.0)",2024-03-16 01:00:00,2024-05-29 01:00:00,1,QA_Invest_2,Personnel
+DEV00001,OCT2557,OOS_Result,Minor,"OOS result: osmolality_mOsm_kg = 342.5119 mOsm/kg (LSL:270.0, USL:320.0)",2024-03-19 10:00:00,2024-05-30 10:00:00,1,QA_Manager,Under_Investigation
+DEV00001,OCT2565,OOS_Result,Critical,"OOS result: protein_mg_ml = 12.8993 mg/ml (LSL:7.0, USL:10.0)",2024-03-21 11:00:00,2024-05-02 11:00:00,1,QA_Invest_1,Under_Investigation
+DEV00001,OCT2573,OOS_Result,Major,"OOS result: fill_volume_ml = 11.3495 ml (LSL:9.5, USL:10.5)",2024-03-21 17:00:00,2024-04-23 17:00:00,1,MSAT_Lead,Material
+DEV00001,OCT2584,OOS_Result,Critical,"OOS result: assay_percent = 94.2487 % (LSL:95.0, USL:110.0)",2024-03-24 09:00:00,2024-05-09 09:00:00,1,MSAT_Lead,Equipment
+DEV00001,OCT2593,OOS_Result,Minor,"OOS result: osmolality_mOsm_kg = 265.2699 mOsm/kg (LSL:270.0, USL:320.0)",2024-03-29 00:00:00,2024-05-28 00:00:00,1,QA_Invest_3,Personnel
+DEV00001,FIB2594,OOS_Result,Minor,"OOS result: protein_mg_ml = 10.3152 mg/ml (LSL:7.0, USL:10.0)",2024-03-28 10:00:00,2024-05-27 10:00:00,0,QA_Invest_2,Under_Investigation
+DEV00001,OCT2597,OOS_Result,Major,"OOS result: pH = 6.88 pH (LSL:6.9, USL:7.4)",2024-03-28 12:00:00,2024-04-14 12:00:00,1,QA_Invest_2,Under_Investigation
+DEV00001,OCT2608,OOS_Result,Minor,"OOS result: assay_percent = 94.8577 % (LSL:95.0, USL:110.0)",2024-03-30 10:00:00,2024-06-13 10:00:00,0,QA_Invest_2,Equipment
+DEV00001,OCT2610,OOS_Result,Critical,"OOS result: protein_mg_ml = 10.0114 mg/ml (LSL:7.0, USL:10.0)",2024-03-29 14:00:00,2024-04-16 14:00:00,1,QA_Manager,Environment
+DEV00001,FIB2620,OOS_Result,Critical,"OOS result: protein_mg_ml = 12.0256 mg/ml (LSL:7.0, USL:10.0)",2024-04-01 23:00:00,2024-06-11 23:00:00,1,QA_Manager,Environment
+DEV00001,FIB2625,OOS_Result,Minor,"OOS result: particulates_per_ml = 52.441 count/ml (LSL:0.0, USL:50.0)",2024-04-05 00:00:00,2024-07-02 00:00:00,1,QA_Invest_3,Under_Investigation
+DEV00001,FIB2626,OOS_Result,Major,"OOS result: osmolality_mOsm_kg = 244.7649 mOsm/kg (LSL:270.0, USL:320.0)",2024-04-07 02:00:00,2024-06-07 02:00:00,1,MSAT_Lead,Method
+DEV00001,FIB2632,OOS_Result,Major,"OOS result: osmolality_mOsm_kg = 257.6466 mOsm/kg (LSL:270.0, USL:320.0)",2024-04-06 22:00:00,2024-06-03 22:00:00,1,QA_Invest_2,Method
+DEV00001,OCT2636,OOS_Result,Major,"OOS result: osmolality_mOsm_kg = 326.7951 mOsm/kg (LSL:270.0, USL:320.0)",2024-04-08 21:00:00,2024-05-10 21:00:00,1,QA_Manager,Equipment
+DEV00001,FIB2640,OOS_Result,Major,"OOS result: fill_volume_ml = 9.1332 ml (LSL:9.5, USL:10.5)",2024-04-08 09:00:00,2024-04-28 09:00:00,1,QA_Manager,Equipment
+DEV00001,FIB2640,OOS_Result,Critical,"OOS result: protein_mg_ml = 6.5938 mg/ml (LSL:7.0, USL:10.0)",2024-04-10 07:00:00,2024-06-26 07:00:00,1,QA_Invest_1,Equipment
+DEV00001,OCT2641,OOS_Result,Major,"OOS result: assay_percent = 82.5846 % (LSL:95.0, USL:110.0)",2024-04-10 21:00:00,2024-06-20 21:00:00,1,QA_Invest_3,Material
+DEV00001,FIB2644,OOS_Result,Major,"OOS result: assay_percent = 126.9992 % (LSL:95.0, USL:110.0)",2024-04-09 19:00:00,2024-05-22 19:00:00,1,QA_Invest_2,Equipment
+DEV00001,FIB2645,OOS_Result,Major,"OOS result: protein_mg_ml = 6.1731 mg/ml (LSL:7.0, USL:10.0)",2024-04-09 08:00:00,2024-06-29 08:00:00,1,MSAT_Lead,Material
+DEV00001,OCT2648,OOS_Result,Minor,"OOS result: protein_mg_ml = 3.2868 mg/ml (LSL:7.0, USL:10.0)",2024-04-13 15:00:00,2024-05-26 15:00:00,0,QA_Invest_2,Equipment
+DEV00001,OCT2649,OOS_Result,Major,"OOS result: pH = 6.8398 pH (LSL:6.9, USL:7.4)",2024-04-11 19:00:00,2024-07-10 19:00:00,1,QA_Manager,Method
+DEV00001,FIB2663,OOS_Result,Major,"OOS result: osmolality_mOsm_kg = 261.899 mOsm/kg (LSL:270.0, USL:320.0)",2024-04-16 16:00:00,2024-05-24 16:00:00,1,QA_Manager,Equipment
+DEV00001,OCT2664,OOS_Result,Minor,"OOS result: protein_mg_ml = 6.8008 mg/ml (LSL:7.0, USL:10.0)",2024-04-16 00:00:00,2024-05-07 00:00:00,1,QA_Invest_1,Method
+DEV00001,OCT2668,OOS_Result,Minor,"OOS result: protein_mg_ml = 10.0615 mg/ml (LSL:7.0, USL:10.0)",2024-04-18 11:00:00,2024-06-24 11:00:00,1,QA_Invest_1,Equipment
+DEV00001,FIB2672,OOS_Result,Minor,"OOS result: assay_percent = 85.6127 % (LSL:95.0, USL:110.0)",2024-04-16 07:00:00,2024-07-10 07:00:00,0,QA_Manager,Under_Investigation
+DEV00001,FIB2672,OOS_Result,Major,"OOS result: protein_mg_ml = 10.1015 mg/ml (LSL:7.0, USL:10.0)",2024-04-18 16:00:00,2024-06-19 16:00:00,1,QA_Invest_3,Personnel
+DEV00001,OCT2675,OOS_Result,Minor,"OOS result: protein_mg_ml = 10.4566 mg/ml (LSL:7.0, USL:10.0)",2024-04-21 22:00:00,2024-07-16 22:00:00,0,QA_Invest_2,Material
+DEV00001,OCT2679,OOS_Result,Minor,"OOS result: osmolality_mOsm_kg = 244.7775 mOsm/kg (LSL:270.0, USL:320.0)",2024-04-20 16:00:00,2024-06-01 16:00:00,0,QA_Invest_2,Under_Investigation
+DEV00001,OCT2683,OOS_Result,Minor,"OOS result: pH = 7.4549 pH (LSL:6.9, USL:7.4)",2024-04-20 10:00:00,2024-07-10 10:00:00,1,QA_Invest_3,Method
+DEV00001,OCT2684,OOS_Result,Minor,"OOS result: fill_volume_ml = 9.3636 ml (LSL:9.5, USL:10.5)",2024-04-20 13:00:00,2024-07-19 13:00:00,0,QA_Manager,Personnel
+DEV00001,FIB2686,OOS_Result,Major,"OOS result: osmolality_mOsm_kg = 223.6833 mOsm/kg (LSL:270.0, USL:320.0)",2024-04-23 06:00:00,2024-06-04 06:00:00,1,QA_Manager,Material
+DEV00001,OCT2696,OOS_Result,Major,"OOS result: fill_volume_ml = 10.55 ml (LSL:9.5, USL:10.5)",2024-04-24 02:00:00,2024-07-10 02:00:00,1,QA_Invest_3,Equipment
+DEV00001,FIB2703,OOS_Result,Minor,"OOS result: endotoxin_eu_ml = 0.5776 EU/ml (LSL:0.0, USL:0.5)",2024-04-26 11:00:00,2024-07-07 11:00:00,1,MSAT_Lead,Under_Investigation
+DEV00001,OCT2706,OOS_Result,Major,"OOS result: osmolality_mOsm_kg = 321.7133 mOsm/kg (LSL:270.0, USL:320.0)",2024-04-29 21:00:00,2024-06-12 21:00:00,1,QA_Invest_1,Method
+DEV00001,OCT2707,OOS_Result,Major,"OOS result: osmolality_mOsm_kg = 266.8695 mOsm/kg (LSL:270.0, USL:320.0)",2024-04-28 01:00:00,2024-06-01 01:00:00,1,QA_Invest_1,Under_Investigation
+DEV00001,FIB2709,OOS_Result,Major,"OOS result: protein_mg_ml = 6.3339 mg/ml (LSL:7.0, USL:10.0)",2024-04-30 02:00:00,2024-07-22 02:00:00,1,QA_Manager,Under_Investigation
+DEV00001,OCT2711,OOS_Result,Minor,"OOS result: osmolality_mOsm_kg = 324.3437 mOsm/kg (LSL:270.0, USL:320.0)",2024-04-29 12:00:00,2024-06-30 12:00:00,1,MSAT_Lead,Personnel
+DEV00001,FIB2716,OOS_Result,Minor,"OOS result: pH = 7.8386 pH (LSL:6.9, USL:7.4)",2024-04-29 11:00:00,2024-06-26 11:00:00,0,QA_Invest_2,Environment
+DEV00001,OCT2717,OOS_Result,Minor,"OOS result: fill_volume_ml = 11.174 ml (LSL:9.5, USL:10.5)",2024-04-30 15:00:00,2024-07-18 15:00:00,0,QA_Invest_1,Method
+DEV00001,FIB2724,OOS_Result,Minor,"OOS result: protein_mg_ml = 12.2507 mg/ml (LSL:7.0, USL:10.0)",2024-05-03 08:00:00,2024-06-14 08:00:00,0,QA_Invest_1,Method
+DEV00001,FIB2727,OOS_Result,Minor,"OOS result: particulates_per_ml = 53.4532 count/ml (LSL:0.0, USL:50.0)",2024-05-05 21:00:00,2024-06-01 21:00:00,1,QA_Invest_1,Material
+DEV00001,OCT2729,OOS_Result,Major,"OOS result: pH = 7.6333 pH (LSL:6.9, USL:7.4)",2024-05-04 10:00:00,2024-07-07 10:00:00,1,QA_Invest_2,Equipment
+DEV00001,FIB2732,OOS_Result,Major,"OOS result: protein_mg_ml = 10.0677 mg/ml (LSL:7.0, USL:10.0)",2024-05-05 06:00:00,2024-05-24 06:00:00,1,QA_Manager,Under_Investigation
+DEV00001,FIB2738,OOS_Result,Minor,"OOS result: assay_percent = 120.2095 % (LSL:95.0, USL:110.0)",2024-05-03 21:00:00,2024-06-14 21:00:00,1,QA_Invest_1,Equipment
+DEV00001,FIB2738,OOS_Result,Major,"OOS result: protein_mg_ml = 6.8713 mg/ml (LSL:7.0, USL:10.0)",2024-05-07 13:00:00,2024-06-29 13:00:00,1,QA_Invest_3,Equipment
+DEV00001,OCT2740,OOS_Result,Minor,"OOS result: assay_percent = 122.5598 % (LSL:95.0, USL:110.0)",2024-05-05 05:00:00,2024-07-16 05:00:00,1,QA_Invest_2,Method
+DEV00001,FIB2747,OOS_Result,Minor,"OOS result: pH = 6.5823 pH (LSL:6.9, USL:7.4)",2024-05-07 10:00:00,2024-06-02 10:00:00,1,QA_Invest_2,Environment
+DEV00001,OCT2749,OOS_Result,Minor,"OOS result: osmolality_mOsm_kg = 334.6731 mOsm/kg (LSL:270.0, USL:320.0)",2024-05-08 22:00:00,2024-07-17 22:00:00,0,QA_Invest_3,Personnel
+DEV00001,OCT2750,OOS_Result,Minor,"OOS result: osmolality_mOsm_kg = 327.7501 mOsm/kg (LSL:270.0, USL:320.0)",2024-05-08 17:00:00,2024-06-03 17:00:00,0,MSAT_Lead,Material
+DEV00001,FIB2752,OOS_Result,Major,"OOS result: protein_mg_ml = 3.4099 mg/ml (LSL:7.0, USL:10.0)",2024-05-09 00:00:00,2024-07-31 00:00:00,1,QA_Invest_2,Under_Investigation
+DEV00001,FIB2754,OOS_Result,Minor,"OOS result: osmolality_mOsm_kg = 324.0092 mOsm/kg (LSL:270.0, USL:320.0)",2024-05-10 21:00:00,2024-06-15 21:00:00,0,QA_Manager,Equipment
+DEV00001,OCT2757,OOS_Result,Critical,"OOS result: assay_percent = 119.5955 % (LSL:95.0, USL:110.0)",2025-07-20 17:55:35,,1,QA_Invest_2,Under_Investigation
+DEV00001,FIB2764,OOS_Result,Major,"OOS result: osmolality_mOsm_kg = 239.4496 mOsm/kg (LSL:270.0, USL:320.0)",2024-05-14 00:00:00,2024-06-07 00:00:00,1,MSAT_Lead,Method
+DEV00001,OCT2772,OOS_Result,Minor,"OOS result: protein_mg_ml = 3.4599 mg/ml (LSL:7.0, USL:10.0)",2024-05-17 05:00:00,2024-06-08 05:00:00,1,MSAT_Lead,Equipment
+DEV00001,OCT2777,OOS_Result,Minor,"OOS result: fill_volume_ml = 9.2572 ml (LSL:9.5, USL:10.5)",2024-05-15 22:00:00,2024-08-03 22:00:00,1,QA_Manager,Material
+DEV00001,OCT2777,OOS_Result,Major,"OOS result: protein_mg_ml = 10.0697 mg/ml (LSL:7.0, USL:10.0)",2024-05-18 20:00:00,2024-07-09 20:00:00,1,QA_Invest_3,Personnel
+DEV00001,FIB2783,OOS_Result,Major,"OOS result: osmolality_mOsm_kg = 229.848 mOsm/kg (LSL:270.0, USL:320.0)",2024-05-20 16:00:00,2024-06-09 16:00:00,1,QA_Invest_2,Under_Investigation
+DEV00001,OCT2795,OOS_Result,Minor,"OOS result: pH = 6.8372 pH (LSL:6.9, USL:7.4)",2024-05-22 07:00:00,2024-07-17 07:00:00,0,MSAT_Lead,Equipment
+DEV00001,OCT2799,OOS_Result,Critical,"OOS result: assay_percent = 110.8146 % (LSL:95.0, USL:110.0)",2024-05-21 23:00:00,2024-07-07 23:00:00,1,MSAT_Lead,Material
+DEV00001,OCT2804,OOS_Result,Major,"OOS result: osmolality_mOsm_kg = 322.4814 mOsm/kg (LSL:270.0, USL:320.0)",2024-05-24 21:00:00,2024-08-08 21:00:00,1,QA_Invest_1,Personnel
+DEV00001,OCT2805,OOS_Result,Major,"OOS result: fill_volume_ml = 9.1253 ml (LSL:9.5, USL:10.5)",2024-05-24 20:00:00,2024-07-31 20:00:00,1,QA_Manager,Material
+DEV00001,FIB2807,OOS_Result,Major,"OOS result: protein_mg_ml = 4.0118 mg/ml (LSL:7.0, USL:10.0)",2024-05-25 21:00:00,2024-08-04 21:00:00,1,QA_Invest_3,Under_Investigation
+DEV00001,FIB2812,OOS_Result,Minor,"OOS result: osmolality_mOsm_kg = 269.8049 mOsm/kg (LSL:270.0, USL:320.0)",2024-05-27 13:00:00,2024-06-16 13:00:00,1,MSAT_Lead,Method
+DEV00001,OCT2815,OOS_Result,Minor,"OOS result: fill_volume_ml = 10.5426 ml (LSL:9.5, USL:10.5)",2024-05-27 10:00:00,2024-08-14 10:00:00,0,QA_Manager,Environment
+DEV00001,OCT2816,OOS_Result,Critical,"OOS result: protein_mg_ml = 10.0505 mg/ml (LSL:7.0, USL:10.0)",2024-05-27 12:00:00,2024-06-17 12:00:00,1,QA_Invest_2,Equipment
+DEV00001,FIB2820,OOS_Result,Minor,"OOS result: protein_mg_ml = 10.0781 mg/ml (LSL:7.0, USL:10.0)",2024-05-28 07:00:00,2024-07-28 07:00:00,0,QA_Invest_1,Environment
+DEV00001,FIB2822,OOS_Result,Minor,"OOS result: particulates_per_ml = 53.5441 count/ml (LSL:0.0, USL:50.0)",2024-05-28 16:00:00,2024-06-26 16:00:00,0,QA_Invest_1,Under_Investigation
+DEV00001,OCT2825,OOS_Result,Minor,"OOS result: assay_percent = 88.2126 % (LSL:95.0, USL:110.0)",2024-05-29 06:00:00,2024-08-10 06:00:00,1,QA_Invest_1,Environment
+DEV00001,OCT2826,OOS_Result,Critical,"OOS result: assay_percent = 125.7879 % (LSL:95.0, USL:110.0)",2024-05-28 04:00:00,2024-06-16 04:00:00,1,QA_Invest_2,Under_Investigation
+DEV00001,OCT2827,OOS_Result,Minor,"OOS result: osmolality_mOsm_kg = 320.3078 mOsm/kg (LSL:270.0, USL:320.0)",2024-05-31 16:00:00,2024-08-10 16:00:00,1,QA_Invest_3,Under_Investigation
+DEV00001,OCT2834,OOS_Result,Minor,"OOS result: protein_mg_ml = 10.2258 mg/ml (LSL:7.0, USL:10.0)",2024-06-02 01:00:00,2024-08-30 01:00:00,1,MSAT_Lead,Method
+DEV00001,OCT2836,OOS_Result,Major,"OOS result: particulates_per_ml = 70.548 count/ml (LSL:0.0, USL:50.0)",2024-06-01 20:00:00,2024-08-06 20:00:00,1,QA_Invest_1,Environment
+DEV00001,FIB2850,OOS_Result,Major,"OOS result: osmolality_mOsm_kg = 325.4128 mOsm/kg (LSL:270.0, USL:320.0)",2024-06-08 17:00:00,2024-07-26 17:00:00,1,MSAT_Lead,Environment
+DEV00001,OCT2855,OOS_Result,Minor,"OOS result: particulates_per_ml = 65.4006 count/ml (LSL:0.0, USL:50.0)",2024-06-09 18:00:00,2024-08-11 18:00:00,0,QA_Invest_2,Environment
+DEV00001,OCT2858,OOS_Result,Major,"OOS result: osmolality_mOsm_kg = 257.8292 mOsm/kg (LSL:270.0, USL:320.0)",2024-06-10 14:00:00,2024-07-09 14:00:00,1,MSAT_Lead,Environment
+DEV00001,OCT2862,OOS_Result,Major,"OOS result: osmolality_mOsm_kg = 322.3531 mOsm/kg (LSL:270.0, USL:320.0)",2024-06-10 20:00:00,2024-07-30 20:00:00,1,QA_Manager,Personnel
+DEV00001,FIB2865,OOS_Result,Minor,"OOS result: protein_mg_ml = 10.2364 mg/ml (LSL:7.0, USL:10.0)",2024-06-13 03:00:00,2024-07-10 03:00:00,1,QA_Invest_2,Personnel
+DEV00001,FIB2869,OOS_Result,Major,"OOS result: protein_mg_ml = 10.0541 mg/ml (LSL:7.0, USL:10.0)",2024-06-15 02:00:00,2024-07-05 02:00:00,1,QA_Invest_1,Equipment
+DEV00001,OCT2878,OOS_Result,Minor,"OOS result: particulates_per_ml = 64.5657 count/ml (LSL:0.0, USL:50.0)",2024-06-17 09:00:00,2024-07-08 09:00:00,1,QA_Invest_2,Personnel
+DEV00001,FIB2881,OOS_Result,Major,"OOS result: osmolality_mOsm_kg = 336.4882 mOsm/kg (LSL:270.0, USL:320.0)",2024-06-17 04:00:00,2024-07-28 04:00:00,1,QA_Manager,Personnel
+DEV00001,OCT2884,OOS_Result,Minor,"OOS result: fill_volume_ml = 8.9819 ml (LSL:9.5, USL:10.5)",2024-06-19 07:00:00,2024-07-07 07:00:00,0,QA_Invest_1,Method
+DEV00001,OCT2889,OOS_Result,Minor,"OOS result: osmolality_mOsm_kg = 341.1469 mOsm/kg (LSL:270.0, USL:320.0)",2024-06-21 22:00:00,2024-07-13 22:00:00,1,QA_Invest_3,Personnel
+DEV00001,OCT2890,OOS_Result,Minor,"OOS result: protein_mg_ml = 6.7699 mg/ml (LSL:7.0, USL:10.0)",2024-06-23 01:00:00,2024-08-31 01:00:00,1,QA_Manager,Under_Investigation
+DEV00001,OCT2891,OOS_Result,Major,"OOS result: protein_mg_ml = 6.888 mg/ml (LSL:7.0, USL:10.0)",2025-07-10 17:55:35,,1,MSAT_Lead,Under_Investigation
+DEV00001,OCT2892,OOS_Result,Minor,"OOS result: osmolality_mOsm_kg = 331.5037 mOsm/kg (LSL:270.0, USL:320.0)",2024-06-22 06:00:00,2024-08-25 06:00:00,1,MSAT_Lead,Under_Investigation
+DEV00001,OCT2896,OOS_Result,Major,"OOS result: fill_volume_ml = 9.0965 ml (LSL:9.5, USL:10.5)",2024-06-22 10:00:00,2024-09-12 10:00:00,1,MSAT_Lead,Equipment
+DEV00001,OCT2901,OOS_Result,Minor,"OOS result: fill_volume_ml = 9.0516 ml (LSL:9.5, USL:10.5)",2024-06-21 23:00:00,2024-09-16 23:00:00,0,QA_Invest_2,Under_Investigation
+DEV00001,FIB2902,OOS_Result,Major,"OOS result: osmolality_mOsm_kg = 327.9964 mOsm/kg (LSL:270.0, USL:320.0)",2025-08-03 17:55:35,,1,QA_Invest_3,Under_Investigation
+DEV00001,OCT2904,OOS_Result,Major,"OOS result: pH = 7.7019 pH (LSL:6.9, USL:7.4)",2025-08-21 17:55:35,,1,QA_Invest_1,Under_Investigation
+DEV00001,FIB2906,OOS_Result,Major,"OOS result: protein_mg_ml = 6.9293 mg/ml (LSL:7.0, USL:10.0)",2024-06-25 06:00:00,2024-07-27 06:00:00,1,QA_Manager,Under_Investigation
+DEV00001,OCT2908,OOS_Result,Minor,"OOS result: fill_volume_ml = 9.0759 ml (LSL:9.5, USL:10.5)",2024-06-24 21:00:00,2024-09-07 21:00:00,0,QA_Invest_3,Under_Investigation
+DEV00001,FIB2913,OOS_Result,Minor,"OOS result: protein_mg_ml = 13.264 mg/ml (LSL:7.0, USL:10.0)",2024-06-27 21:00:00,2024-08-01 21:00:00,0,QA_Invest_3,Material
+DEV00001,FIB2914,OOS_Result,Minor,"OOS result: particulates_per_ml = 58.1138 count/ml (LSL:0.0, USL:50.0)",2024-06-27 22:00:00,2024-08-28 22:00:00,1,QA_Invest_1,Under_Investigation
+DEV00001,FIB2914,OOS_Result,Major,"OOS result: protein_mg_ml = 3.329 mg/ml (LSL:7.0, USL:10.0)",2024-06-26 09:00:00,2024-08-10 09:00:00,1,QA_Invest_2,Method
+DEV00001,OCT2921,OOS_Result,Minor,"OOS result: pH = 6.535 pH (LSL:6.9, USL:7.4)",2024-06-29 04:00:00,2024-09-21 04:00:00,1,MSAT_Lead,Material
+DEV00001,OCT2934,OOS_Result,Minor,"OOS result: osmolality_mOsm_kg = 263.0093 mOsm/kg (LSL:270.0, USL:320.0)",2024-07-03 07:00:00,2024-09-06 07:00:00,1,QA_Invest_2,Personnel
+DEV00001,OCT2940,OOS_Result,Major,"OOS result: osmolality_mOsm_kg = 263.7097 mOsm/kg (LSL:270.0, USL:320.0)",2024-07-02 23:00:00,2024-09-08 23:00:00,1,QA_Manager,Equipment
+DEV00001,OCT2944,OOS_Result,Minor,"OOS result: protein_mg_ml = 10.4883 mg/ml (LSL:7.0, USL:10.0)",2024-07-03 21:00:00,2024-07-25 21:00:00,0,QA_Invest_1,Environment
+DEV00001,FIB2950,OOS_Result,Major,"OOS result: protein_mg_ml = 10.1438 mg/ml (LSL:7.0, USL:10.0)",2024-07-05 23:00:00,2024-08-24 23:00:00,1,MSAT_Lead,Equipment
+DEV00001,FIB2951,OOS_Result,Minor,"OOS result: protein_mg_ml = 6.7451 mg/ml (LSL:7.0, USL:10.0)",2024-07-05 13:00:00,2024-09-08 13:00:00,1,QA_Invest_3,Equipment
+DEV00001,OCT2952,OOS_Result,Major,"OOS result: osmolality_mOsm_kg = 320.4067 mOsm/kg (LSL:270.0, USL:320.0)",2024-07-08 06:00:00,2024-08-09 06:00:00,1,QA_Invest_2,Personnel
+DEV00001,FIB2955,OOS_Result,Minor,"OOS result: osmolality_mOsm_kg = 372.9957 mOsm/kg (LSL:270.0, USL:320.0)",2024-07-06 20:00:00,2024-09-26 20:00:00,1,QA_Invest_3,Material
+DEV00001,FIB2958,OOS_Result,Major,"OOS result: fill_volume_ml = 11.0558 ml (LSL:9.5, USL:10.5)",2024-07-06 12:00:00,2024-08-19 12:00:00,1,QA_Invest_2,Material
+DEV00001,FIB2966,OOS_Result,Minor,"OOS result: assay_percent = 114.3772 % (LSL:95.0, USL:110.0)",2024-07-09 04:00:00,2024-08-28 04:00:00,0,MSAT_Lead,Equipment
+DEV00001,OCT2971,OOS_Result,Critical,"OOS result: osmolality_mOsm_kg = 268.0632 mOsm/kg (LSL:270.0, USL:320.0)",2024-07-12 21:00:00,2024-09-03 21:00:00,1,QA_Manager,Environment
+DEV00001,OCT2972,OOS_Result,Minor,"OOS result: protein_mg_ml = 10.0549 mg/ml (LSL:7.0, USL:10.0)",2024-07-11 13:00:00,2024-09-04 13:00:00,1,QA_Invest_2,Personnel
+DEV00001,OCT2974,OOS_Result,Minor,"OOS result: protein_mg_ml = 10.1412 mg/ml (LSL:7.0, USL:10.0)",2024-07-13 17:00:00,2024-09-27 17:00:00,0,QA_Invest_2,Personnel
+DEV00001,OCT2977,OOS_Result,Minor,"OOS result: assay_percent = 122.4527 % (LSL:95.0, USL:110.0)",2024-07-13 00:00:00,2024-09-26 00:00:00,0,QA_Manager,Material
+DEV00001,OCT2983,OOS_Result,Minor,"OOS result: osmolality_mOsm_kg = 323.0004 mOsm/kg (LSL:270.0, USL:320.0)",2024-07-14 16:00:00,2024-09-12 16:00:00,0,QA_Manager,Method
+DEV00001,OCT2988,OOS_Result,Major,"OOS result: assay_percent = 94.3469 % (LSL:95.0, USL:110.0)",2024-07-16 08:00:00,2024-07-31 08:00:00,1,QA_Invest_3,Environment
+DEV00001,OCT2988,OOS_Result,Minor,"OOS result: endotoxin_eu_ml = 0.5045 EU/ml (LSL:0.0, USL:0.5)",2024-07-17 11:00:00,2024-10-12 11:00:00,1,QA_Manager,Environment
+DEV00001,FIB2992,OOS_Result,Major,"OOS result: pH = 6.8519 pH (LSL:6.9, USL:7.4)",2024-07-17 22:00:00,2024-08-11 22:00:00,1,QA_Manager,Personnel
+DEV00001,FIB2992,OOS_Result,Major,"OOS result: osmolality_mOsm_kg = 338.7588 mOsm/kg (LSL:270.0, USL:320.0)",2024-07-17 07:00:00,2024-08-14 07:00:00,1,QA_Invest_1,Under_Investigation
+DEV00001,OCT2993,OOS_Result,Minor,"OOS result: osmolality_mOsm_kg = 321.2849 mOsm/kg (LSL:270.0, USL:320.0)",2024-07-19 20:00:00,2024-09-17 20:00:00,0,QA_Invest_1,Method
+DEV00001,OCT2999,OOS_Result,Major,"OOS result: pH = 7.6311 pH (LSL:6.9, USL:7.4)",2024-07-19 16:00:00,2024-08-13 16:00:00,1,MSAT_Lead,Environment
+DEV00001,FIB3000,OOS_Result,Minor,"OOS result: osmolality_mOsm_kg = 326.1553 mOsm/kg (LSL:270.0, USL:320.0)",2024-07-22 01:00:00,2024-08-13 01:00:00,0,QA_Invest_2,Material
+DEV00001,FIB3001,OOS_Result,Minor,"OOS result: osmolality_mOsm_kg = 322.1531 mOsm/kg (LSL:270.0, USL:320.0)",2024-07-20 17:00:00,2024-09-07 17:00:00,0,MSAT_Lead,Environment
+DEV00001,FIB3001,OOS_Result,Minor,"OOS result: protein_mg_ml = 3.5465 mg/ml (LSL:7.0, USL:10.0)",2024-07-21 19:00:00,2024-09-02 19:00:00,1,MSAT_Lead,Environment
+DEV00001,OCT3002,OOS_Result,Minor,"OOS result: endotoxin_eu_ml = 0.5359 EU/ml (LSL:0.0, USL:0.5)",2024-07-22 08:00:00,2024-09-17 08:00:00,0,QA_Invest_2,Under_Investigation
+DEV00001,OCT3007,OOS_Result,Major,"OOS result: osmolality_mOsm_kg = 212.1602 mOsm/kg (LSL:270.0, USL:320.0)",2024-07-26 10:00:00,2024-09-26 10:00:00,1,MSAT_Lead,Equipment
+DEV00001,OCT3008,OOS_Result,Minor,"OOS result: osmolality_mOsm_kg = 325.1339 mOsm/kg (LSL:270.0, USL:320.0)",2024-07-24 00:00:00,2024-10-05 00:00:00,1,QA_Manager,Method
+DEV00001,FIB3011,OOS_Result,Major,"OOS result: osmolality_mOsm_kg = 379.8442 mOsm/kg (LSL:270.0, USL:320.0)",2024-07-27 19:00:00,2024-10-08 19:00:00,1,QA_Invest_3,Equipment
+DEV00001,OCT3014,OOS_Result,Minor,"OOS result: assay_percent = 122.2449 % (LSL:95.0, USL:110.0)",2024-07-26 08:00:00,2024-09-04 08:00:00,1,QA_Invest_3,Under_Investigation
+DEV00001,OCT3016,OOS_Result,Minor,"OOS result: osmolality_mOsm_kg = 268.7298 mOsm/kg (LSL:270.0, USL:320.0)",2024-07-25 09:00:00,2024-10-16 09:00:00,1,QA_Invest_1,Under_Investigation
+DEV00001,OCT3022,OOS_Result,Minor,"OOS result: osmolality_mOsm_kg = 322.612 mOsm/kg (LSL:270.0, USL:320.0)",2024-07-28 23:00:00,2024-10-15 23:00:00,1,QA_Invest_3,Equipment
+DEV00001,FIB3023,OOS_Result,Minor,"OOS result: particulates_per_ml = 62.5775 count/ml (LSL:0.0, USL:50.0)",2024-07-29 00:00:00,2024-10-17 00:00:00,1,QA_Invest_2,Material
+DEV00001,FIB3026,OOS_Result,Critical,"OOS result: protein_mg_ml = 6.9359 mg/ml (LSL:7.0, USL:10.0)",2025-08-10 17:55:35,,1,QA_Invest_2,Under_Investigation
+DEV00001,OCT3029,OOS_Result,Minor,"OOS result: protein_mg_ml = 14.6802 mg/ml (LSL:7.0, USL:10.0)",2024-07-31 04:00:00,2024-10-22 04:00:00,0,QA_Invest_1,Method
+DEV00001,OCT3032,OOS_Result,Minor,"OOS result: osmolality_mOsm_kg = 320.9831 mOsm/kg (LSL:270.0, USL:320.0)",2024-07-30 11:00:00,2024-08-27 11:00:00,1,QA_Invest_3,Environment
+DEV00001,FIB3036,OOS_Result,Minor,"OOS result: osmolality_mOsm_kg = 321.7189 mOsm/kg (LSL:270.0, USL:320.0)",2024-08-02 07:00:00,2024-08-23 07:00:00,1,MSAT_Lead,Method
+DEV00001,FIB3039,OOS_Result,Major,"OOS result: fill_volume_ml = 10.8186 ml (LSL:9.5, USL:10.5)",2024-07-31 02:00:00,2024-10-24 02:00:00,1,QA_Invest_2,Equipment
+DEV00001,FIB3046,OOS_Result,Minor,"OOS result: osmolality_mOsm_kg = 263.7185 mOsm/kg (LSL:270.0, USL:320.0)",2024-08-02 21:00:00,2024-09-03 21:00:00,0,QA_Invest_1,Personnel
+DEV00001,OCT3053,OOS_Result,Major,"OOS result: osmolality_mOsm_kg = 321.4206 mOsm/kg (LSL:270.0, USL:320.0)",2024-08-05 23:00:00,2024-09-24 23:00:00,1,QA_Invest_3,Personnel
+DEV00001,OCT3053,OOS_Result,Minor,"OOS result: protein_mg_ml = 10.0579 mg/ml (LSL:7.0, USL:10.0)",2024-08-07 06:00:00,2024-09-26 06:00:00,1,MSAT_Lead,Equipment
+DEV00001,FIB3063,OOS_Result,Critical,"OOS result: pH = 6.8552 pH (LSL:6.9, USL:7.4)",2024-08-06 13:00:00,2024-10-15 13:00:00,1,MSAT_Lead,Environment
+DEV00001,OCT3069,OOS_Result,Minor,"OOS result: protein_mg_ml = 6.9386 mg/ml (LSL:7.0, USL:10.0)",2024-08-10 11:00:00,2024-10-06 11:00:00,1,MSAT_Lead,Environment
+DEV00001,FIB3075,OOS_Result,Major,"OOS result: protein_mg_ml = 3.9233 mg/ml (LSL:7.0, USL:10.0)",2024-08-11 03:00:00,2024-08-31 03:00:00,1,QA_Manager,Environment
+DEV00001,OCT3083,OOS_Result,Major,"OOS result: assay_percent = 93.1774 % (LSL:95.0, USL:110.0)",2024-08-13 02:00:00,2024-10-31 02:00:00,1,QA_Invest_2,Under_Investigation
+DEV00001,FIB3084,OOS_Result,Major,"OOS result: protein_mg_ml = 6.9964 mg/ml (LSL:7.0, USL:10.0)",2024-08-15 07:00:00,2024-09-02 07:00:00,1,QA_Manager,Environment
+DEV00001,OCT3085,OOS_Result,Minor,"OOS result: protein_mg_ml = 10.0103 mg/ml (LSL:7.0, USL:10.0)",2024-08-14 21:00:00,2024-10-16 21:00:00,1,QA_Invest_2,Personnel
+DEV00001,FIB3089,OOS_Result,Major,"OOS result: osmolality_mOsm_kg = 324.4362 mOsm/kg (LSL:270.0, USL:320.0)",2024-08-14 09:00:00,2024-10-05 09:00:00,1,QA_Invest_1,Environment
+DEV00001,FIB3094,OOS_Result,Minor,"OOS result: pH = 6.62 pH (LSL:6.9, USL:7.4)",2024-08-14 04:00:00,2024-10-08 04:00:00,0,QA_Invest_1,Under_Investigation
+DEV00001,OCT3095,OOS_Result,Minor,"OOS result: osmolality_mOsm_kg = 323.6307 mOsm/kg (LSL:270.0, USL:320.0)",2024-08-17 10:00:00,2024-10-11 10:00:00,0,QA_Invest_1,Method
+DEV00001,FIB3104,OOS_Result,Minor,"OOS result: osmolality_mOsm_kg = 268.9027 mOsm/kg (LSL:270.0, USL:320.0)",2024-08-17 12:00:00,2024-10-24 12:00:00,1,MSAT_Lead,Environment
+DEV00001,OCT3108,OOS_Result,Minor,"OOS result: protein_mg_ml = 6.7713 mg/ml (LSL:7.0, USL:10.0)",2024-08-20 20:00:00,2024-09-15 20:00:00,0,QA_Invest_2,Environment
+DEV00001,OCT3113,OOS_Result,Major,"OOS result: assay_percent = 121.0043 % (LSL:95.0, USL:110.0)",2024-08-19 20:00:00,2024-09-18 20:00:00,1,QA_Invest_3,Material
+DEV00001,OCT3113,OOS_Result,Minor,"OOS result: fill_volume_ml = 9.1353 ml (LSL:9.5, USL:10.5)",2024-08-21 19:00:00,2024-11-15 19:00:00,0,QA_Manager,Environment
+DEV00001,FIB3115,OOS_Result,Major,"OOS result: protein_mg_ml = 2.917 mg/ml (LSL:7.0, USL:10.0)",2024-08-24 03:00:00,2024-10-19 03:00:00,1,QA_Invest_3,Under_Investigation
+DEV00001,OCT3130,OOS_Result,Major,"OOS result: osmolality_mOsm_kg = 335.1851 mOsm/kg (LSL:270.0, USL:320.0)",2024-08-26 09:00:00,2024-10-02 09:00:00,1,QA_Invest_1,Under_Investigation
+DEV00001,OCT3132,OOS_Result,Major,"OOS result: protein_mg_ml = 10.4488 mg/ml (LSL:7.0, USL:10.0)",2024-08-28 12:00:00,2024-09-21 12:00:00,1,QA_Invest_1,Personnel
+DEV00001,OCT3133,OOS_Result,Major,"OOS result: osmolality_mOsm_kg = 320.801 mOsm/kg (LSL:270.0, USL:320.0)",2024-08-27 10:00:00,2024-09-18 10:00:00,1,QA_Invest_1,Environment
+DEV00001,OCT3137,OOS_Result,Critical,"OOS result: pH = 6.8022 pH (LSL:6.9, USL:7.4)",2024-08-26 04:00:00,2024-10-22 04:00:00,1,QA_Invest_3,Under_Investigation
+DEV00001,OCT3154,OOS_Result,Major,"OOS result: protein_mg_ml = 6.5677 mg/ml (LSL:7.0, USL:10.0)",2024-09-01 17:00:00,2024-10-09 17:00:00,1,QA_Invest_3,Method
+DEV00001,OCT3159,OOS_Result,Major,"OOS result: protein_mg_ml = 10.1791 mg/ml (LSL:7.0, USL:10.0)",2024-09-01 14:00:00,2024-11-27 14:00:00,1,QA_Invest_1,Under_Investigation
+DEV00001,FIB3166,OOS_Result,Minor,"OOS result: assay_percent = 92.3214 % (LSL:95.0, USL:110.0)",2024-09-01 15:00:00,2024-10-20 15:00:00,1,MSAT_Lead,Method
+DEV00001,OCT3169,OOS_Result,Major,"OOS result: pH = 6.6426 pH (LSL:6.9, USL:7.4)",2024-09-04 10:00:00,2024-11-29 10:00:00,1,QA_Manager,Personnel
+DEV00001,FIB3180,OOS_Result,Minor,"OOS result: pH = 6.6964 pH (LSL:6.9, USL:7.4)",2024-09-06 13:00:00,2024-09-25 13:00:00,1,MSAT_Lead,Under_Investigation
+DEV00001,FIB3180,OOS_Result,Major,"OOS result: endotoxin_eu_ml = 0.5305 EU/ml (LSL:0.0, USL:0.5)",2024-09-06 08:00:00,2024-09-30 08:00:00,1,QA_Invest_2,Under_Investigation
+DEV00001,OCT3183,OOS_Result,Minor,"OOS result: osmolality_mOsm_kg = 226.2001 mOsm/kg (LSL:270.0, USL:320.0)",2024-09-07 03:00:00,2024-11-11 03:00:00,0,QA_Invest_2,Equipment
+DEV00001,OCT3184,OOS_Result,Minor,"OOS result: protein_mg_ml = 6.7848 mg/ml (LSL:7.0, USL:10.0)",2024-09-08 22:00:00,2024-11-27 22:00:00,0,MSAT_Lead,Material
+DEV00001,OCT3186,OOS_Result,Minor,"OOS result: protein_mg_ml = 6.0246 mg/ml (LSL:7.0, USL:10.0)",2024-09-10 10:00:00,2024-09-24 10:00:00,1,QA_Manager,Under_Investigation
+DEV00001,OCT3187,OOS_Result,Major,"OOS result: protein_mg_ml = 6.9673 mg/ml (LSL:7.0, USL:10.0)",2024-09-09 00:00:00,2024-09-27 00:00:00,1,QA_Invest_3,Method
+DEV00001,OCT3188,OOS_Result,Major,"OOS result: protein_mg_ml = 10.6183 mg/ml (LSL:7.0, USL:10.0)",2024-09-09 12:00:00,2024-10-30 12:00:00,1,QA_Invest_1,Personnel
+DEV00001,OCT3193,OOS_Result,Minor,"OOS result: pH = 7.4515 pH (LSL:6.9, USL:7.4)",2024-09-08 05:00:00,2024-09-28 05:00:00,1,QA_Invest_1,Environment
+DEV00001,FIB3194,OOS_Result,Minor,"OOS result: pH = 6.536 pH (LSL:6.9, USL:7.4)",2024-09-08 06:00:00,2024-10-07 06:00:00,0,QA_Invest_3,Material
+DEV00001,FIB3195,OOS_Result,Minor,"OOS result: protein_mg_ml = 4.047 mg/ml (LSL:7.0, USL:10.0)",2024-09-09 02:00:00,2024-11-02 02:00:00,0,QA_Invest_3,Under_Investigation
+DEV00001,OCT3203,OOS_Result,Critical,"OOS result: protein_mg_ml = 14.2082 mg/ml (LSL:7.0, USL:10.0)",2024-09-13 22:00:00,2024-11-07 22:00:00,1,MSAT_Lead,Equipment
+DEV00001,FIB3205,OOS_Result,Minor,"OOS result: osmolality_mOsm_kg = 392.3595 mOsm/kg (LSL:270.0, USL:320.0)",2024-09-12 08:00:00,2024-11-29 08:00:00,0,QA_Invest_2,Environment
+DEV00001,OCT3208,OOS_Result,Minor,"OOS result: pH = 7.5687 pH (LSL:6.9, USL:7.4)",2024-09-13 01:00:00,2024-11-25 01:00:00,1,QA_Manager,Method
+DEV00001,OCT3222,OOS_Result,Minor,"OOS result: protein_mg_ml = 6.1994 mg/ml (LSL:7.0, USL:10.0)",2024-09-18 10:00:00,2024-11-30 10:00:00,1,QA_Manager,Method
+DEV00001,OCT3223,OOS_Result,Minor,"OOS result: osmolality_mOsm_kg = 265.2095 mOsm/kg (LSL:270.0, USL:320.0)",2024-09-19 16:00:00,2024-11-24 16:00:00,1,QA_Invest_1,Equipment
+DEV00001,FIB3224,OOS_Result,Major,"OOS result: osmolality_mOsm_kg = 267.4065 mOsm/kg (LSL:270.0, USL:320.0)",2024-09-19 00:00:00,2024-11-26 00:00:00,1,QA_Invest_3,Environment
+DEV00001,FIB3228,OOS_Result,Minor,"OOS result: protein_mg_ml = 10.2142 mg/ml (LSL:7.0, USL:10.0)",2024-09-19 00:00:00,2024-11-10 00:00:00,1,QA_Invest_1,Method
+DEV00001,FIB3239,OOS_Result,Minor,"OOS result: osmolality_mOsm_kg = 352.6925 mOsm/kg (LSL:270.0, USL:320.0)",2024-09-24 12:00:00,2024-12-04 12:00:00,0,QA_Manager,Environment
+DEV00001,OCT3242,OOS_Result,Minor,"OOS result: pH = 7.6394 pH (LSL:6.9, USL:7.4)",2024-09-23 07:00:00,2024-11-09 07:00:00,1,QA_Manager,Personnel
+DEV00001,OCT3247,OOS_Result,Minor,"OOS result: particulates_per_ml = 60.6976 count/ml (LSL:0.0, USL:50.0)",2024-09-25 06:00:00,2024-10-11 06:00:00,0,MSAT_Lead,Under_Investigation
+DEV00001,OCT3254,OOS_Result,Minor,"OOS result: pH = 7.5498 pH (LSL:6.9, USL:7.4)",2024-09-24 18:00:00,2024-10-29 18:00:00,1,QA_Manager,Material
+DEV00001,FIB3263,OOS_Result,Major,"OOS result: osmolality_mOsm_kg = 348.749 mOsm/kg (LSL:270.0, USL:320.0)",2024-09-28 01:00:00,2024-11-26 01:00:00,1,QA_Invest_3,Personnel
+DEV00001,FIB3266,OOS_Result,Major,"OOS result: pH = 6.6541 pH (LSL:6.9, USL:7.4)",2024-09-27 05:00:00,2024-11-10 05:00:00,1,QA_Invest_2,Personnel
+DEV00001,OCT3270,OOS_Result,Major,"OOS result: osmolality_mOsm_kg = 234.6818 mOsm/kg (LSL:270.0, USL:320.0)",2024-09-30 08:00:00,2024-12-12 08:00:00,1,QA_Invest_3,Equipment
+DEV00001,OCT3270,OOS_Result,Minor,"OOS result: protein_mg_ml = 10.2925 mg/ml (LSL:7.0, USL:10.0)",2024-09-29 19:00:00,2024-11-18 19:00:00,0,QA_Manager,Under_Investigation
+DEV00001,FIB3279,OOS_Result,Major,"OOS result: particulates_per_ml = 60.305 count/ml (LSL:0.0, USL:50.0)",2025-08-27 17:55:35,,1,QA_Manager,Under_Investigation
+DEV00001,OCT3281,OOS_Result,Minor,"OOS result: protein_mg_ml = 10.699 mg/ml (LSL:7.0, USL:10.0)",2024-10-04 09:00:00,2024-11-03 09:00:00,1,QA_Invest_2,Under_Investigation
+DEV00001,OCT3282,OOS_Result,Major,"OOS result: protein_mg_ml = 6.8976 mg/ml (LSL:7.0, USL:10.0)",2024-10-02 16:00:00,2024-12-08 16:00:00,1,QA_Invest_3,Method
+DEV00001,FIB3286,OOS_Result,Major,"OOS result: assay_percent = 77.9109 % (LSL:95.0, USL:110.0)",2024-10-04 08:00:00,2024-12-05 08:00:00,1,QA_Manager,Equipment
+DEV00001,FIB3290,OOS_Result,Minor,"OOS result: assay_percent = 83.0546 % (LSL:95.0, USL:110.0)",2024-10-04 23:00:00,2024-11-26 23:00:00,1,QA_Invest_3,Personnel
+DEV00001,OCT3293,OOS_Result,Minor,"OOS result: pH = 7.4471 pH (LSL:6.9, USL:7.4)",2024-10-07 02:00:00,2024-12-12 02:00:00,0,QA_Manager,Environment
+DEV00001,OCT3309,OOS_Result,Minor,"OOS result: osmolality_mOsm_kg = 259.0954 mOsm/kg (LSL:270.0, USL:320.0)",2024-10-14 01:00:00,2024-11-24 01:00:00,0,QA_Invest_3,Material
+DEV00001,OCT3311,OOS_Result,Minor,"OOS result: osmolality_mOsm_kg = 377.9043 mOsm/kg (LSL:270.0, USL:320.0)",2024-10-13 16:00:00,2024-10-27 16:00:00,0,QA_Invest_3,Method
+DEV00001,FIB3315,OOS_Result,Minor,"OOS result: protein_mg_ml = 2.9735 mg/ml (LSL:7.0, USL:10.0)",2024-10-15 10:00:00,2024-12-11 10:00:00,1,QA_Invest_1,Method
+DEV00001,OCT3330,OOS_Result,Critical,"OOS result: osmolality_mOsm_kg = 268.5354 mOsm/kg (LSL:270.0, USL:320.0)",2024-10-21 12:00:00,2025-01-08 12:00:00,1,QA_Invest_2,Personnel
+DEV00001,OCT3350,OOS_Result,Major,"OOS result: protein_mg_ml = 4.7598 mg/ml (LSL:7.0, USL:10.0)",2024-10-24 22:00:00,2024-11-17 22:00:00,1,QA_Invest_1,Under_Investigation
+DEV00001,OCT3361,OOS_Result,Major,"OOS result: protein_mg_ml = 10.1633 mg/ml (LSL:7.0, USL:10.0)",2025-08-03 17:55:35,,1,QA_Invest_1,Under_Investigation
+DEV00001,OCT3369,OOS_Result,Critical,"OOS result: osmolality_mOsm_kg = 261.9829 mOsm/kg (LSL:270.0, USL:320.0)",2024-10-29 06:00:00,2025-01-13 06:00:00,1,MSAT_Lead,Environment
+DEV00001,OCT3370,OOS_Result,Minor,"OOS result: osmolality_mOsm_kg = 364.9302 mOsm/kg (LSL:270.0, USL:320.0)",2024-10-31 20:00:00,2024-12-29 20:00:00,1,QA_Invest_3,Method
+DEV00001,OCT3372,OOS_Result,Major,"OOS result: protein_mg_ml = 10.2852 mg/ml (LSL:7.0, USL:10.0)",2024-11-01 01:00:00,2024-11-29 01:00:00,1,MSAT_Lead,Equipment
+DEV00001,FIB3373,OOS_Result,Minor,"OOS result: protein_mg_ml = 10.1698 mg/ml (LSL:7.0, USL:10.0)",2024-11-01 09:00:00,2025-01-03 09:00:00,0,QA_Invest_3,Material
+DEV00001,OCT3380,OOS_Result,Minor,"OOS result: osmolality_mOsm_kg = 199.6343 mOsm/kg (LSL:270.0, USL:320.0)",2024-11-02 20:00:00,2024-12-07 20:00:00,0,MSAT_Lead,Under_Investigation
+DEV00001,OCT3382,OOS_Result,Minor,"OOS result: fill_volume_ml = 10.9934 ml (LSL:9.5, USL:10.5)",2024-10-31 23:00:00,2024-12-24 23:00:00,0,QA_Invest_3,Method
+DEV00001,FIB3390,OOS_Result,Critical,"OOS result: pH = 6.7104 pH (LSL:6.9, USL:7.4)",2024-11-02 07:00:00,2024-11-17 07:00:00,1,QA_Invest_1,Equipment
+DEV00001,OCT3392,OOS_Result,Minor,"OOS result: protein_mg_ml = 10.2691 mg/ml (LSL:7.0, USL:10.0)",2024-11-04 04:00:00,2024-12-07 04:00:00,1,QA_Invest_2,Under_Investigation
+DEV00001,OCT3398,OOS_Result,Major,"OOS result: fill_volume_ml = 10.9567 ml (LSL:9.5, USL:10.5)",2025-08-09 17:55:35,,1,QA_Invest_1,Under_Investigation
+DEV00001,FIB3400,OOS_Result,Major,"OOS result: fill_volume_ml = 8.7577 ml (LSL:9.5, USL:10.5)",2024-11-06 02:00:00,2024-12-26 02:00:00,1,QA_Manager,Equipment
+DEV00001,FIB3400,OOS_Result,Critical,"OOS result: protein_mg_ml = 10.2319 mg/ml (LSL:7.0, USL:10.0)",2024-11-05 22:00:00,2025-02-03 22:00:00,1,QA_Invest_2,Method
+DEV00001,OCT3410,OOS_Result,Minor,"OOS result: osmolality_mOsm_kg = 265.6802 mOsm/kg (LSL:270.0, USL:320.0)",2024-11-11 13:00:00,2024-12-25 13:00:00,0,QA_Invest_1,Equipment
+DEV00001,FIB3412,OOS_Result,Minor,"OOS result: osmolality_mOsm_kg = 267.6743 mOsm/kg (LSL:270.0, USL:320.0)",2024-11-11 21:00:00,2025-01-16 21:00:00,1,MSAT_Lead,Material
+DEV00001,OCT3420,OOS_Result,Major,"OOS result: fill_volume_ml = 10.8078 ml (LSL:9.5, USL:10.5)",2024-11-12 16:00:00,2025-01-07 16:00:00,1,QA_Invest_1,Material
+DEV00001,OCT3426,OOS_Result,Minor,"OOS result: protein_mg_ml = 12.4772 mg/ml (LSL:7.0, USL:10.0)",2024-11-14 02:00:00,2025-01-14 02:00:00,0,QA_Invest_1,Environment
+DEV00001,OCT3434,OOS_Result,Minor,"OOS result: protein_mg_ml = 12.4272 mg/ml (LSL:7.0, USL:10.0)",2024-11-17 07:00:00,2024-12-24 07:00:00,1,QA_Invest_1,Method
+DEV00001,OCT3435,OOS_Result,Major,"OOS result: pH = 7.7085 pH (LSL:6.9, USL:7.4)",2024-11-14 01:00:00,2025-01-10 01:00:00,1,QA_Invest_2,Equipment
+DEV00001,FIB3441,OOS_Result,Major,"OOS result: osmolality_mOsm_kg = 178.939 mOsm/kg (LSL:270.0, USL:320.0)",2024-11-15 22:00:00,2024-12-15 22:00:00,1,QA_Manager,Equipment
+DEV00001,FIB3446,OOS_Result,Major,"OOS result: osmolality_mOsm_kg = 264.5485 mOsm/kg (LSL:270.0, USL:320.0)",2024-11-16 19:00:00,2025-01-23 19:00:00,1,MSAT_Lead,Material
+DEV00001,OCT3453,OOS_Result,Major,"OOS result: protein_mg_ml = 6.5466 mg/ml (LSL:7.0, USL:10.0)",2024-11-21 11:00:00,2025-01-17 11:00:00,1,QA_Invest_3,Environment
+DEV00001,FIB3454,OOS_Result,Major,"OOS result: osmolality_mOsm_kg = 268.477 mOsm/kg (LSL:270.0, USL:320.0)",2024-11-19 01:00:00,2025-01-15 01:00:00,1,QA_Invest_2,Equipment
+DEV00001,FIB3461,OOS_Result,Minor,"OOS result: osmolality_mOsm_kg = 223.6505 mOsm/kg (LSL:270.0, USL:320.0)",2024-11-25 05:00:00,2024-12-21 05:00:00,1,QA_Invest_3,Method
+DEV00001,FIB3464,OOS_Result,Minor,"OOS result: osmolality_mOsm_kg = 268.9698 mOsm/kg (LSL:270.0, USL:320.0)",2024-11-22 18:00:00,2025-01-30 18:00:00,0,QA_Invest_2,Environment
+DEV00001,OCT3465,OOS_Result,Minor,"OOS result: fill_volume_ml = 11.1678 ml (LSL:9.5, USL:10.5)",2024-11-24 03:00:00,2025-02-06 03:00:00,0,QA_Invest_3,Equipment
+DEV00001,FIB3467,OOS_Result,Minor,"OOS result: assay_percent = 115.1732 % (LSL:95.0, USL:110.0)",2024-11-23 04:00:00,2025-01-15 04:00:00,0,MSAT_Lead,Method
+DEV00001,FIB3467,OOS_Result,Critical,"OOS result: protein_mg_ml = 11.9952 mg/ml (LSL:7.0, USL:10.0)",2024-11-26 00:00:00,2024-12-31 00:00:00,1,QA_Manager,Personnel
+DEV00001,OCT3471,OOS_Result,Minor,"OOS result: pH = 7.5854 pH (LSL:6.9, USL:7.4)",2024-11-24 21:00:00,2025-02-13 21:00:00,0,QA_Manager,Environment
+DEV00001,FIB3477,OOS_Result,Major,"OOS result: assay_percent = 119.1417 % (LSL:95.0, USL:110.0)",2024-11-25 11:00:00,2025-02-11 11:00:00,1,QA_Invest_1,Under_Investigation
+DEV00001,OCT3479,OOS_Result,Major,"OOS result: protein_mg_ml = 13.9305 mg/ml (LSL:7.0, USL:10.0)",2024-11-27 06:00:00,2024-12-27 06:00:00,1,MSAT_Lead,Equipment
+DEV00001,OCT3481,OOS_Result,Major,"OOS result: osmolality_mOsm_kg = 264.9572 mOsm/kg (LSL:270.0, USL:320.0)",2024-11-30 20:00:00,2024-12-18 20:00:00,1,QA_Manager,Equipment
+DEV00001,OCT3482,OOS_Result,Critical,"OOS result: protein_mg_ml = 10.9571 mg/ml (LSL:7.0, USL:10.0)",2024-11-30 07:00:00,2025-01-24 07:00:00,1,MSAT_Lead,Material
+DEV00001,OCT3486,OOS_Result,Major,"OOS result: protein_mg_ml = 6.4836 mg/ml (LSL:7.0, USL:10.0)",2024-12-01 19:00:00,2024-12-17 19:00:00,1,QA_Invest_2,Equipment
+DEV00001,FIB3488,OOS_Result,Major,"OOS result: osmolality_mOsm_kg = 267.857 mOsm/kg (LSL:270.0, USL:320.0)",2024-12-01 18:00:00,2024-12-26 18:00:00,1,QA_Invest_2,Method
+DEV00001,FIB3488,OOS_Result,Minor,"OOS result: protein_mg_ml = 3.9328 mg/ml (LSL:7.0, USL:10.0)",2024-12-01 13:00:00,2024-12-25 13:00:00,1,MSAT_Lead,Material
+DEV00001,OCT3490,OOS_Result,Minor,"OOS result: protein_mg_ml = 10.9774 mg/ml (LSL:7.0, USL:10.0)",2024-12-02 07:00:00,2025-01-12 07:00:00,1,QA_Invest_2,Under_Investigation
+DEV00001,OCT3491,OOS_Result,Critical,"OOS result: protein_mg_ml = 6.9399 mg/ml (LSL:7.0, USL:10.0)",2024-12-02 04:00:00,2025-02-22 04:00:00,1,MSAT_Lead,Under_Investigation
+DEV00001,OCT3493,OOS_Result,Minor,"OOS result: protein_mg_ml = 6.9234 mg/ml (LSL:7.0, USL:10.0)",2024-12-02 18:00:00,2025-02-04 18:00:00,0,MSAT_Lead,Method
+DEV00001,FIB3494,OOS_Result,Minor,"OOS result: protein_mg_ml = 14.8181 mg/ml (LSL:7.0, USL:10.0)",2024-12-03 03:00:00,2024-12-17 03:00:00,1,QA_Invest_1,Environment
+DEV00001,OCT3498,OOS_Result,Major,"OOS result: assay_percent = 90.3007 % (LSL:95.0, USL:110.0)",2024-12-01 15:00:00,2025-01-27 15:00:00,1,QA_Invest_3,Under_Investigation
+DEV00001,OCT3506,OOS_Result,Minor,"OOS result: protein_mg_ml = 10.0757 mg/ml (LSL:7.0, USL:10.0)",2024-12-05 20:00:00,2025-02-04 20:00:00,0,QA_Invest_3,Material
+DEV00001,OCT3509,OOS_Result,Minor,"OOS result: osmolality_mOsm_kg = 376.5877 mOsm/kg (LSL:270.0, USL:320.0)",2024-12-07 09:00:00,2025-02-09 09:00:00,1,QA_Invest_3,Equipment
+DEV00001,FIB3512,OOS_Result,Minor,"OOS result: assay_percent = 121.6078 % (LSL:95.0, USL:110.0)",2024-12-04 16:00:00,2025-02-24 16:00:00,1,QA_Manager,Personnel
+DEV00001,FIB3513,OOS_Result,Major,"OOS result: fill_volume_ml = 8.5613 ml (LSL:9.5, USL:10.5)",2024-12-04 03:00:00,2025-01-18 03:00:00,1,QA_Manager,Material
+DEV00001,OCT3514,OOS_Result,Major,"OOS result: protein_mg_ml = 6.3987 mg/ml (LSL:7.0, USL:10.0)",2024-12-07 04:00:00,2025-02-15 04:00:00,1,QA_Invest_3,Equipment
+DEV00001,FIB3517,OOS_Result,Major,"OOS result: assay_percent = 110.1807 % (LSL:95.0, USL:110.0)",2024-12-06 10:00:00,2025-01-19 10:00:00,1,QA_Invest_1,Equipment
+DEV00001,OCT3518,OOS_Result,Critical,"OOS result: fill_volume_ml = 10.6307 ml (LSL:9.5, USL:10.5)",2024-12-07 15:00:00,2025-02-24 15:00:00,1,QA_Invest_1,Equipment
+DEV00001,OCT3520,OOS_Result,Minor,"OOS result: assay_percent = 119.8443 % (LSL:95.0, USL:110.0)",2024-12-07 12:00:00,2025-01-04 12:00:00,0,QA_Manager,Material
+DEV00001,OCT3526,OOS_Result,Major,"OOS result: protein_mg_ml = 6.8358 mg/ml (LSL:7.0, USL:10.0)",2024-12-10 22:00:00,2025-01-26 22:00:00,1,QA_Manager,Personnel
+DEV00001,OCT3531,OOS_Result,Minor,"OOS result: protein_mg_ml = 6.9651 mg/ml (LSL:7.0, USL:10.0)",2024-12-11 02:00:00,2025-03-06 02:00:00,1,QA_Invest_1,Environment
+DEV00001,OCT3535,OOS_Result,Minor,"OOS result: osmolality_mOsm_kg = 256.9224 mOsm/kg (LSL:270.0, USL:320.0)",2024-12-11 21:00:00,2024-12-26 21:00:00,0,QA_Invest_3,Equipment
+DEV00001,FIB3539,OOS_Result,Minor,"OOS result: osmolality_mOsm_kg = 225.1892 mOsm/kg (LSL:270.0, USL:320.0)",2024-12-15 13:00:00,2025-01-13 13:00:00,1,QA_Manager,Under_Investigation
+DEV00001,OCT3540,OOS_Result,Major,"OOS result: osmolality_mOsm_kg = 343.0481 mOsm/kg (LSL:270.0, USL:320.0)",2025-07-18 17:55:35,,1,QA_Manager,Under_Investigation
+DEV00001,OCT3541,OOS_Result,Minor,"OOS result: osmolality_mOsm_kg = 269.8899 mOsm/kg (LSL:270.0, USL:320.0)",2024-12-13 17:00:00,2025-01-26 17:00:00,0,MSAT_Lead,Equipment
+DEV00001,OCT3545,OOS_Result,Major,"OOS result: protein_mg_ml = 6.4571 mg/ml (LSL:7.0, USL:10.0)",2024-12-17 20:00:00,2025-01-05 20:00:00,1,QA_Invest_3,Method
+DEV00001,OCT3550,OOS_Result,Major,"OOS result: protein_mg_ml = 6.8824 mg/ml (LSL:7.0, USL:10.0)",2024-12-17 00:00:00,2025-03-06 00:00:00,1,QA_Invest_2,Personnel
+DEV00001,OCT3556,OOS_Result,Minor,"OOS result: osmolality_mOsm_kg = 254.0568 mOsm/kg (LSL:270.0, USL:320.0)",2024-12-17 18:00:00,2025-02-20 18:00:00,1,QA_Invest_3,Under_Investigation
+DEV00001,OCT3565,OOS_Result,Minor,"OOS result: osmolality_mOsm_kg = 265.0741 mOsm/kg (LSL:270.0, USL:320.0)",2024-12-20 14:00:00,2025-01-05 14:00:00,1,MSAT_Lead,Method
+DEV00001,OCT3566,OOS_Result,Minor,"OOS result: particulates_per_ml = 54.9111 count/ml (LSL:0.0, USL:50.0)",2024-12-20 18:00:00,2025-02-26 18:00:00,1,QA_Manager,Method
+DEV00001,OCT3567,OOS_Result,Major,"OOS result: osmolality_mOsm_kg = 334.9757 mOsm/kg (LSL:270.0, USL:320.0)",2024-12-20 16:00:00,2025-02-17 16:00:00,1,QA_Invest_3,Material
+DEV00001,OCT3572,OOS_Result,Minor,"OOS result: osmolality_mOsm_kg = 269.3474 mOsm/kg (LSL:270.0, USL:320.0)",2024-12-23 00:00:00,2025-03-12 00:00:00,1,QA_Invest_3,Environment
+DEV00001,OCT3577,OOS_Result,Critical,"OOS result: osmolality_mOsm_kg = 262.579 mOsm/kg (LSL:270.0, USL:320.0)",2024-12-24 19:00:00,2025-01-22 19:00:00,1,QA_Invest_2,Equipment
+DEV00001,OCT3583,OOS_Result,Critical,"OOS result: fill_volume_ml = 9.3785 ml (LSL:9.5, USL:10.5)",2024-12-23 21:00:00,2025-03-13 21:00:00,1,MSAT_Lead,Environment
+DEV00001,OCT3590,OOS_Result,Minor,"OOS result: osmolality_mOsm_kg = 323.864 mOsm/kg (LSL:270.0, USL:320.0)",2024-12-28 09:00:00,2025-03-26 09:00:00,1,QA_Invest_2,Under_Investigation
+DEV00001,OCT3602,OOS_Result,Major,"OOS result: assay_percent = 93.1595 % (LSL:95.0, USL:110.0)",2025-01-01 03:00:00,2025-03-30 03:00:00,1,QA_Manager,Method
+DEV00001,OCT3607,OOS_Result,Major,"OOS result: protein_mg_ml = 10.2825 mg/ml (LSL:7.0, USL:10.0)",2025-07-08 17:55:35,,1,QA_Invest_1,Under_Investigation
+DEV00001,OCT3608,OOS_Result,Minor,"OOS result: protein_mg_ml = 10.1192 mg/ml (LSL:7.0, USL:10.0)",2025-01-01 23:00:00,2025-03-16 23:00:00,1,MSAT_Lead,Under_Investigation
+DEV00001,FIB3610,OOS_Result,Major,"OOS result: osmolality_mOsm_kg = 268.0202 mOsm/kg (LSL:270.0, USL:320.0)",2025-01-02 12:00:00,2025-02-13 12:00:00,1,MSAT_Lead,Equipment
+DEV00001,OCT3620,OOS_Result,Minor,"OOS result: osmolality_mOsm_kg = 247.1129 mOsm/kg (LSL:270.0, USL:320.0)",2025-01-06 09:00:00,2025-03-12 09:00:00,1,QA_Invest_2,Personnel
+DEV00001,FIB3623,OOS_Result,Minor,"OOS result: osmolality_mOsm_kg = 326.6363 mOsm/kg (LSL:270.0, USL:320.0)",2025-01-07 11:00:00,2025-03-25 11:00:00,0,MSAT_Lead,Material
+DEV00001,FIB3629,OOS_Result,Major,"OOS result: osmolality_mOsm_kg = 254.9575 mOsm/kg (LSL:270.0, USL:320.0)",2025-01-07 17:00:00,2025-03-13 17:00:00,1,QA_Manager,Under_Investigation
+DEV00001,OCT3632,OOS_Result,Minor,"OOS result: fill_volume_ml = 8.8447 ml (LSL:9.5, USL:10.5)",2025-01-07 08:00:00,2025-01-30 08:00:00,1,QA_Invest_2,Material
+DEV00001,OCT3634,OOS_Result,Major,"OOS result: osmolality_mOsm_kg = 260.3599 mOsm/kg (LSL:270.0, USL:320.0)",2025-01-10 09:00:00,2025-04-02 09:00:00,1,QA_Invest_3,Personnel
+DEV00001,FIB3638,OOS_Result,Major,"OOS result: protein_mg_ml = 6.9011 mg/ml (LSL:7.0, USL:10.0)",2025-01-07 23:00:00,2025-03-09 23:00:00,1,QA_Invest_2,Equipment
+DEV00001,OCT3639,OOS_Result,Major,"OOS result: endotoxin_eu_ml = 0.5072 EU/ml (LSL:0.0, USL:0.5)",2025-01-09 04:00:00,2025-03-20 04:00:00,1,QA_Invest_3,Under_Investigation
+DEV00001,OCT3640,OOS_Result,Major,"OOS result: protein_mg_ml = 6.8908 mg/ml (LSL:7.0, USL:10.0)",2025-01-09 06:00:00,2025-03-21 06:00:00,1,QA_Invest_3,Personnel
+DEV00001,FIB3655,OOS_Result,Minor,"OOS result: protein_mg_ml = 6.9712 mg/ml (LSL:7.0, USL:10.0)",2025-01-12 05:00:00,2025-03-13 05:00:00,0,QA_Invest_1,Method
+DEV00001,OCT3660,OOS_Result,Major,"OOS result: osmolality_mOsm_kg = 257.772 mOsm/kg (LSL:270.0, USL:320.0)",2025-01-15 06:00:00,2025-02-01 06:00:00,1,QA_Invest_2,Under_Investigation
+DEV00001,FIB3664,OOS_Result,Minor,"OOS result: osmolality_mOsm_kg = 325.9281 mOsm/kg (LSL:270.0, USL:320.0)",2025-01-15 20:00:00,2025-04-04 20:00:00,1,MSAT_Lead,Equipment
+DEV00001,FIB3672,OOS_Result,Major,"OOS result: fill_volume_ml = 8.6064 ml (LSL:9.5, USL:10.5)",2025-01-16 17:00:00,2025-04-10 17:00:00,1,QA_Invest_2,Personnel
+DEV00001,OCT3673,OOS_Result,Minor,"OOS result: protein_mg_ml = 2.7402 mg/ml (LSL:7.0, USL:10.0)",2025-01-17 18:00:00,2025-03-08 18:00:00,1,QA_Invest_2,Environment
+DEV00001,OCT3675,OOS_Result,Minor,"OOS result: assay_percent = 117.5689 % (LSL:95.0, USL:110.0)",2025-01-17 16:00:00,2025-03-28 16:00:00,1,QA_Invest_1,Equipment
+DEV00001,FIB3681,OOS_Result,Minor,"OOS result: osmolality_mOsm_kg = 361.8947 mOsm/kg (LSL:270.0, USL:320.0)",2025-01-20 04:00:00,2025-02-20 04:00:00,1,QA_Invest_1,Under_Investigation
+DEV00001,FIB3687,OOS_Result,Minor,"OOS result: protein_mg_ml = 10.6377 mg/ml (LSL:7.0, USL:10.0)",2025-01-23 09:00:00,2025-03-26 09:00:00,1,QA_Invest_2,Personnel
+DEV00001,OCT3688,OOS_Result,Major,"OOS result: protein_mg_ml = 10.2209 mg/ml (LSL:7.0, USL:10.0)",2025-01-22 17:00:00,2025-02-09 17:00:00,1,QA_Invest_3,Method
+DEV00001,OCT3690,OOS_Result,Minor,"OOS result: fill_volume_ml = 9.2688 ml (LSL:9.5, USL:10.5)",2025-01-21 06:00:00,2025-04-14 06:00:00,1,QA_Invest_1,Personnel
+DEV00001,OCT3690,OOS_Result,Minor,"OOS result: protein_mg_ml = 6.9994 mg/ml (LSL:7.0, USL:10.0)",2025-01-24 06:00:00,2025-04-23 06:00:00,1,QA_Manager,Under_Investigation
+DEV00001,OCT3693,OOS_Result,Minor,"OOS result: assay_percent = 113.5385 % (LSL:95.0, USL:110.0)",2025-01-22 20:00:00,2025-04-12 20:00:00,0,QA_Manager,Environment
+DEV00001,OCT3704,OOS_Result,Major,"OOS result: fill_volume_ml = 10.7016 ml (LSL:9.5, USL:10.5)",2025-01-26 06:00:00,2025-02-16 06:00:00,1,QA_Invest_3,Personnel
+DEV00001,OCT3706,OOS_Result,Major,"OOS result: protein_mg_ml = 3.2814 mg/ml (LSL:7.0, USL:10.0)",2025-08-16 17:55:35,,1,QA_Invest_1,Under_Investigation
+DEV00001,FIB3710,OOS_Result,Minor,"OOS result: assay_percent = 90.5239 % (LSL:95.0, USL:110.0)",2025-01-27 10:00:00,2025-03-26 10:00:00,0,QA_Invest_3,Method
+DEV00001,OCT3714,OOS_Result,Major,"OOS result: protein_mg_ml = 10.0338 mg/ml (LSL:7.0, USL:10.0)",2025-01-28 11:00:00,2025-04-18 11:00:00,1,QA_Invest_3,Material
+DEV00001,OCT3717,OOS_Result,Minor,"OOS result: osmolality_mOsm_kg = 346.2416 mOsm/kg (LSL:270.0, USL:320.0)",2025-01-31 07:00:00,2025-04-03 07:00:00,1,QA_Manager,Material
+DEV00001,FIB3719,OOS_Result,Critical,"OOS result: osmolality_mOsm_kg = 348.8452 mOsm/kg (LSL:270.0, USL:320.0)",2025-01-31 13:00:00,2025-04-22 13:00:00,1,QA_Invest_2,Material
+DEV00001,FIB3733,OOS_Result,Minor,"OOS result: osmolality_mOsm_kg = 269.33 mOsm/kg (LSL:270.0, USL:320.0)",2025-02-04 02:00:00,2025-03-15 02:00:00,0,QA_Manager,Method
+DEV00001,OCT3745,OOS_Result,Minor,"OOS result: osmolality_mOsm_kg = 265.0293 mOsm/kg (LSL:270.0, USL:320.0)",2025-02-06 19:00:00,2025-04-13 19:00:00,1,QA_Manager,Environment
+DEV00001,OCT3745,OOS_Result,Critical,"OOS result: fill_volume_ml = 10.882 ml (LSL:9.5, USL:10.5)",2025-02-07 05:00:00,2025-04-22 05:00:00,1,QA_Manager,Equipment
+DEV00001,OCT3748,OOS_Result,Major,"OOS result: osmolality_mOsm_kg = 326.5755 mOsm/kg (LSL:270.0, USL:320.0)",2025-02-08 14:00:00,2025-04-20 14:00:00,1,MSAT_Lead,Environment
+DEV00001,FIB3749,OOS_Result,Minor,"OOS result: protein_mg_ml = 10.2069 mg/ml (LSL:7.0, USL:10.0)",2025-02-09 14:00:00,2025-02-27 14:00:00,1,QA_Invest_1,Environment
+DEV00001,FIB3750,OOS_Result,Minor,"OOS result: fill_volume_ml = 9.39 ml (LSL:9.5, USL:10.5)",2025-02-08 14:00:00,2025-03-23 14:00:00,1,MSAT_Lead,Method
+DEV00001,OCT3751,OOS_Result,Minor,"OOS result: pH = 6.8521 pH (LSL:6.9, USL:7.4)",2025-02-08 22:00:00,2025-04-20 22:00:00,0,QA_Invest_3,Material
+DEV00001,FIB3760,OOS_Result,Major,"OOS result: assay_percent = 89.0178 % (LSL:95.0, USL:110.0)",2025-02-09 11:00:00,2025-04-20 11:00:00,1,QA_Invest_3,Material
+DEV00001,OCT3769,OOS_Result,Minor,"OOS result: osmolality_mOsm_kg = 257.5614 mOsm/kg (LSL:270.0, USL:320.0)",2025-02-15 11:00:00,2025-04-01 11:00:00,0,MSAT_Lead,Environment
+DEV00001,FIB3770,OOS_Result,Minor,"OOS result: fill_volume_ml = 11.4692 ml (LSL:9.5, USL:10.5)",2025-02-13 14:00:00,2025-04-16 14:00:00,0,QA_Invest_2,Under_Investigation
+DEV00001,FIB3775,OOS_Result,Minor,"OOS result: particulates_per_ml = 56.2297 count/ml (LSL:0.0, USL:50.0)",2025-02-15 18:00:00,2025-04-28 18:00:00,1,QA_Invest_2,Under_Investigation
+DEV00001,OCT3784,OOS_Result,Major,"OOS result: osmolality_mOsm_kg = 327.6638 mOsm/kg (LSL:270.0, USL:320.0)",2025-02-18 08:00:00,2025-04-17 08:00:00,1,QA_Invest_3,Method
+DEV00001,OCT3785,OOS_Result,Major,"OOS result: assay_percent = 118.3421 % (LSL:95.0, USL:110.0)",2025-02-17 11:00:00,2025-05-12 11:00:00,1,QA_Invest_1,Environment
+DEV00001,FIB3799,OOS_Result,Major,"OOS result: protein_mg_ml = 13.9449 mg/ml (LSL:7.0, USL:10.0)",2025-02-21 11:00:00,2025-04-16 11:00:00,1,QA_Manager,Method
+DEV00001,OCT3805,OOS_Result,Minor,"OOS result: protein_mg_ml = 6.9304 mg/ml (LSL:7.0, USL:10.0)",2025-02-23 05:00:00,2025-03-25 05:00:00,0,QA_Manager,Material
+DEV00001,OCT3808,OOS_Result,Minor,"OOS result: osmolality_mOsm_kg = 263.8799 mOsm/kg (LSL:270.0, USL:320.0)",2025-02-25 01:00:00,2025-05-01 01:00:00,0,QA_Invest_2,Personnel
+DEV00001,FIB3815,OOS_Result,Major,"OOS result: protein_mg_ml = 10.0751 mg/ml (LSL:7.0, USL:10.0)",2025-02-26 14:00:00,2025-03-22 14:00:00,1,QA_Invest_3,Material
+DEV00001,OCT3823,OOS_Result,Major,"OOS result: assay_percent = 124.3435 % (LSL:95.0, USL:110.0)",2025-08-14 17:55:35,,1,QA_Invest_2,Under_Investigation
+DEV00001,OCT3823,OOS_Result,Major,"OOS result: protein_mg_ml = 10.2959 mg/ml (LSL:7.0, USL:10.0)",2025-03-01 12:00:00,2025-04-19 12:00:00,1,QA_Invest_3,Under_Investigation
+DEV00001,FIB3825,OOS_Result,Major,"OOS result: pH = 7.7659 pH (LSL:6.9, USL:7.4)",2025-02-28 06:00:00,2025-03-22 06:00:00,1,MSAT_Lead,Material
+DEV00001,OCT3826,OOS_Result,Minor,"OOS result: protein_mg_ml = 6.6064 mg/ml (LSL:7.0, USL:10.0)",2025-03-01 07:00:00,2025-04-22 07:00:00,1,QA_Invest_1,Method
+DEV00001,FIB3836,OOS_Result,Critical,"OOS result: assay_percent = 93.1623 % (LSL:95.0, USL:110.0)",2025-08-19 17:55:35,,1,QA_Invest_1,Under_Investigation
+DEV00001,FIB3836,OOS_Result,Minor,"OOS result: protein_mg_ml = 10.7483 mg/ml (LSL:7.0, USL:10.0)",2025-03-04 04:00:00,2025-03-30 04:00:00,0,QA_Manager,Under_Investigation
+DEV00001,OCT3852,OOS_Result,Major,"OOS result: pH = 7.7023 pH (LSL:6.9, USL:7.4)",2025-03-07 09:00:00,2025-05-02 09:00:00,1,QA_Invest_2,Material
+DEV00001,OCT3852,OOS_Result,Minor,"OOS result: protein_mg_ml = 14.7659 mg/ml (LSL:7.0, USL:10.0)",2025-03-08 01:00:00,2025-05-13 01:00:00,0,QA_Invest_3,Under_Investigation
+DEV00001,OCT3860,OOS_Result,Major,"OOS result: assay_percent = 90.5221 % (LSL:95.0, USL:110.0)",2025-03-10 07:00:00,2025-04-04 07:00:00,1,MSAT_Lead,Method
+DEV00001,OCT3865,OOS_Result,Major,"OOS result: assay_percent = 126.1476 % (LSL:95.0, USL:110.0)",2025-03-11 11:00:00,2025-04-05 11:00:00,1,QA_Invest_2,Personnel
+DEV00001,OCT3866,OOS_Result,Minor,"OOS result: protein_mg_ml = 13.5021 mg/ml (LSL:7.0, USL:10.0)",2025-03-14 09:00:00,2025-04-08 09:00:00,1,QA_Invest_1,Environment
+DEV00001,OCT3868,OOS_Result,Minor,"OOS result: protein_mg_ml = 6.1847 mg/ml (LSL:7.0, USL:10.0)",2025-03-14 05:00:00,2025-05-14 05:00:00,1,QA_Invest_1,Method
+DEV00001,FIB3870,OOS_Result,Minor,"OOS result: pH = 7.6441 pH (LSL:6.9, USL:7.4)",2025-03-10 20:00:00,2025-04-19 20:00:00,1,QA_Invest_2,Equipment
+DEV00001,OCT3875,OOS_Result,Major,"OOS result: pH = 7.4382 pH (LSL:6.9, USL:7.4)",2025-03-14 13:00:00,2025-04-27 13:00:00,1,QA_Manager,Equipment
+DEV00001,OCT3875,OOS_Result,Major,"OOS result: osmolality_mOsm_kg = 386.9342 mOsm/kg (LSL:270.0, USL:320.0)",2025-03-14 19:00:00,2025-05-20 19:00:00,1,MSAT_Lead,Material
+DEV00001,FIB3878,OOS_Result,Major,"OOS result: particulates_per_ml = 50.9374 count/ml (LSL:0.0, USL:50.0)",2025-03-14 16:00:00,2025-04-12 16:00:00,1,MSAT_Lead,Material
+DEV00001,OCT3879,OOS_Result,Minor,"OOS result: endotoxin_eu_ml = 0.5223 EU/ml (LSL:0.0, USL:0.5)",2025-03-16 11:00:00,2025-05-24 11:00:00,1,MSAT_Lead,Personnel
+DEV00001,OCT3884,OOS_Result,Minor,"OOS result: assay_percent = 112.0578 % (LSL:95.0, USL:110.0)",2025-03-15 10:00:00,2025-06-11 10:00:00,0,QA_Manager,Equipment
+DEV00001,OCT3886,OOS_Result,Minor,"OOS result: protein_mg_ml = 6.8362 mg/ml (LSL:7.0, USL:10.0)",2025-03-18 16:00:00,2025-04-02 16:00:00,1,MSAT_Lead,Equipment
+DEV00001,OCT3888,OOS_Result,Major,"OOS result: protein_mg_ml = 4.4919 mg/ml (LSL:7.0, USL:10.0)",2025-03-18 18:00:00,2025-05-22 18:00:00,1,QA_Invest_1,Under_Investigation
+DEV00001,OCT3890,OOS_Result,Minor,"OOS result: protein_mg_ml = 12.8672 mg/ml (LSL:7.0, USL:10.0)",2025-03-18 04:00:00,2025-04-11 04:00:00,0,QA_Invest_3,Method
+DEV00001,FIB3893,OOS_Result,Major,"OOS result: protein_mg_ml = 10.0141 mg/ml (LSL:7.0, USL:10.0)",2025-03-19 18:00:00,2025-05-17 18:00:00,1,QA_Invest_1,Under_Investigation
+DEV00001,FIB3901,OOS_Result,Major,"OOS result: pH = 7.6597 pH (LSL:6.9, USL:7.4)",2025-03-20 03:00:00,2025-05-28 03:00:00,1,MSAT_Lead,Under_Investigation
+DEV00001,OCT3905,OOS_Result,Major,"OOS result: assay_percent = 83.6952 % (LSL:95.0, USL:110.0)",2025-03-22 22:00:00,2025-04-20 22:00:00,1,QA_Invest_1,Method
+DEV00001,OCT3908,OOS_Result,Minor,"OOS result: protein_mg_ml = 10.1026 mg/ml (LSL:7.0, USL:10.0)",2025-03-24 20:00:00,2025-05-14 20:00:00,1,QA_Invest_2,Environment
+DEV00001,OCT3913,OOS_Result,Minor,"OOS result: protein_mg_ml = 4.0804 mg/ml (LSL:7.0, USL:10.0)",2025-03-27 21:00:00,2025-06-12 21:00:00,0,QA_Invest_3,Under_Investigation
+DEV00001,OCT3917,OOS_Result,Major,"OOS result: protein_mg_ml = 10.3711 mg/ml (LSL:7.0, USL:10.0)",2025-03-27 08:00:00,2025-04-11 08:00:00,1,MSAT_Lead,Equipment
+DEV00001,OCT3931,OOS_Result,Minor,"OOS result: osmolality_mOsm_kg = 325.5304 mOsm/kg (LSL:270.0, USL:320.0)",2025-03-31 00:00:00,2025-05-01 00:00:00,1,QA_Manager,Method
+DEV00001,FIB3932,OOS_Result,Major,"OOS result: osmolality_mOsm_kg = 322.9778 mOsm/kg (LSL:270.0, USL:320.0)",2025-03-30 11:00:00,2025-06-24 11:00:00,1,QA_Manager,Equipment
+DEV00001,OCT3938,OOS_Result,Minor,"OOS result: protein_mg_ml = 6.7238 mg/ml (LSL:7.0, USL:10.0)",2025-04-03 00:00:00,2025-04-21 00:00:00,0,QA_Manager,Under_Investigation
+DEV00001,FIB3940,OOS_Result,Major,"OOS result: protein_mg_ml = 6.8264 mg/ml (LSL:7.0, USL:10.0)",2025-04-01 10:00:00,2025-04-17 10:00:00,1,MSAT_Lead,Environment
+DEV00001,OCT3943,OOS_Result,Minor,"OOS result: pH = 7.7325 pH (LSL:6.9, USL:7.4)",2025-03-31 20:00:00,2025-05-09 20:00:00,1,QA_Manager,Personnel
+DEV00001,FIB3945,OOS_Result,Major,"OOS result: osmolality_mOsm_kg = 213.6025 mOsm/kg (LSL:270.0, USL:320.0)",2025-04-04 09:00:00,2025-05-19 09:00:00,1,QA_Invest_1,Under_Investigation
+DEV00001,FIB3945,OOS_Result,Major,"OOS result: protein_mg_ml = 10.0464 mg/ml (LSL:7.0, USL:10.0)",2025-04-02 10:00:00,2025-06-08 10:00:00,1,QA_Invest_3,Material
+DEV00001,OCT3951,OOS_Result,Major,"OOS result: osmolality_mOsm_kg = 322.8745 mOsm/kg (LSL:270.0, USL:320.0)",2025-04-05 18:00:00,2025-04-30 18:00:00,1,QA_Invest_3,Under_Investigation
+DEV00001,OCT3952,OOS_Result,Minor,"OOS result: protein_mg_ml = 10.0211 mg/ml (LSL:7.0, USL:10.0)",2025-04-08 06:00:00,2025-06-25 06:00:00,0,QA_Invest_2,Personnel
+DEV00001,FIB3959,OOS_Result,Minor,"OOS result: assay_percent = 90.4016 % (LSL:95.0, USL:110.0)",2025-04-07 17:00:00,2025-06-06 17:00:00,1,MSAT_Lead,Environment
+DEV00001,OCT3961,OOS_Result,Minor,"OOS result: protein_mg_ml = 10.1233 mg/ml (LSL:7.0, USL:10.0)",2025-04-10 17:00:00,2025-06-11 17:00:00,0,QA_Manager,Method
+DEV00001,OCT3963,OOS_Result,Minor,"OOS result: fill_volume_ml = 9.3447 ml (LSL:9.5, USL:10.5)",2025-04-08 17:00:00,2025-05-02 17:00:00,1,QA_Invest_3,Method
+DEV00001,FIB3964,OOS_Result,Major,"OOS result: protein_mg_ml = 6.4747 mg/ml (LSL:7.0, USL:10.0)",2025-07-22 17:55:35,,1,QA_Invest_2,Under_Investigation
+DEV00001,OCT3967,OOS_Result,Major,"OOS result: osmolality_mOsm_kg = 321.5955 mOsm/kg (LSL:270.0, USL:320.0)",2025-04-09 17:00:00,2025-05-20 17:00:00,1,QA_Manager,Method
+DEV00001,FIB3970,OOS_Result,Minor,"OOS result: protein_mg_ml = 6.9131 mg/ml (LSL:7.0, USL:10.0)",2025-04-11 03:00:00,2025-06-24 03:00:00,1,QA_Invest_3,Material
+DEV00001,OCT3972,OOS_Result,Critical,"OOS result: protein_mg_ml = 6.4196 mg/ml (LSL:7.0, USL:10.0)",2025-04-13 01:00:00,2025-07-08 01:00:00,1,QA_Invest_2,Material
+DEV00001,OCT3979,OOS_Result,Major,"OOS result: protein_mg_ml = 12.5285 mg/ml (LSL:7.0, USL:10.0)",2025-04-13 19:00:00,2025-06-18 19:00:00,1,QA_Manager,Equipment
+DEV00001,FIB3990,OOS_Result,Minor,"OOS result: osmolality_mOsm_kg = 261.9175 mOsm/kg (LSL:270.0, USL:320.0)",2025-04-17 09:00:00,2025-05-03 09:00:00,1,QA_Manager,Material
+DEV00001,OCT3991,OOS_Result,Minor,"OOS result: protein_mg_ml = 3.6803 mg/ml (LSL:7.0, USL:10.0)",2025-04-18 15:00:00,2025-06-08 15:00:00,0,QA_Invest_1,Environment
+DEV00001,OCT3992,OOS_Result,Major,"OOS result: protein_mg_ml = 10.0295 mg/ml (LSL:7.0, USL:10.0)",2025-04-17 15:00:00,2025-06-09 15:00:00,1,QA_Invest_1,Environment
+DEV00001,OCT3993,OOS_Result,Minor,"OOS result: pH = 7.6347 pH (LSL:6.9, USL:7.4)",2025-04-17 07:00:00,2025-05-12 07:00:00,0,QA_Invest_1,Equipment
+DEV00001,FIB3999,OOS_Result,Major,"OOS result: protein_mg_ml = 6.7107 mg/ml (LSL:7.0, USL:10.0)",2025-04-18 15:00:00,2025-06-26 15:00:00,1,QA_Manager,Environment
+DEV00001,OCT4001,OOS_Result,Minor,"OOS result: osmolality_mOsm_kg = 321.8665 mOsm/kg (LSL:270.0, USL:320.0)",2025-04-22 03:00:00,2025-06-06 03:00:00,1,QA_Invest_3,Equipment
+DEV00001,OCT4002,OOS_Result,Minor,"OOS result: particulates_per_ml = 60.2478 count/ml (LSL:0.0, USL:50.0)",2025-04-19 15:00:00,2025-06-23 15:00:00,0,QA_Manager,Under_Investigation
+DEV00001,FIB4003,OOS_Result,Minor,"OOS result: protein_mg_ml = 14.8343 mg/ml (LSL:7.0, USL:10.0)",2025-04-20 10:00:00,2025-05-23 10:00:00,1,QA_Manager,Personnel
+DEV00001,FIB4014,OOS_Result,Minor,"OOS result: protein_mg_ml = 10.0401 mg/ml (LSL:7.0, USL:10.0)",2025-04-24 01:00:00,2025-07-19 01:00:00,1,QA_Invest_3,Environment
+DEV00001,OCT4022,OOS_Result,Minor,"OOS result: protein_mg_ml = 6.9856 mg/ml (LSL:7.0, USL:10.0)",2025-04-27 15:00:00,2025-06-12 15:00:00,0,MSAT_Lead,Material
+DEV00001,FIB4025,OOS_Result,Major,"OOS result: particulates_per_ml = 65.5223 count/ml (LSL:0.0, USL:50.0)",2025-04-26 04:00:00,2025-05-17 04:00:00,1,MSAT_Lead,Equipment
+DEV00001,OCT4038,OOS_Result,Minor,"OOS result: osmolality_mOsm_kg = 372.716 mOsm/kg (LSL:270.0, USL:320.0)",2025-04-29 22:00:00,2025-05-22 22:00:00,1,QA_Invest_3,Environment
+DEV00001,FIB4040,OOS_Result,Major,"OOS result: endotoxin_eu_ml = 0.5204 EU/ml (LSL:0.0, USL:0.5)",2025-04-29 07:00:00,2025-06-27 07:00:00,1,MSAT_Lead,Method
+DEV00001,FIB4042,OOS_Result,Minor,"OOS result: osmolality_mOsm_kg = 219.2069 mOsm/kg (LSL:270.0, USL:320.0)",2025-04-30 20:00:00,2025-05-29 20:00:00,0,QA_Invest_3,Environment
+DEV00001,OCT4044,OOS_Result,Minor,"OOS result: protein_mg_ml = 10.1049 mg/ml (LSL:7.0, USL:10.0)",2025-05-02 15:00:00,2025-05-22 15:00:00,1,QA_Invest_3,Environment
+DEV00001,OCT4046,OOS_Result,Major,"OOS result: protein_mg_ml = 6.6191 mg/ml (LSL:7.0, USL:10.0)",2025-05-02 14:00:00,2025-05-27 14:00:00,1,QA_Invest_3,Under_Investigation
+DEV00001,FIB4048,OOS_Result,Major,"OOS result: protein_mg_ml = 10.1586 mg/ml (LSL:7.0, USL:10.0)",2025-05-02 05:00:00,2025-06-19 05:00:00,1,QA_Invest_3,Equipment
+DEV00001,OCT4052,OOS_Result,Major,"OOS result: protein_mg_ml = 10.2526 mg/ml (LSL:7.0, USL:10.0)",2025-05-02 18:00:00,2025-07-17 18:00:00,1,QA_Invest_3,Under_Investigation
+DEV00001,FIB4056,OOS_Result,Minor,"OOS result: assay_percent = 81.8968 % (LSL:95.0, USL:110.0)",2025-05-02 08:00:00,2025-05-30 08:00:00,0,QA_Invest_1,Method
+DEV00001,FIB4056,OOS_Result,Minor,"OOS result: protein_mg_ml = 10.2361 mg/ml (LSL:7.0, USL:10.0)",2025-05-05 17:00:00,2025-06-05 17:00:00,1,QA_Manager,Under_Investigation
+DEV00001,OCT4059,OOS_Result,Minor,"OOS result: assay_percent = 85.7796 % (LSL:95.0, USL:110.0)",2025-05-04 14:00:00,2025-06-28 14:00:00,0,QA_Manager,Method
+DEV00001,OCT4059,OOS_Result,Major,"OOS result: protein_mg_ml = 6.652 mg/ml (LSL:7.0, USL:10.0)",2025-05-04 05:00:00,2025-06-22 05:00:00,1,QA_Manager,Method
+DEV00001,OCT4060,OOS_Result,Minor,"OOS result: pH = 6.893 pH (LSL:6.9, USL:7.4)",2025-05-04 08:00:00,2025-07-01 08:00:00,0,QA_Invest_1,Personnel
+DEV00001,FIB4063,OOS_Result,Minor,"OOS result: osmolality_mOsm_kg = 321.9807 mOsm/kg (LSL:270.0, USL:320.0)",2025-05-06 05:00:00,2025-06-26 05:00:00,0,MSAT_Lead,Material
+DEV00001,OCT4068,OOS_Result,Major,"OOS result: protein_mg_ml = 14.6933 mg/ml (LSL:7.0, USL:10.0)",2025-05-08 23:00:00,2025-07-20 23:00:00,1,QA_Manager,Material
+DEV00001,OCT4081,OOS_Result,Major,"OOS result: protein_mg_ml = 11.9742 mg/ml (LSL:7.0, USL:10.0)",2025-05-11 00:00:00,2025-07-09 00:00:00,1,QA_Invest_1,Method
+DEV00001,OCT4083,OOS_Result,Minor,"OOS result: osmolality_mOsm_kg = 328.0179 mOsm/kg (LSL:270.0, USL:320.0)",2025-05-12 10:00:00,2025-06-04 10:00:00,0,QA_Invest_2,Material
+DEV00001,OCT4088,OOS_Result,Major,"OOS result: assay_percent = 124.8375 % (LSL:95.0, USL:110.0)",2025-05-11 16:00:00,2025-08-03 16:00:00,1,MSAT_Lead,Method
+DEV00001,FIB4092,OOS_Result,Minor,"OOS result: osmolality_mOsm_kg = 327.5063 mOsm/kg (LSL:270.0, USL:320.0)",2025-05-16 01:00:00,2025-06-28 01:00:00,1,QA_Invest_1,Method
+DEV00001,OCT4098,OOS_Result,Major,"OOS result: protein_mg_ml = 10.5029 mg/ml (LSL:7.0, USL:10.0)",2025-05-16 05:00:00,2025-06-01 05:00:00,1,MSAT_Lead,Method
+DEV00001,OCT4107,OOS_Result,Critical,"OOS result: osmolality_mOsm_kg = 231.5409 mOsm/kg (LSL:270.0, USL:320.0)",2025-05-20 01:00:00,2025-07-08 01:00:00,1,QA_Manager,Under_Investigation
+DEV00001,OCT4108,OOS_Result,Minor,"OOS result: osmolality_mOsm_kg = 320.0231 mOsm/kg (LSL:270.0, USL:320.0)",2025-05-19 16:00:00,2025-08-11 16:00:00,1,QA_Manager,Under_Investigation
+DEV00001,OCT4109,OOS_Result,Minor,"OOS result: protein_mg_ml = 13.2907 mg/ml (LSL:7.0, USL:10.0)",2025-05-18 21:00:00,2025-08-06 21:00:00,1,QA_Invest_3,Environment
+DEV00001,FIB4121,OOS_Result,Major,"OOS result: fill_volume_ml = 11.1861 ml (LSL:9.5, USL:10.5)",2025-05-21 02:00:00,2025-07-02 02:00:00,1,QA_Manager,Personnel
+DEV00001,OCT4129,OOS_Result,Major,"OOS result: osmolality_mOsm_kg = 239.2251 mOsm/kg (LSL:270.0, USL:320.0)",2025-05-25 05:00:00,2025-08-03 05:00:00,1,QA_Manager,Material
+DEV00001,OCT4132,OOS_Result,Minor,"OOS result: osmolality_mOsm_kg = 240.5229 mOsm/kg (LSL:270.0, USL:320.0)",2025-05-28 16:00:00,2025-08-04 16:00:00,0,QA_Manager,Material
+DEV00001,OCT4159,OOS_Result,Minor,"OOS result: particulates_per_ml = 66.0297 count/ml (LSL:0.0, USL:50.0)",2025-06-04 18:00:00,2025-08-26 18:00:00,0,QA_Invest_1,Material
+DEV00001,OCT4162,OOS_Result,Critical,"OOS result: pH = 6.4984 pH (LSL:6.9, USL:7.4)",2025-06-01 18:00:00,2025-08-10 18:00:00,1,QA_Invest_2,Personnel
+DEV00001,FIB4167,OOS_Result,Major,"OOS result: osmolality_mOsm_kg = 207.1016 mOsm/kg (LSL:270.0, USL:320.0)",2025-06-07 15:00:00,2025-06-25 15:00:00,1,QA_Invest_2,Equipment
+DEV00001,OCT4178,OOS_Result,Minor,"OOS result: protein_mg_ml = 6.8983 mg/ml (LSL:7.0, USL:10.0)",2025-06-12 09:00:00,2025-06-23 09:00:00,1,QA_Manager,Method
+DEV00001,OCT4185,OOS_Result,Minor,"OOS result: particulates_per_ml = 58.0383 count/ml (LSL:0.0, USL:50.0)",2025-06-12 02:00:00,2025-07-01 02:00:00,1,QA_Manager,Under_Investigation
+DEV00001,OCT4189,OOS_Result,Major,"OOS result: osmolality_mOsm_kg = 324.3034 mOsm/kg (LSL:270.0, USL:320.0)",2025-06-12 12:00:00,2025-06-28 12:00:00,1,QA_Manager,Equipment
+DEV00001,OCT4189,OOS_Result,Minor,"OOS result: fill_volume_ml = 9.389 ml (LSL:9.5, USL:10.5)",2025-06-10 10:00:00,2025-06-19 10:00:00,1,QA_Manager,Environment
+DEV00001,FIB4190,OOS_Result,Major,"OOS result: protein_mg_ml = 10.0522 mg/ml (LSL:7.0, USL:10.0)",2025-06-11 22:00:00,2025-06-22 22:00:00,1,QA_Invest_1,Method
+DEV00001,OCT4193,OOS_Result,Minor,"OOS result: pH = 7.605 pH (LSL:6.9, USL:7.4)",2025-06-13 00:00:00,2025-06-24 00:00:00,1,QA_Invest_2,Personnel
+DEV00001,OCT4194,OOS_Result,Major,"OOS result: assay_percent = 93.2724 % (LSL:95.0, USL:110.0)",2025-06-10 23:00:00,2025-07-06 23:00:00,1,QA_Manager,Under_Investigation
+DEV00001,FIB4195,OOS_Result,Major,"OOS result: assay_percent = 111.6193 % (LSL:95.0, USL:110.0)",2025-06-11 17:00:00,2025-07-11 17:00:00,1,QA_Manager,Material
+DEV00001,FIB4199,OOS_Result,Major,"OOS result: protein_mg_ml = 6.8076 mg/ml (LSL:7.0, USL:10.0)",2025-06-14 00:00:00,,1,QA_Invest_3,Under_Investigation
+DEV00001,OCT4206,OOS_Result,Minor,"OOS result: osmolality_mOsm_kg = 325.4798 mOsm/kg (LSL:270.0, USL:320.0)",2025-06-15 14:00:00,2025-07-04 14:00:00,1,MSAT_Lead,Under_Investigation
+DEV00001,OCT4207,OOS_Result,Minor,"OOS result: protein_mg_ml = 10.2654 mg/ml (LSL:7.0, USL:10.0)",2025-06-16 09:00:00,2025-07-01 09:00:00,0,QA_Manager,Equipment
+DEV00001,FIB4215,OOS_Result,Minor,"OOS result: protein_mg_ml = 10.8469 mg/ml (LSL:7.0, USL:10.0)",2025-06-18 05:00:00,2025-06-26 05:00:00,0,MSAT_Lead,Environment
+DEV00001,OCT4217,OOS_Result,Minor,"OOS result: protein_mg_ml = 10.3762 mg/ml (LSL:7.0, USL:10.0)",2025-06-20 03:00:00,2025-07-10 03:00:00,0,QA_Invest_3,Equipment
+DEV00001,OCT4219,OOS_Result,Major,"OOS result: osmolality_mOsm_kg = 325.5992 mOsm/kg (LSL:270.0, USL:320.0)",2025-06-22 09:00:00,2025-06-30 09:00:00,1,QA_Manager,Under_Investigation
+DEV00001,OCT4222,OOS_Result,Minor,"OOS result: protein_mg_ml = 13.9475 mg/ml (LSL:7.0, USL:10.0)",2025-06-21 03:00:00,2025-07-01 03:00:00,1,MSAT_Lead,Material
+DEV00001,OCT4223,OOS_Result,Critical,"OOS result: protein_mg_ml = 10.6942 mg/ml (LSL:7.0, USL:10.0)",2025-06-22 05:00:00,2025-07-08 05:00:00,1,QA_Manager,Equipment
+DEV00001,OCT4225,OOS_Result,Critical,"OOS result: particulates_per_ml = 63.3352 count/ml (LSL:0.0, USL:50.0)",2025-06-23 23:00:00,2025-07-13 23:00:00,1,QA_Invest_3,Personnel
+DEV00001,OCT4228,OOS_Result,Minor,"OOS result: protein_mg_ml = 6.9313 mg/ml (LSL:7.0, USL:10.0)",2025-06-21 21:00:00,2025-07-12 21:00:00,0,QA_Manager,Equipment
+DEV00001,OCT4233,OOS_Result,Critical,"OOS result: assay_percent = 81.7841 % (LSL:95.0, USL:110.0)",2025-06-22 22:00:00,2025-08-03 22:00:00,1,QA_Invest_3,Material
+DEV00001,FIB4235,OOS_Result,Minor,"OOS result: osmolality_mOsm_kg = 265.4158 mOsm/kg (LSL:270.0, USL:320.0)",2025-06-24 19:00:00,2025-07-13 19:00:00,1,QA_Invest_1,Under_Investigation
+DEV00001,OCT4238,OOS_Result,Minor,"OOS result: pH = 7.8179 pH (LSL:6.9, USL:7.4)",2025-06-24 08:00:00,2025-07-14 08:00:00,1,QA_Invest_2,Personnel
+DEV00001,OCT4238,OOS_Result,Minor,"OOS result: protein_mg_ml = 6.2229 mg/ml (LSL:7.0, USL:10.0)",2025-06-27 18:00:00,2025-07-08 18:00:00,0,QA_Invest_2,Method
+DEV00001,OCT4246,OOS_Result,Minor,"OOS result: protein_mg_ml = 5.0084 mg/ml (LSL:7.0, USL:10.0)",2025-06-27 11:00:00,2025-07-14 11:00:00,0,QA_Invest_2,Equipment
+DEV00001,OCT4247,OOS_Result,Major,"OOS result: pH = 7.704 pH (LSL:6.9, USL:7.4)",2025-06-26 19:00:00,2025-07-02 19:00:00,1,QA_Invest_3,Environment
+DEV00001,OCT4251,OOS_Result,Major,"OOS result: protein_mg_ml = 10.0795 mg/ml (LSL:7.0, USL:10.0)",2025-06-29 16:00:00,2025-07-22 16:00:00,1,QA_Invest_3,Material
+DEV00001,OCT4254,OOS_Result,Major,"OOS result: osmolality_mOsm_kg = 323.3747 mOsm/kg (LSL:270.0, USL:320.0)",2025-06-30 10:00:00,2025-07-06 10:00:00,1,MSAT_Lead,Personnel
+DEV00001,FIB4257,OOS_Result,Major,"OOS result: osmolality_mOsm_kg = 384.9482 mOsm/kg (LSL:270.0, USL:320.0)",2025-06-30 04:00:00,2025-07-10 04:00:00,1,QA_Invest_3,Personnel
+DEV00001,FIB4261,OOS_Result,Major,"OOS result: osmolality_mOsm_kg = 320.5985 mOsm/kg (LSL:270.0, USL:320.0)",2025-07-02 21:00:00,2025-07-22 21:00:00,1,QA_Invest_2,Equipment
+DEV00001,OCT4268,OOS_Result,Major,"OOS result: protein_mg_ml = 15.5731 mg/ml (LSL:7.0, USL:10.0)",2025-07-01 10:00:00,2025-07-09 10:00:00,1,QA_Manager,Under_Investigation
+DEV00001,OCT4271,OOS_Result,Minor,"OOS result: protein_mg_ml = 6.9978 mg/ml (LSL:7.0, USL:10.0)",2025-07-05 06:00:00,2025-07-13 06:00:00,1,QA_Invest_3,Method
+DEV00001,FIB4273,OOS_Result,Minor,"OOS result: assay_percent = 122.3493 % (LSL:95.0, USL:110.0)",2025-07-03 14:00:00,2025-07-20 14:00:00,0,QA_Invest_1,Equipment
+DEV00001,OCT4274,OOS_Result,Critical,"OOS result: fill_volume_ml = 9.201 ml (LSL:9.5, USL:10.5)",2025-07-02 14:00:00,2025-07-13 14:00:00,1,QA_Invest_1,Material
+DEV00001,FIB4278,OOS_Result,Major,"OOS result: osmolality_mOsm_kg = 192.5508 mOsm/kg (LSL:270.0, USL:320.0)",2025-07-06 21:00:00,2025-07-12 21:00:00,1,QA_Manager,Material
+DEV00001,FIB4278,OOS_Result,Major,"OOS result: fill_volume_ml = 9.1132 ml (LSL:9.5, USL:10.5)",2025-07-05 15:00:00,2025-08-01 15:00:00,1,QA_Invest_3,Environment
+DEV00001,OCT4279,OOS_Result,Minor,"OOS result: protein_mg_ml = 6.8921 mg/ml (LSL:7.0, USL:10.0)",2025-07-07 02:00:00,2025-07-20 02:00:00,1,QA_Manager,Method
+DEV00001,OCT4283,OOS_Result,Major,"OOS result: assay_percent = 85.6764 % (LSL:95.0, USL:110.0)",2025-07-07 07:00:00,2025-07-23 07:00:00,1,QA_Invest_3,Material
+DEV00001,OCT4296,OOS_Result,Minor,"OOS result: osmolality_mOsm_kg = 269.8252 mOsm/kg (LSL:270.0, USL:320.0)",2025-07-10 11:00:00,2025-07-27 11:00:00,0,QA_Invest_3,Method
+DEV00001,FIB4299,OOS_Result,Minor,"OOS result: assay_percent = 124.4203 % (LSL:95.0, USL:110.0)",2025-07-09 16:00:00,2025-07-30 16:00:00,1,MSAT_Lead,Environment
+DEV00001,FIB4304,OOS_Result,Minor,"OOS result: osmolality_mOsm_kg = 325.7078 mOsm/kg (LSL:270.0, USL:320.0)",2025-07-14 06:00:00,2025-07-17 06:00:00,1,MSAT_Lead,Equipment
+DEV00001,OCT4313,OOS_Result,Minor,"OOS result: pH = 7.7883 pH (LSL:6.9, USL:7.4)",2025-07-15 00:00:00,2025-07-26 00:00:00,0,QA_Invest_2,Environment
+DEV00001,FIB4315,OOS_Result,Minor,"OOS result: osmolality_mOsm_kg = 334.6432 mOsm/kg (LSL:270.0, USL:320.0)",2025-07-17 23:00:00,2025-08-04 23:00:00,0,QA_Invest_2,Equipment
+DEV00001,OCT4320,OOS_Result,Critical,"OOS result: assay_percent = 117.8425 % (LSL:95.0, USL:110.0)",2025-07-17 05:00:00,,1,QA_Manager,Under_Investigation
+DEV00001,FIB4322,OOS_Result,Minor,"OOS result: protein_mg_ml = 10.0429 mg/ml (LSL:7.0, USL:10.0)",2025-07-19 05:00:00,2025-07-24 05:00:00,1,QA_Invest_1,Under_Investigation
+DEV00001,OCT4332,OOS_Result,Minor,"OOS result: protein_mg_ml = 10.1589 mg/ml (LSL:7.0, USL:10.0)",2025-07-20 21:00:00,2025-08-02 21:00:00,1,QA_Invest_2,Under_Investigation
+DEV00001,OCT4333,OOS_Result,Minor,"OOS result: protein_mg_ml = 4.7935 mg/ml (LSL:7.0, USL:10.0)",2025-07-20 15:00:00,2025-07-24 15:00:00,1,QA_Invest_3,Under_Investigation
+DEV00001,OCT4336,OOS_Result,Minor,"OOS result: fill_volume_ml = 10.5205 ml (LSL:9.5, USL:10.5)",2025-07-20 19:00:00,2025-07-27 19:00:00,1,QA_Invest_3,Method
+DEV00001,OCT4343,OOS_Result,Minor,"OOS result: protein_mg_ml = 12.1367 mg/ml (LSL:7.0, USL:10.0)",2025-07-25 20:00:00,2025-08-01 20:00:00,0,QA_Invest_1,Material
+DEV00001,OCT4348,OOS_Result,Critical,"OOS result: osmolality_mOsm_kg = 321.9761 mOsm/kg (LSL:270.0, USL:320.0)",2025-07-24 23:00:00,2025-08-30 23:00:00,1,QA_Invest_1,Equipment
+DEV00001,OCT4355,OOS_Result,Major,"OOS result: protein_mg_ml = 6.6216 mg/ml (LSL:7.0, USL:10.0)",2025-07-26 14:00:00,2025-07-31 14:00:00,1,QA_Invest_1,Material
+DEV00001,OCT4359,OOS_Result,Minor,"OOS result: assay_percent = 119.4658 % (LSL:95.0, USL:110.0)",2025-07-26 18:00:00,2025-08-12 18:00:00,1,QA_Invest_2,Equipment
+DEV00001,FIB4363,OOS_Result,Critical,"OOS result: protein_mg_ml = 12.161 mg/ml (LSL:7.0, USL:10.0)",2025-07-28 21:00:00,,1,QA_Invest_3,Under_Investigation
+DEV00001,OCT4374,OOS_Result,Major,"OOS result: protein_mg_ml = 6.8958 mg/ml (LSL:7.0, USL:10.0)",2025-08-01 10:00:00,2025-08-11 10:00:00,1,QA_Invest_3,Personnel
+DEV00001,OCT4383,OOS_Result,Minor,"OOS result: protein_mg_ml = 14.2971 mg/ml (LSL:7.0, USL:10.0)",2025-08-05 00:00:00,2025-08-17 00:00:00,0,QA_Manager,Material
+DEV00001,OCT4384,OOS_Result,Minor,"OOS result: pH = 6.6319 pH (LSL:6.9, USL:7.4)",2025-08-02 01:00:00,2025-08-06 01:00:00,1,MSAT_Lead,Method
+DEV00001,OCT4390,OOS_Result,Minor,"OOS result: protein_mg_ml = 6.9153 mg/ml (LSL:7.0, USL:10.0)",2025-08-06 21:00:00,2025-08-08 21:00:00,0,QA_Invest_3,Material
+DEV00001,OCT4415,OOS_Result,Major,"OOS result: protein_mg_ml = 6.6926 mg/ml (LSL:7.0, USL:10.0)",2025-08-12 18:00:00,2025-08-25 18:00:00,1,QA_Manager,Environment
+DEV00001,OCT4421,OOS_Result,Minor,"OOS result: protein_mg_ml = 6.7464 mg/ml (LSL:7.0, USL:10.0)",2025-08-13 10:00:00,,1,QA_Invest_2,Under_Investigation
+DEV00001,OCT4422,OOS_Result,Major,"OOS result: osmolality_mOsm_kg = 248.2391 mOsm/kg (LSL:270.0, USL:320.0)",2025-08-11 10:00:00,2025-08-24 10:00:00,1,QA_Manager,Material
+DEV00001,OCT4426,OOS_Result,Major,"OOS result: assay_percent = 79.9605 % (LSL:95.0, USL:110.0)",2025-08-12 07:00:00,2025-08-21 07:00:00,1,QA_Invest_3,Environment
+DEV00001,FIB4429,OOS_Result,Minor,"OOS result: protein_mg_ml = 13.0042 mg/ml (LSL:7.0, USL:10.0)",2025-08-14 00:00:00,2025-08-20 00:00:00,1,QA_Invest_3,Under_Investigation
+DEV00001,OCT4436,OOS_Result,Minor,"OOS result: osmolality_mOsm_kg = 370.5979 mOsm/kg (LSL:270.0, USL:320.0)",2025-08-18 16:00:00,2025-08-21 16:00:00,1,QA_Manager,Material
+DEV00001,OCT4442,OOS_Result,Critical,"OOS result: osmolality_mOsm_kg = 353.075 mOsm/kg (LSL:270.0, USL:320.0)",2025-08-20 22:00:00,2025-08-21 22:00:00,1,QA_Invest_3,Material
+DEV00001,OCT4445,OOS_Result,Major,"OOS result: osmolality_mOsm_kg = 242.7658 mOsm/kg (LSL:270.0, USL:320.0)",2025-08-20 20:00:00,2025-08-21 20:00:00,1,QA_Manager,Method
+DEV00001,OCT4447,OOS_Result,Minor,"OOS result: assay_percent = 87.3435 % (LSL:95.0, USL:110.0)",2025-08-20 22:00:00,2025-08-30 22:00:00,0,QA_Invest_2,Environment
+DEV00001,FIB4453,OOS_Result,Critical,"OOS result: assay_percent = 119.5959 % (LSL:95.0, USL:110.0)",2025-08-23 11:00:00,2025-08-25 11:00:00,1,QA_Invest_1,Method
+DEV00001,FIB4453,OOS_Result,Minor,"OOS result: protein_mg_ml = 10.9306 mg/ml (LSL:7.0, USL:10.0)",2025-08-23 11:00:00,2025-09-04 11:00:00,0,QA_Invest_1,Material
+DEV00001,OCT4455,OOS_Result,Minor,"OOS result: assay_percent = 81.2874 % (LSL:95.0, USL:110.0)",2025-08-23 06:00:00,2025-08-29 06:00:00,0,QA_Manager,Environment
+DEV00001,FIB4458,OOS_Result,Minor,"OOS result: protein_mg_ml = 15.0488 mg/ml (LSL:7.0, USL:10.0)",2025-08-24 21:00:00,2025-09-07 21:00:00,1,QA_Manager,Material
+DEV00001,OCT4459,OOS_Result,Minor,"OOS result: protein_mg_ml = 12.0562 mg/ml (LSL:7.0, USL:10.0)",2025-08-24 22:00:00,2025-09-03 22:00:00,1,QA_Invest_2,Environment
+DEV00001,OCT4460,OOS_Result,Minor,"OOS result: osmolality_mOsm_kg = 216.2243 mOsm/kg (LSL:270.0, USL:320.0)",2025-08-25 17:00:00,2025-09-04 17:00:00,1,QA_Invest_1,Equipment
+DEV00001,FIB4461,OOS_Result,Critical,"OOS result: pH = 6.584 pH (LSL:6.9, USL:7.4)",2025-08-24 00:00:00,2025-09-06 00:00:00,1,MSAT_Lead,Personnel
+DEV00001,OCT4467,OOS_Result,Major,"OOS result: pH = 7.7111 pH (LSL:6.9, USL:7.4)",2025-08-27 12:00:00,2025-09-08 12:00:00,1,QA_Invest_3,Method
+DEV00001,OCT4471,OOS_Result,Major,"OOS result: particulates_per_ml = 66.6736 count/ml (LSL:0.0, USL:50.0)",2025-08-27 21:00:00,2025-09-01 21:00:00,1,QA_Invest_2,Under_Investigation
+DEV00001,OCT4479,OOS_Result,Minor,"OOS result: osmolality_mOsm_kg = 325.1004 mOsm/kg (LSL:270.0, USL:320.0)",2025-08-29 15:00:00,2025-09-06 15:00:00,1,QA_Invest_3,Under_Investigation
+DEV00001,FIB4483,OOS_Result,Minor,"OOS result: osmolality_mOsm_kg = 267.2961 mOsm/kg (LSL:270.0, USL:320.0)",2025-08-31 17:00:00,2025-09-06 17:00:00,0,QA_Invest_1,Personnel
+DEV00001,FIB4484,OOS_Result,Minor,"OOS result: fill_volume_ml = 11.1084 ml (LSL:9.5, USL:10.5)",2025-08-30 11:00:00,2025-09-10 11:00:00,1,QA_Invest_1,Equipment
+DEV00001,OCT4485,OOS_Result,Major,"OOS result: osmolality_mOsm_kg = 214.2027 mOsm/kg (LSL:270.0, USL:320.0)",2025-09-03 08:00:00,,1,QA_Invest_3,Under_Investigation
+DEV00001,OCT4485,OOS_Result,Minor,"OOS result: protein_mg_ml = 3.6216 mg/ml (LSL:7.0, USL:10.0)",2025-09-03 15:00:00,2025-09-08 15:00:00,1,MSAT_Lead,Personnel
+DEV00001,OCT4487,OOS_Result,Minor,"OOS result: protein_mg_ml = 12.4135 mg/ml (LSL:7.0, USL:10.0)",2025-09-01 01:00:00,2025-09-15 01:00:00,1,QA_Invest_3,Under_Investigation
+DEV00869,OCT1526,Material,Minor,Component shortage during lot OCT1526 processing,2023-05-28 00:00:00,2023-09-18 00:00:00,0,MSAT_Engineer,Environment
+DEV00870,FIB3587,Equipment,Major,Pump malfunction during lot FIB3587 processing,2025-01-03 00:00:00,2025-01-22 00:00:00,1,Maint_Lead,Equipment
+DEV00871,OCT4285,Material,Major,Vendor quality issue during lot OCT4285 processing,2025-07-09 00:00:00,2025-07-26 00:00:00,1,QA_Invest_1,Material
+DEV00872,OCT2468,System,Minor,Label printing issue during lot OCT2468 processing,2024-03-01 00:00:00,2024-06-18 00:00:00,0,Prod_Super_1,Personnel
+DEV00873,OCT1113,Personnel,Minor,Documentation error during lot OCT1113 processing,2023-02-08 00:00:00,2023-03-25 00:00:00,0,Prod_Super_1,Environment
+DEV00874,OCT2462,System,Minor,Label printing issue during lot OCT2462 processing,2024-02-25 00:00:00,2024-03-25 00:00:00,0,MSAT_Engineer,Environment
+DEV00875,OCT3493,System,Minor,Database error during lot OCT3493 processing,2024-11-30 00:00:00,2025-02-05 00:00:00,1,MSAT_Engineer,Method
+DEV00876,OCT2826,Equipment,Minor,Pressure deviation during lot OCT2826 processing,2024-06-02 00:00:00,2024-07-15 00:00:00,0,Maint_Lead,Equipment
+DEV00877,OCT2925,Equipment,Minor,Temperature excursion during lot OCT2925 processing,2024-07-09 00:00:00,2024-08-21 00:00:00,0,QA_Invest_1,Under_Investigation
+DEV00878,FIB2466,Equipment,Minor,Temperature excursion during lot FIB2466 processing,2024-02-28 00:00:00,2024-05-07 00:00:00,0,QA_Invest_1,Environment
+DEV00879,OCT1757,Equipment,Major,Pump malfunction during lot OCT1757 processing,2023-08-11 00:00:00,2023-12-04 00:00:00,1,Maint_Lead,Environment
+DEV00880,FIB3560,Material,Major,Raw material OOS during lot FIB3560 processing,2024-12-21 00:00:00,2025-01-23 00:00:00,1,Prod_Super_2,System
+DEV00881,FIB2367,System,Major,Database error during lot FIB2367 processing,2024-01-31 00:00:00,2024-02-15 00:00:00,0,QA_Manager,Material
+DEV00882,OCT1380,Material,Minor,Vendor quality issue during lot OCT1380 processing,2023-04-29 00:00:00,2023-06-14 00:00:00,0,QA_Manager,Environment
+DEV00883,OCT2068,Personnel,Major,Documentation error during lot OCT2068 processing,2023-11-03 00:00:00,2024-02-06 00:00:00,1,QA_Manager,Personnel
+DEV00884,FIB1752,Material,Minor,Vendor quality issue during lot FIB1752 processing,2023-08-07 00:00:00,2023-10-23 00:00:00,0,QA_Invest_1,Method
+DEV00885,FIB2545,Material,Major,Vendor quality issue during lot FIB2545 processing,2024-03-14 00:00:00,2024-05-18 00:00:00,0,MSAT_Engineer,Material
+DEV00886,FIB3333,System,Major,Label printing issue during lot FIB3333 processing,2024-10-18 00:00:00,2025-01-14 00:00:00,1,MSAT_Engineer,Personnel
+DEV00887,OCT2262,System,Critical,Software malfunction during lot OCT2262 processing,2023-12-29 00:00:00,2024-03-23 00:00:00,1,QA_Invest_1,Method
+DEV00888,OCT3773,Personnel,Minor,Documentation error during lot OCT3773 processing,2025-02-21 00:00:00,2025-05-26 00:00:00,0,QA_Invest_1,Environment
+DEV00889,OCT3942,Equipment,Minor,Pump malfunction during lot OCT3942 processing,2025-04-01 00:00:00,2025-06-22 00:00:00,1,MSAT_Engineer,Personnel
+DEV00890,OCT4068,Material,Major,Vendor quality issue during lot OCT4068 processing,2025-05-05 00:00:00,2025-08-17 00:00:00,1,Prod_Super_1,Method
+DEV00891,OCT4452,Material,Minor,Component shortage during lot OCT4452 processing,2025-08-29 00:00:00,,0,Prod_Super_1,Under_Investigation
+DEV00892,OCT2622,System,Minor,Label printing issue during lot OCT2622 processing,2024-04-04 00:00:00,2024-08-02 00:00:00,0,QA_Invest_1,Method
+DEV00893,OCT1454,Personnel,Minor,Procedure not followed during lot OCT1454 processing,2023-05-14 00:00:00,2023-06-09 00:00:00,0,QA_Invest_2,Method
+DEV00894,FIB2074,Material,Minor,Raw material OOS during lot FIB2074 processing,2023-11-07 00:00:00,2024-01-07 00:00:00,0,MSAT_Engineer,Environment
+DEV00895,OCT1387,Personnel,Minor,Documentation error during lot OCT1387 processing,2023-05-03 00:00:00,2023-06-19 00:00:00,0,Prod_Super_1,Material
+DEV00896,FIB1803,Personnel,Major,Documentation error during lot FIB1803 processing,2023-08-28 00:00:00,2023-11-09 00:00:00,1,Prod_Super_1,Equipment
+DEV00897,FIB3155,System,Major,Label printing issue during lot FIB3155 processing,2024-09-05 00:00:00,2024-10-20 00:00:00,0,MSAT_Engineer,Environment
+DEV00898,OCT1283,System,Minor,Label printing issue during lot OCT1283 processing,2023-04-01 00:00:00,2023-06-22 00:00:00,0,QA_Invest_1,Material
+DEV00899,FIB3974,System,Minor,Software malfunction during lot FIB3974 processing,2025-04-12 00:00:00,2025-05-16 00:00:00,0,QA_Invest_1,Personnel
+DEV00900,OCT4418,Personnel,Minor,Documentation error during lot OCT4418 processing,2025-08-11 00:00:00,,0,QA_Manager,Under_Investigation
+DEV00901,OCT1326,System,Minor,Label printing issue during lot OCT1326 processing,2023-04-11 00:00:00,2023-05-30 00:00:00,0,Maint_Lead,Equipment
+DEV00902,OCT2882,Personnel,Major,Procedure not followed during lot OCT2882 processing,2024-06-18 00:00:00,2024-08-22 00:00:00,1,QA_Invest_2,Method
+DEV00903,OCT1344,Environment,Minor,HVAC issue during lot OCT1344 processing,2023-04-20 00:00:00,2023-06-08 00:00:00,1,MSAT_Engineer,System
+DEV00904,OCT3897,Equipment,Minor,Pressure deviation during lot OCT3897 processing,2025-03-25 00:00:00,2025-05-18 00:00:00,0,Maint_Lead,Personnel
+DEV00905,OCT1179,System,Major,Database error during lot OCT1179 processing,2023-03-01 00:00:00,2023-03-24 00:00:00,0,QA_Invest_1,Personnel
+DEV00906,FIB2813,Equipment,Minor,Pressure deviation during lot FIB2813 processing,2024-05-30 00:00:00,2024-08-30 00:00:00,0,QA_Manager,Personnel
+DEV00907,OCT1362,Equipment,Major,Temperature excursion during lot OCT1362 processing,2023-04-23 00:00:00,2023-06-29 00:00:00,1,MSAT_Engineer,Method
+DEV00908,OCT4419,Material,Minor,Component shortage during lot OCT4419 processing,2025-08-19 00:00:00,2025-08-30 00:00:00,0,QA_Invest_2,Method
+DEV00909,OCT3912,Material,Major,Raw material OOS during lot OCT3912 processing,2025-03-27 00:00:00,2025-05-23 00:00:00,1,QA_Invest_2,Equipment
+DEV00910,FIB3056,Personnel,Major,Training deviation during lot FIB3056 processing,2024-08-04 00:00:00,2024-09-24 00:00:00,1,QA_Manager,Equipment
+DEV00911,OCT3210,Material,Minor,Raw material OOS during lot OCT3210 processing,2024-09-17 00:00:00,2024-12-17 00:00:00,0,Prod_Super_2,Material
+DEV00912,FIB2808,System,Major,Label printing issue during lot FIB2808 processing,2024-05-31 00:00:00,2024-09-02 00:00:00,1,Prod_Super_1,Personnel
+DEV00913,FIB3629,Equipment,Minor,Pressure deviation during lot FIB3629 processing,2025-01-19 00:00:00,2025-02-07 00:00:00,0,Maint_Lead,System
+DEV00914,FIB1797,Environment,Major,HVAC issue during lot FIB1797 processing,2023-08-23 00:00:00,2023-09-25 00:00:00,1,Maint_Lead,Under_Investigation
+DEV00915,FIB1072,Material,Minor,Raw material OOS during lot FIB1072 processing,2023-01-24 00:00:00,2023-02-27 00:00:00,0,QA_Invest_1,Material
+DEV00916,OCT3081,Environment,Major,HVAC issue during lot OCT3081 processing,2024-08-15 00:00:00,2024-11-13 00:00:00,1,QA_Invest_2,Method
+DEV00917,FIB3945,Equipment,Minor,Temperature excursion during lot FIB3945 processing,2025-04-06 00:00:00,2025-06-10 00:00:00,0,QA_Manager,Equipment
+DEV00918,OCT3281,Material,Minor,Raw material OOS during lot OCT3281 processing,2024-10-04 00:00:00,2024-10-20 00:00:00,0,Maint_Lead,Under_Investigation
+DEV00919,FIB1436,Personnel,Major,Documentation error during lot FIB1436 processing,2023-05-23 00:00:00,2023-07-05 00:00:00,1,Maint_Lead,Environment
+DEV00920,OCT3466,System,Critical,Software malfunction during lot OCT3466 processing,2024-11-30 00:00:00,2025-02-18 00:00:00,1,QA_Invest_1,Equipment
+DEV00921,OCT1491,Material,Major,Raw material OOS during lot OCT1491 processing,2023-05-21 00:00:00,2023-06-21 00:00:00,0,QA_Invest_2,Personnel
+DEV00922,OCT4004,Material,Minor,Component shortage during lot OCT4004 processing,2025-04-22 00:00:00,2025-06-27 00:00:00,0,Maint_Lead,Equipment
+DEV00923,OCT1171,Equipment,Minor,Pump malfunction during lot OCT1171 processing,2023-02-23 00:00:00,2023-04-01 00:00:00,0,QA_Invest_2,Material
+DEV00924,OCT3135,Personnel,Minor,Documentation error during lot OCT3135 processing,2024-09-01 00:00:00,2024-11-27 00:00:00,0,Prod_Super_2,Personnel
+DEV00925,OCT2961,System,Minor,Label printing issue during lot OCT2961 processing,2024-07-22 00:00:00,2024-10-18 00:00:00,1,MSAT_Engineer,Material
+DEV00926,OCT2009,Personnel,Minor,Documentation error during lot OCT2009 processing,2023-10-16 00:00:00,2023-11-26 00:00:00,0,Prod_Super_2,Material
+DEV00927,OCT1826,Material,Minor,Vendor quality issue during lot OCT1826 processing,2023-08-31 00:00:00,2023-11-02 00:00:00,1,MSAT_Engineer,System
+DEV00928,FIB1022,Environment,Major,Clean room breach during lot FIB1022 processing,2023-01-06 00:00:00,2023-04-01 00:00:00,0,QA_Invest_1,Material
+DEV00929,FIB2376,System,Minor,Label printing issue during lot FIB2376 processing,2024-01-30 00:00:00,2024-03-16 00:00:00,0,QA_Manager,Method
+DEV00930,OCT3326,Material,Minor,Vendor quality issue during lot OCT3326 processing,2024-10-20 00:00:00,2025-02-03 00:00:00,0,Maint_Lead,Under_Investigation
+DEV00931,FIB1339,Material,Minor,Vendor quality issue during lot FIB1339 processing,2023-04-13 00:00:00,2023-06-22 00:00:00,0,QA_Manager,System
+DEV00932,FIB2981,Material,Minor,Vendor quality issue during lot FIB2981 processing,2024-07-24 00:00:00,2024-08-12 00:00:00,0,QA_Invest_2,Personnel
+DEV00933,OCT3728,Material,Minor,Component shortage during lot OCT3728 processing,2025-02-07 00:00:00,2025-03-31 00:00:00,0,MSAT_Engineer,Material
+DEV00934,FIB4465,System,Major,Software malfunction during lot FIB4465 processing,2025-08-26 00:00:00,2025-09-04 00:00:00,1,Maint_Lead,Material
+DEV00935,OCT2681,Equipment,Minor,Temperature excursion during lot OCT2681 processing,2024-04-27 00:00:00,2024-05-23 00:00:00,0,QA_Invest_2,Equipment
+DEV00936,FIB3061,Environment,Major,HVAC issue during lot FIB3061 processing,2024-08-10 00:00:00,2024-09-25 00:00:00,1,Maint_Lead,Method
+DEV00937,FIB2116,Material,Minor,Raw material OOS during lot FIB2116 processing,2023-11-23 00:00:00,2023-12-19 00:00:00,0,QA_Invest_1,Environment
+DEV00938,FIB1105,Environment,Minor,HVAC issue during lot FIB1105 processing,2023-02-06 00:00:00,2023-02-28 00:00:00,0,MSAT_Engineer,System
+DEV00939,FIB2301,Equipment,Minor,Filter integrity during lot FIB2301 processing,2024-01-08 00:00:00,2024-03-12 00:00:00,0,MSAT_Engineer,Under_Investigation
+DEV00940,FIB3683,Equipment,Major,Temperature excursion during lot FIB3683 processing,2025-01-22 00:00:00,2025-04-02 00:00:00,1,Prod_Super_1,Equipment
+DEV00941,OCT2688,System,Minor,Software malfunction during lot OCT2688 processing,2024-04-24 00:00:00,2024-08-16 00:00:00,1,Prod_Super_2,Equipment
+DEV00942,FIB3973,Personnel,Minor,Documentation error during lot FIB3973 processing,2025-04-26 00:00:00,2025-07-16 00:00:00,1,Prod_Super_2,Method
+DEV00943,OCT3635,Personnel,Minor,Documentation error during lot OCT3635 processing,2025-01-10 00:00:00,2025-01-27 00:00:00,0,Prod_Super_2,Material
+DEV00944,OCT1268,Environment,Critical,HVAC issue during lot OCT1268 processing,2023-03-20 00:00:00,2023-07-04 00:00:00,1,MSAT_Engineer,Method
+DEV00945,OCT2056,System,Minor,Database error during lot OCT2056 processing,2023-10-29 00:00:00,2024-01-11 00:00:00,0,Prod_Super_2,Personnel
+DEV00946,FIB2930,Environment,Major,Clean room breach during lot FIB2930 processing,2024-07-01 00:00:00,2024-09-23 00:00:00,1,MSAT_Engineer,Equipment
+DEV00947,FIB1547,Material,Minor,Vendor quality issue during lot FIB1547 processing,2023-06-05 00:00:00,2023-08-25 00:00:00,0,Prod_Super_1,Material
+DEV00948,OCT1451,Material,Minor,Vendor quality issue during lot OCT1451 processing,2023-05-11 00:00:00,2023-09-02 00:00:00,0,Maint_Lead,Material
+DEV00949,OCT2217,Environment,Minor,Clean room breach during lot OCT2217 processing,2023-12-21 00:00:00,2024-03-06 00:00:00,0,QA_Invest_1,System
+DEV00950,OCT1931,Equipment,Minor,Temperature excursion during lot OCT1931 processing,2023-10-03 00:00:00,2024-01-30 00:00:00,0,MSAT_Engineer,Under_Investigation
+DEV00951,FIB3799,Personnel,Minor,Training deviation during lot FIB3799 processing,2025-03-03 00:00:00,2025-05-04 00:00:00,0,MSAT_Engineer,Environment
+DEV00952,OCT2874,System,Major,Software malfunction during lot OCT2874 processing,2024-06-24 00:00:00,2024-09-06 00:00:00,1,MSAT_Engineer,Personnel
+DEV00953,FIB2651,Environment,Minor,HVAC issue during lot FIB2651 processing,2024-04-21 00:00:00,2024-07-09 00:00:00,0,QA_Invest_1,System
+DEV00954,OCT2066,Equipment,Minor,Pump malfunction during lot OCT2066 processing,2023-11-14 00:00:00,2023-12-07 00:00:00,0,Prod_Super_2,Material
+DEV00955,OCT2435,Equipment,Major,Pressure deviation during lot OCT2435 processing,2024-02-22 00:00:00,2024-03-28 00:00:00,1,QA_Invest_2,Under_Investigation
+DEV00956,FIB3533,Equipment,Major,Pump malfunction during lot FIB3533 processing,2024-12-20 00:00:00,2025-02-01 00:00:00,1,QA_Invest_2,Material
+DEV00957,OCT1946,Environment,Minor,Clean room breach during lot OCT1946 processing,2023-10-07 00:00:00,2024-01-10 00:00:00,0,Maint_Lead,Environment
+DEV00958,FIB4199,Environment,Minor,Clean room breach during lot FIB4199 processing,2025-06-28 00:00:00,2025-07-28 00:00:00,1,QA_Invest_2,Material
+DEV00959,OCT2216,Material,Minor,Raw material OOS during lot OCT2216 processing,2023-12-22 00:00:00,2024-02-15 00:00:00,0,Maint_Lead,Material
+DEV00960,OCT3159,Environment,Major,HVAC issue during lot OCT3159 processing,2024-09-01 00:00:00,2024-12-23 00:00:00,1,Prod_Super_1,Environment
+DEV00961,OCT3017,Environment,Minor,Clean room breach during lot OCT3017 processing,2024-08-04 00:00:00,2024-10-06 00:00:00,1,QA_Invest_2,Material
+DEV00962,OCT3809,Material,Minor,Component shortage during lot OCT3809 processing,2025-02-27 00:00:00,2025-06-15 00:00:00,0,MSAT_Engineer,Under_Investigation
+DEV00963,OCT4050,Environment,Minor,HVAC issue during lot OCT4050 processing,2025-05-03 00:00:00,2025-07-23 00:00:00,0,Prod_Super_2,Environment
+DEV00964,FIB4074,Material,Minor,Raw material OOS during lot FIB4074 processing,2025-05-18 00:00:00,2025-07-16 00:00:00,0,Prod_Super_2,Method
+DEV00965,OCT3299,Material,Minor,Raw material OOS during lot OCT3299 processing,2024-10-25 00:00:00,2024-11-11 00:00:00,0,Maint_Lead,Personnel
+DEV00966,OCT1197,System,Minor,Database error during lot OCT1197 processing,2023-02-26 00:00:00,2023-03-26 00:00:00,0,QA_Manager,Environment
+DEV00967,OCT2403,System,Minor,Database error during lot OCT2403 processing,2024-02-06 00:00:00,2024-03-14 00:00:00,0,QA_Invest_2,Personnel
+DEV00968,FIB2292,Personnel,Minor,Documentation error during lot FIB2292 processing,2024-01-08 00:00:00,2024-01-27 00:00:00,1,Prod_Super_2,Environment
+DEV00969,OCT4328,Personnel,Minor,Procedure not followed during lot OCT4328 processing,2025-07-23 00:00:00,2025-08-13 00:00:00,0,Prod_Super_2,Environment
+DEV00970,FIB3421,System,Minor,Software malfunction during lot FIB3421 processing,2024-11-20 00:00:00,2025-02-26 00:00:00,0,Prod_Super_2,Equipment
+DEV00971,OCT4131,Environment,Minor,HVAC issue during lot OCT4131 processing,2025-05-28 00:00:00,2025-07-05 00:00:00,0,Prod_Super_2,Method
+DEV00972,OCT4337,Environment,Minor,Contamination risk during lot OCT4337 processing,2025-07-20 00:00:00,2025-08-15 00:00:00,0,Prod_Super_2,Material
+DEV00973,OCT3216,System,Minor,Database error during lot OCT3216 processing,2024-09-20 00:00:00,2024-11-28 00:00:00,0,Maint_Lead,System
+DEV00974,OCT1249,Personnel,Minor,Procedure not followed during lot OCT1249 processing,2023-03-16 00:00:00,2023-06-01 00:00:00,1,Maint_Lead,Under_Investigation
+DEV00975,FIB4257,Material,Minor,Vendor quality issue during lot FIB4257 processing,2025-07-04 00:00:00,2025-07-13 00:00:00,1,QA_Invest_1,Personnel
+DEV00976,OCT3230,Environment,Minor,HVAC issue during lot OCT3230 processing,2024-09-29 00:00:00,2024-12-25 00:00:00,0,Prod_Super_1,Under_Investigation
+DEV00977,OCT3328,Material,Minor,Component shortage during lot OCT3328 processing,2024-10-26 00:00:00,2024-11-14 00:00:00,1,QA_Invest_1,Under_Investigation
+DEV00978,OCT2341,Equipment,Minor,Pressure deviation during lot OCT2341 processing,2024-01-24 00:00:00,2024-03-14 00:00:00,1,Prod_Super_1,Personnel
+DEV00979,FIB2070,System,Minor,Software malfunction during lot FIB2070 processing,2023-11-03 00:00:00,2024-02-18 00:00:00,0,Prod_Super_2,Method
+DEV00980,OCT3440,Material,Major,Vendor quality issue during lot OCT3440 processing,2024-11-29 00:00:00,2025-01-20 00:00:00,1,Maint_Lead,Personnel
+DEV00981,FIB1593,Personnel,Minor,Training deviation during lot FIB1593 processing,2023-06-24 00:00:00,2023-09-02 00:00:00,1,Prod_Super_1,Under_Investigation
+DEV00982,OCT2977,Personnel,Major,Procedure not followed during lot OCT2977 processing,2024-07-27 00:00:00,2024-08-26 00:00:00,1,MSAT_Engineer,Under_Investigation
+DEV00983,FIB3035,Material,Major,Component shortage during lot FIB3035 processing,2024-07-31 00:00:00,2024-08-28 00:00:00,0,QA_Invest_1,Environment
+DEV00984,FIB3018,Personnel,Major,Procedure not followed during lot FIB3018 processing,2024-08-02 00:00:00,2024-09-12 00:00:00,0,QA_Invest_1,Equipment
+DEV00985,OCT1986,Environment,Minor,Clean room breach during lot OCT1986 processing,2023-10-10 00:00:00,2024-02-03 00:00:00,0,Prod_Super_2,Method
+DEV00986,OCT2300,System,Minor,Label printing issue during lot OCT2300 processing,2024-01-15 00:00:00,2024-02-07 00:00:00,0,QA_Invest_2,Equipment
+DEV00987,FIB1160,Personnel,Major,Training deviation during lot FIB1160 processing,2023-02-23 00:00:00,2023-05-03 00:00:00,0,MSAT_Engineer,Material
+DEV00988,OCT2261,Material,Minor,Component shortage during lot OCT2261 processing,2024-01-05 00:00:00,2024-03-07 00:00:00,1,QA_Manager,System
+DEV00989,OCT3479,Personnel,Minor,Documentation error during lot OCT3479 processing,2024-11-26 00:00:00,2025-03-18 00:00:00,1,QA_Manager,Personnel
+DEV00990,OCT2634,Equipment,Minor,Pump malfunction during lot OCT2634 processing,2024-04-14 00:00:00,2024-07-02 00:00:00,0,QA_Invest_2,Equipment
+DEV00991,OCT1608,Personnel,Minor,Procedure not followed during lot OCT1608 processing,2023-07-13 00:00:00,2023-09-02 00:00:00,0,Prod_Super_2,Environment
+DEV00992,FIB4380,System,Minor,Software malfunction during lot FIB4380 processing,2025-08-13 00:00:00,2025-08-17 00:00:00,0,Prod_Super_2,System
+DEV00993,OCT1416,Equipment,Minor,Filter integrity during lot OCT1416 processing,2023-05-05 00:00:00,2023-06-07 00:00:00,0,QA_Invest_2,Environment
+DEV00994,FIB4261,Material,Major,Vendor quality issue during lot FIB4261 processing,2025-06-29 00:00:00,2025-07-07 00:00:00,1,Prod_Super_1,Method
+DEV00995,OCT3211,Personnel,Minor,Training deviation during lot OCT3211 processing,2024-09-14 00:00:00,2024-12-19 00:00:00,0,Prod_Super_2,System
+DEV00996,FIB3447,System,Major,Database error during lot FIB3447 processing,2024-11-16 00:00:00,2025-01-31 00:00:00,1,QA_Invest_1,Material
+DEV00997,OCT1332,Personnel,Critical,Documentation error during lot OCT1332 processing,2023-04-18 00:00:00,2023-05-20 00:00:00,1,Prod_Super_1,Method
+DEV00998,OCT2749,Material,Minor,Vendor quality issue during lot OCT2749 processing,2024-05-14 00:00:00,2024-06-26 00:00:00,1,QA_Manager,Equipment
+DEV00999,OCT3564,Material,Minor,Vendor quality issue during lot OCT3564 processing,2024-12-21 00:00:00,2025-02-22 00:00:00,0,Prod_Super_2,System
+DEV01000,FIB3390,System,Minor,Software malfunction during lot FIB3390 processing,2024-11-07 00:00:00,2025-01-16 00:00:00,0,Prod_Super_1,System
+DEV01001,OCT4376,System,Major,Label printing issue during lot OCT4376 processing,2025-08-12 00:00:00,,0,QA_Invest_1,Under_Investigation
+DEV01002,OCT1514,System,Minor,Database error during lot OCT1514 processing,2023-05-24 00:00:00,2023-06-30 00:00:00,0,QA_Manager,Method
+DEV01003,OCT4138,Personnel,Major,Training deviation during lot OCT4138 processing,2025-05-30 00:00:00,2025-06-15 00:00:00,1,QA_Manager,Method
+DEV01004,FIB3285,Environment,Major,Contamination risk during lot FIB3285 processing,2024-10-09 00:00:00,2025-01-15 00:00:00,1,QA_Invest_1,System
+DEV01005,OCT2412,Personnel,Major,Training deviation during lot OCT2412 processing,2024-02-14 00:00:00,2024-03-15 00:00:00,1,QA_Invest_1,System
+DEV01006,FIB3394,Equipment,Major,Pump malfunction during lot FIB3394 processing,2024-11-06 00:00:00,2024-12-27 00:00:00,1,Prod_Super_2,System
+DEV01007,FIB3671,System,Minor,Database error during lot FIB3671 processing,2025-01-21 00:00:00,2025-03-17 00:00:00,1,QA_Manager,Equipment
+DEV01008,FIB3595,System,Minor,Software malfunction during lot FIB3595 processing,2025-01-10 00:00:00,2025-04-28 00:00:00,1,MSAT_Engineer,Equipment
+DEV01009,FIB4490,Material,Major,Component shortage during lot FIB4490 processing,2025-09-01 00:00:00,2025-09-15 00:00:00,1,QA_Manager,Environment
+DEV01010,FIB3214,System,Minor,Database error during lot FIB3214 processing,2024-09-15 00:00:00,2024-12-04 00:00:00,0,Maint_Lead,Method
+DEV01011,OCT4356,Personnel,Minor,Training deviation during lot OCT4356 processing,2025-07-30 00:00:00,2025-08-07 00:00:00,0,MSAT_Engineer,Under_Investigation
+DEV01012,FIB1013,System,Minor,Label printing issue during lot FIB1013 processing,2023-01-19 00:00:00,2023-03-01 00:00:00,1,QA_Invest_2,Method
+DEV01013,FIB3587,Environment,Critical,Contamination risk during lot FIB3587 processing,2024-12-26 00:00:00,2025-02-12 00:00:00,1,QA_Invest_2,Under_Investigation
+DEV01014,OCT2954,Personnel,Major,Training deviation during lot OCT2954 processing,2024-07-05 00:00:00,2024-09-30 00:00:00,1,QA_Invest_1,Material
+DEV01015,OCT1509,Material,Minor,Component shortage during lot OCT1509 processing,2023-05-28 00:00:00,2023-06-21 00:00:00,0,QA_Invest_1,Under_Investigation
+DEV01016,FIB1540,Material,Major,Raw material OOS during lot FIB1540 processing,2023-06-11 00:00:00,2023-09-05 00:00:00,1,QA_Invest_2,Under_Investigation
+DEV01017,FIB3451,Environment,Minor,Contamination risk during lot FIB3451 processing,2024-11-20 00:00:00,2025-02-11 00:00:00,0,Prod_Super_2,System
+DEV01018,OCT2261,Personnel,Minor,Documentation error during lot OCT2261 processing,2024-01-06 00:00:00,2024-03-05 00:00:00,0,QA_Manager,System
